@@ -1,0 +1,2126 @@
+[
+ {
+  "de": "Wir leben heute ja noch in einer Gesellschaft, die sich um diese Lohnarbeit dreht, um 8 Stunden Lohnarbeit am Tag, und dafür wirst du bezahlt und so weiter.",
+  "ro": "Trăim încă într-o societate care se învârte în jurul acestei munci salariate, în jurul a 8 ore de muncă salariată pe zi, pentru care ești plătit și așa mai departe."
+ },
+ {
+  "de": "Jedenfalls bei den allermeisten Menschen.",
+  "ro": "Cel puțin în cazul marii majorități a oamenilor."
+ },
+ {
+  "de": "Diese 8 Stunden Lohnarbeit werden Schritt für Schritt für Schritt verschwinden.",
+  "ro": "Aceste 8 ore de muncă salariată vor dispărea pas cu pas, treptat."
+ },
+ {
+  "de": "Wir werden mit hoher Wahrscheinlichkeit erleben, dass künstliche Intelligenz intelligenter wird als der Mensch.",
+  "ro": "Cu mare probabilitate vom trăi momentul în care inteligența artificială devine mai inteligentă decât omul."
+ },
+ {
+  "de": "Die größte Veränderung in den Wohnungen des Jahres 2035 ist nicht die Wohnung selbst, sondern zwei neue Mitbewohner.",
+  "ro": "Cea mai mare schimbare în locuințele anului 2035 nu este locuința în sine, ci doi noi colegi de apartament."
+ },
+ {
+  "de": "Also erste Frage: Welche Ausprägung wird das annehmen?",
+  "ro": "Deci prima întrebare: ce formă va lua asta?"
+ },
+ {
+  "de": "Und die zweite Frage: Welche neuen Mitbewohner wird denn jeder Mensch im Jahr 2035 haben?",
+  "ro": "Și a doua întrebare: ce colegi noi de locuință va avea fiecare om în anul 2035?"
+ },
+ {
+  "de": "Sie rechnen damit, dass es im Jahr 2040 mehr von diesen humanoiden Robotern auf der Welt gibt, als es Menschen gibt.",
+  "ro": "Ei estimează că în anul 2040 vor exista în lume mai mulți roboți umanoizi decât oameni."
+ },
+ {
+  "de": "10 Milliarden.",
+  "ro": "10 miliarde."
+ },
+ {
+  "de": "Wahrscheinlich ist das so 2028, 29, und dann kippt das, und die KI kann Schritt für Schritt ganz viele von diesen Dingen besser machen als der Mensch.",
+  "ro": "Probabil pe la 2028, 2029, iar apoi lucrurile se răstoarnă, și IA poate face, pas cu pas, foarte multe dintre aceste lucruri mai bine decât omul."
+ },
+ {
+  "de": "Dann fällt der Mensch erstmal in eine Sinnkrise, in ein Identitätsproblem, und sagt: „Ey, wofür bin ich jetzt eigentlich noch da?“",
+  "ro": "Atunci omul cade mai întâi într-o criză de sens, într-o problemă de identitate, și spune: „Hei, pentru ce mai exist eu de fapt?”"
+ },
+ {
+  "de": "Ja, wenn die KI alles besser macht, wenn irgendwie Eltern irgendeine Entscheidung treffen und die Kinder sagen: „Also, bist du bescheuert, so ohne eine KI zu befragen?“",
+  "ro": "Da, când IA face totul mai bine, când părinții iau o decizie oarecare și copiii le spun: „Ce, ești nebun, fără să întrebi o IA?”"
+ },
+ {
+  "de": "Na klar, das wird so sein.",
+  "ro": "Sigur că da, așa va fi."
+ },
+ {
+  "de": "Wir werden KI in diesen Dingen mehr vertrauen als anderen Menschen.",
+  "ro": "În aceste privințe vom avea mai multă încredere în IA decât în alți oameni."
+ },
+ {
+  "de": "Na ja, dann hat es in der Geschichte in solchen Situationen, in solchen welt- oder gesellschaftsverändernden Momenten auch schon mal wirklich Unruhen und Revolutionen und Kriege gegeben.",
+  "ro": "Ei bine, în istorie au existat deja, în astfel de situații, în astfel de momente care au schimbat lumea sau societatea, tulburări reale, revoluții și războaie."
+ },
+ {
+  "de": "Ich hoffe, wir können das vermeiden.",
+  "ro": "Sper că putem evita asta."
+ },
+ {
+  "de": "Jeder, der glaubt, irgendwie so weiterzumachen wie bisher, der wird einfach schlicht kein Geld haben.",
+  "ro": "Oricine crede că poate continua cumva ca până acum pur și simplu nu va avea bani."
+ },
+ {
+  "de": "Heute habe ich erneut das Vergnügen, mit Sven Gábor Jánszky zu sprechen.",
+  "ro": "Astăzi am din nou plăcerea să vorbesc cu Sven Gábor Jánszky."
+ },
+ {
+  "de": "Sven ist Deutschlands bekanntester Zukunftsforscher und Chairman des 2b AHEAD ThinkTanks, dem größten unabhängigen Zukunftsforschungsinstitut Europas.",
+  "ro": "Sven este cel mai cunoscut futurolog din Germania și președintele think tank-ului 2b AHEAD, cel mai mare institut independent de cercetare a viitorului din Europa."
+ },
+ {
+  "de": "Sven, du hast ein neues Buch veröffentlicht: „2035. Die Zukunft beginnt heute“.",
+  "ro": "Sven, ai publicat o carte nouă: „2035. Viitorul începe azi”."
+ },
+ {
+  "de": "Nach 2020, 2025 und 2030 ist das jetzt also der vierte Band in dieser Reihe.",
+  "ro": "După 2020, 2025 și 2030, acesta este deci al patrulea volum din această serie."
+ },
+ {
+  "de": "Und du schreibst gleich zu Beginn, ich zitiere das einmal: „Nichts ist schlimmer als ein Zukunftsforscher, der seine eigene Meinung für wahrscheinlich hält.“",
+  "ro": "Și scrii chiar de la început, citez: „Nimic nu e mai rău decât un futurolog care își consideră propria opinie ca fiind probabilă.”"
+ },
+ {
+  "de": "„Um dies zu vermeiden, gibt es bei uns seriösen Zukunftsforschern weltweit anerkannte wissenschaftliche Methoden und Standards.“",
+  "ro": "„Pentru a evita asta, noi, futurologii serioși, avem metode și standarde științifice recunoscute la nivel mondial.”"
+ },
+ {
+  "de": "Und eine dieser Methoden ist der Fokus auf Technologien.",
+  "ro": "Iar una dintre aceste metode este concentrarea pe tehnologii."
+ },
+ {
+  "de": "Und du sagst: Politiker kommen und gehen, Kriege beginnen und enden, aber Grundlagentechnologien bestimmen das Leben der Menschen für ganze Generationen.",
+  "ro": "Și spui: politicienii vin și pleacă, războaiele încep și se termină, dar tehnologiile fundamentale determină viața oamenilor pentru generații întregi."
+ },
+ {
+  "de": "Und jetzt gibt es ja genügend Menschen, die sagen: Ja, mit dieser ganzen Technik und KI will ich erstmal nichts zu tun haben, und niemand weiß doch, wie die Welt in 10 Jahren aussieht.",
+  "ro": "Și există destui oameni care spun: cu toată tehnica asta și cu IA nu vreau deocamdată să am nimic de-a face, și oricum nimeni nu știe cum va arăta lumea peste 10 ani."
+ },
+ {
+  "de": "Deswegen, Sven: Was passiert, wenn man diese Entwicklungen, die du hier beschreibst, jetzt einfach ignoriert?",
+  "ro": "De aceea, Sven: ce se întâmplă dacă pur și simplu ignori aceste evoluții pe care le descrii aici?"
+ },
+ {
+  "de": "Und wie funktioniert das überhaupt, die Zukunft in 10 Jahren prognostizieren zu können?",
+  "ro": "Și cum funcționează de fapt să poți prognoza viitorul peste 10 ani?"
+ },
+ {
+  "de": "Also, du hast da jetzt zwei Glaubenssätze beschrieben, die wirklich weit verbreitet sind, die aber aus Sicht eines wissenschaftlichen Zukunftsforschers tatsächlich der größte Quatsch sind.",
+  "ro": "Deci, ai descris acum două convingeri care sunt într-adevăr foarte răspândite, dar care, din perspectiva unui futurolog științific, sunt de fapt cea mai mare prostie."
+ },
+ {
+  "de": "Ja, erstens, dass man Zukunft nicht prognostizieren kann, und zweitens, dass man das irgendwie ruhig aussitzen und auf sich zukommen lassen kann.",
+  "ro": "Da, în primul rând, că viitorul nu poate fi prognozat, și în al doilea rând, că poți cumva să aștepți liniștit și să lași lucrurile să vină de la sine."
+ },
+ {
+  "de": "Was passiert, wenn man das macht?",
+  "ro": "Ce se întâmplă dacă faci asta?"
+ },
+ {
+  "de": "Dann muss man eine Zukunft, die natürlich trotzdem kommt, so nehmen, wie andere Menschen sie gestaltet haben.",
+  "ro": "Atunci trebuie să accepți un viitor, care oricum vine, așa cum l-au modelat alți oameni."
+ },
+ {
+  "de": "Und wenn man das Buch ernst nimmt, dann versteht man, dass wir im Jahr 2035, also in nicht mal mehr 10 Jahren, in eine Situation kommen, in der die menschliche Lohnarbeit – also das, was wir heute entweder am Schreibtisch oder am Fließband oder wo auch immer wir tätig sind, tun und wofür wir bezahlt werden – …",
+  "ro": "Și dacă iei cartea în serios, înțelegi că în anul 2035, adică în nici măcar 10 ani, vom ajunge într-o situație în care munca salariată umană – adică ceea ce facem azi la birou, la banda de montaj sau oriunde lucrăm și pentru care suntem plătiți – …"
+ },
+ {
+  "de": "Ja, wir leben heute ja noch in einer Gesellschaft, die sich um diese Lohnarbeit dreht, um 8 Stunden Lohnarbeit am Tag, und dafür wirst du bezahlt und so weiter.",
+  "ro": "Da, trăim încă într-o societate care se învârte în jurul acestei munci salariate, în jurul a 8 ore de muncă salariată pe zi, pentru care ești plătit și așa mai departe."
+ },
+ {
+  "de": "Jedenfalls bei den allermeisten Menschen.",
+  "ro": "Cel puțin în cazul marii majorități a oamenilor."
+ },
+ {
+  "de": "Diese 8 Stunden Lohnarbeit werden Schritt für Schritt für Schritt verschwinden.",
+  "ro": "Aceste 8 ore de muncă salariată vor dispărea pas cu pas, treptat."
+ },
+ {
+  "de": "Im Jahr 2035 sind sie noch nicht ganz weg, aber in dem Buch liest man oder versteht man, dass 2035 so der Kipppunkt ist, an dem es wirklich ernsthaft wird.",
+  "ro": "În 2035 nu vor fi dispărut complet, dar în carte citești sau înțelegi că 2035 este cam punctul de basculare în care lucrurile devin cu adevărat serioase."
+ },
+ {
+  "de": "Und das heißt nicht, dass dann die Welt untergeht und alles ganz schlimm ist.",
+  "ro": "Și asta nu înseamnă că atunci lumea se prăbușește și totul e foarte rău."
+ },
+ {
+  "de": "Nee, das heißt einfach nur, dass die Wertschöpfung, die in der Welt entsteht, nicht mehr aus menschlicher Lohnarbeit entsteht, sondern aus Kapitaleinsatz – Kapitaleinsatz in künstliche Intelligenz, in Roboter, in diese ganzen Technologien.",
+  "ro": "Nu, înseamnă doar că valoarea creată în lume nu mai provine din munca salariată umană, ci din investiții de capital – capital investit în inteligență artificială, în roboți, în toate aceste tehnologii."
+ },
+ {
+  "de": "Das heißt, wir werden innerhalb der nächsten 10, wahrscheinlich sogar 20 Jahre eine riesige Steigerung der Wertschöpfung haben.",
+  "ro": "Asta înseamnă că în următorii 10, probabil chiar 20 de ani, vom avea o creștere uriașă a valorii create."
+ },
+ {
+  "de": "Ja, die Leute im Silicon Valley, Elon Musk und so, die gehen davon aus, dass wir in den nächsten 10 Jahren das Bruttoinlandsprodukt der Welt verhundertfachen.",
+  "ro": "Da, oamenii din Silicon Valley, Elon Musk și ceilalți, pornesc de la ideea că în următorii 10 ani vom înmulți de o sută de ori produsul intern brut al lumii."
+ },
+ {
+  "de": "Das ist irre.",
+  "ro": "E nebunesc."
+ },
+ {
+  "de": "Also, es geht richtig hoch.",
+  "ro": "Deci, crește cu adevărat mult."
+ },
+ {
+  "de": "Viel mehr Geld, viel mehr Produktivität, nur eben nicht durch Lohnarbeit, sondern durch Kapitaleinsatz.",
+  "ro": "Mult mai mulți bani, mult mai multă productivitate, doar că nu prin muncă salariată, ci prin investiții de capital."
+ },
+ {
+  "de": "So.",
+  "ro": "Așa."
+ },
+ {
+  "de": "Und was heißt das für jeden von uns?",
+  "ro": "Și ce înseamnă asta pentru fiecare dintre noi?"
+ },
+ {
+  "de": "Jeder, der glaubt, irgendwie so weiterzumachen wie bisher, der wird einfach schlicht kein Geld haben.",
+  "ro": "Oricine crede că poate continua cumva ca până acum pur și simplu nu va avea bani."
+ },
+ {
+  "de": "Ja, muss man einfach so deutlich sagen.",
+  "ro": "Da, trebuie spus pur și simplu atât de clar."
+ },
+ {
+  "de": "Jeder, der es zeitig versteht, sich selbst, sein Leben, sein Wissen, seine Kenntnisse, aber natürlich auch sein Geld zu verbinden mit dem, was da stark wächst, nämlich mit dieser Technologie, der wird in den nächsten 10 bis 20 Jahren so stark wachsen wie wahrscheinlich noch nie in der Menschheitsgeschichte.",
+  "ro": "Oricine înțelege la timp să se conecteze pe sine, viața sa, cunoștințele sale, competențele sale, dar desigur și banii săi, cu ceea ce crește puternic, adică cu această tehnologie, va crește în următorii 10–20 de ani mai mult decât probabil s-a întâmplat vreodată în istoria omenirii."
+ },
+ {
+  "de": "Ja, wir sind an so einem Punkt, wo sich ganz viel verändert.",
+  "ro": "Da, suntem într-un punct în care se schimbă foarte multe."
+ },
+ {
+  "de": "Und die, die daran teilnehmen, die werden ganz viel Spaß damit haben, und die, die nicht daran teilnehmen, die werden ganz viele Probleme damit haben.",
+  "ro": "Iar cei care participă se vor bucura foarte mult de asta, iar cei care nu participă vor avea foarte multe probleme din cauza asta."
+ },
+ {
+  "de": "Ja, genau.",
+  "ro": "Da, exact."
+ },
+ {
+  "de": "Deswegen ist es ja eben wichtig, sich heute schon mit 2035 auseinanderzusetzen, dass man eben nicht unvorbereitet in die Welt einfach hineinstolpert.",
+  "ro": "De aceea e important să te ocupi încă de azi de 2035, ca să nu te împiedici nepregătit în această lume."
+ },
+ {
+  "de": "Du beschreibst 18 Bereiche des ganz normalen Lebens in dem Buch, und ich will mit dir heute mal so oberflächlich über die wichtigsten Dinge sprechen und mich mit dir auf die wichtigsten Bereiche fokussieren.",
+  "ro": "În carte descrii 18 domenii ale vieții de zi cu zi, iar azi vreau să discut cu tine, mai pe scurt, despre cele mai importante lucruri și să mă concentrez împreună cu tine pe cele mai importante domenii."
+ },
+ {
+  "de": "Und der erste ist natürlich Technologie.",
+  "ro": "Iar primul este, desigur, tehnologia."
+ },
+ {
+  "de": "Du skizzierst hier drei Felder, die alles bestimmen werden: also die Elektrifizierung der Energieversorgung, künstliche Intelligenz und synthetische Biologie.",
+  "ro": "Schițezi aici trei domenii care vor determina totul: electrificarea aprovizionării cu energie, inteligența artificială și biologia sintetică."
+ },
+ {
+  "de": "Wieso sind es ausgerechnet diese drei Felder, die 2035 wirklich definieren werden?",
+  "ro": "De ce tocmai aceste trei domenii vor defini cu adevărat anul 2035?"
+ },
+ {
+  "de": "Ich fange mal von hinten an, mit der synthetischen Biologie.",
+  "ro": "Încep de la coadă, cu biologia sintetică."
+ },
+ {
+  "de": "Also, synthetische Biologie klingt ein bisschen komisch.",
+  "ro": "Deci, biologia sintetică sună puțin ciudat."
+ },
+ {
+  "de": "Meint im Prinzip, dass der Mensch inzwischen die Macht hat und weiß, wie man in den Wachstumsprozess von biologischen Dingen eingreift, also von Pflanzen, von Tieren und in den menschlichen Körper.",
+  "ro": "În principiu înseamnă că omul are acum puterea și știe cum să intervină în procesul de creștere al lucrurilor biologice, adică al plantelor, al animalelor și în corpul uman."
+ },
+ {
+  "de": "Ja, wir können inzwischen sogar teilweise den Alterungsprozess wieder zurückdrehen.",
+  "ro": "Da, între timp putem chiar, parțial, să dăm înapoi procesul de îmbătrânire."
+ },
+ {
+  "de": "Auch das gibt es schon.",
+  "ro": "Și asta există deja."
+ },
+ {
+  "de": "Ja, also innerhalb dieses Bereiches gibt es ganz viele Technologien, die werden dafür sorgen, dass Menschen, die im Jahr 2035 noch halbwegs gesund leben und gesund sind, eine Lebenserwartung von 100 Jahren haben.",
+  "ro": "Da, deci în cadrul acestui domeniu există foarte multe tehnologii care vor face ca oamenii care în 2035 încă trăiesc relativ sănătos și sunt sănătoși să aibă o speranță de viață de 100 de ani."
+ },
+ {
+  "de": "Und nach 2035 steigt es weiter auf 120, vielleicht sogar 150.",
+  "ro": "Iar după 2035 crește în continuare la 120, poate chiar 150."
+ },
+ {
+  "de": "Dafür sorgen diese ganzen Technologien innerhalb der synthetischen Biologie, was natürlich eine enorme Auswirkung auf das Leben der Menschen hat.",
+  "ro": "De asta se ocupă toate aceste tehnologii din biologia sintetică, ceea ce desigur are un impact enorm asupra vieții oamenilor."
+ },
+ {
+  "de": "Ja, stell dir vor, wir kriegen sozusagen 50 % der bisherigen Lebensspanne von ungefähr 80 innerhalb von einer Generation hinten ran.",
+  "ro": "Da, imaginează-ți, primim, ca să zic așa, în decurs de o singură generație încă 50% din durata de viață de până acum, de aproximativ 80 de ani, adăugate la final."
+ },
+ {
+  "de": "Das ist irre.",
+  "ro": "E nebunesc."
+ },
+ {
+  "de": "Also, was das erstmal für das persönliche Leben, für die Lebensgestaltung bedeutet: Was macht man in diesen dazugewonnenen 40 Jahren überhaupt?",
+  "ro": "Deci, ce înseamnă asta mai întâi pentru viața personală, pentru felul în care îți organizezi viața: ce faci de fapt în acești 40 de ani câștigați?"
+ },
+ {
+  "de": "Ja, ist man da produktiv?",
+  "ro": "Da, ești productiv atunci?"
+ },
+ {
+  "de": "Hat man da Spaß?",
+  "ro": "Te distrezi atunci?"
+ },
+ {
+  "de": "Das hat riesige Auswirkungen natürlich auch auf die Wirtschaft, riesige neue Märkte entstehen und so weiter.",
+  "ro": "Asta are, desigur, efecte uriașe și asupra economiei, apar piețe noi uriașe și așa mai departe."
+ },
+ {
+  "de": "Also, man kann gar nicht hoch genug schätzen in der Bedeutung, was diese Technologien mit sich bringen.",
+  "ro": "Deci, nu poți supraestima importanța a ceea ce aduc cu ele aceste tehnologii."
+ },
+ {
+  "de": "Die zweite Technologie, die so Grundlage ist, ist natürlich die künstliche Intelligenz.",
+  "ro": "A doua tehnologie fundamentală este, desigur, inteligența artificială."
+ },
+ {
+  "de": "Wir werden innerhalb der nächsten 10 Jahre mit hoher Wahrscheinlichkeit erleben, dass die künstliche Intelligenz … – also ich rede jetzt nicht von dem heutigen ChatGPT und Co., sondern ich rede von der Weiterentwicklung.",
+  "ro": "În următorii 10 ani vom trăi cu mare probabilitate momentul în care inteligența artificială … – deci nu vorbesc acum de ChatGPT-ul de azi și altele asemenea, ci de evoluția lor ulterioară."
+ },
+ {
+  "de": "Wir werden mit hoher Wahrscheinlichkeit erleben, dass künstliche Intelligenz intelligenter wird als der Mensch, als die menschliche Intelligenz.",
+  "ro": "Cu mare probabilitate vom trăi momentul în care inteligența artificială devine mai inteligentă decât omul, decât inteligența umană."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil die Indizien alle darauf hindeuten.",
+  "ro": "Pentru că toate indiciile arată în direcția asta."
+ },
+ {
+  "de": "Ein Indiz, damit wir sozusagen vom selben reden:",
+  "ro": "Un indiciu, ca să vorbim, ca să zic așa, despre același lucru:"
+ },
+ {
+  "de": "Ein guter Bekannter von mir, der Richard Socher im Silicon Valley, der war über viele Jahre der Chief Scientist bei Salesforce und so weiter, also einer der Superstars der KI im Silicon Valley.",
+  "ro": "Un bun cunoscut de-al meu, Richard Socher din Silicon Valley, a fost mulți ani Chief Scientist la Salesforce și așa mai departe, deci unul dintre superstarurile IA din Silicon Valley."
+ },
+ {
+  "de": "Der hat gerade vor 2 Monaten, 8 Wochen ungefähr, ein Startup gegründet.",
+  "ro": "El a fondat acum vreo 2 luni, cam 8 săptămâni, un startup."
+ },
+ {
+  "de": "Das hatte am ersten Tag, am Tag der Gründung, eine Bewertung von 4,5 Milliarden US-Dollar, heißt Recursive.",
+  "ro": "Acesta avea din prima zi, în ziua înființării, o evaluare de 4,5 miliarde de dolari americani; se numește Recursive."
+ },
+ {
+  "de": "Warum haben die diese Riesenbewertung?",
+  "ro": "De ce au această evaluare uriașă?"
+ },
+ {
+  "de": "Weil am ersten Tag sozusagen, also in der ersten Finanzierungsrunde, Google und Investoren rund um Google über 600 Millionen US-Dollar da reingesteckt haben, eben zu dieser Bewertung.",
+  "ro": "Pentru că, ca să zic așa, din prima zi, adică în prima rundă de finanțare, Google și investitori din jurul Google au băgat acolo peste 600 de milioane de dolari, tocmai la această evaluare."
+ },
+ {
+  "de": "Warum haben sie das gemacht?",
+  "ro": "De ce au făcut asta?"
+ },
+ {
+  "de": "Weil dem Richard zugetraut wird, dass er und sein Team die erste sich wirklich selbst weiterentwickelnde KI bauen.",
+  "ro": "Pentru că lui Richard i se recunoaște capacitatea ca el și echipa lui să construiască prima IA care se dezvoltă cu adevărat singură."
+ },
+ {
+  "de": "Und wenn das gelingt, also eine sich selbst weiterentwickelnde KI, dann entwickelt die sich immer weiter, immer weiter, irgendwann über das menschliche Niveau hinaus, dann wäre das die erste Superintelligenz, also ASI, ja, Artificial Superintelligence, die es geben würde.",
+  "ro": "Și dacă reușește asta, deci o IA care se dezvoltă singură, atunci ea evoluează tot mai departe, tot mai departe, până la un moment dat dincolo de nivelul uman, și atunci aceasta ar fi prima superinteligență, adică ASI, Artificial Superintelligence, care ar exista."
+ },
+ {
+  "de": "Und deshalb hat das diese Riesenbewertung.",
+  "ro": "Și de aceea are această evaluare uriașă."
+ },
+ {
+  "de": "Also, dass das in den nächsten 10 Jahren gelingt, ist hochwahrscheinlich.",
+  "ro": "Deci, faptul că asta va reuși în următorii 10 ani este foarte probabil."
+ },
+ {
+  "de": "Keine Garantie, aber hochwahrscheinlich.",
+  "ro": "Nicio garanție, dar foarte probabil."
+ },
+ {
+  "de": "Und dann verändert sich logischerweise für den Menschen total viel.",
+  "ro": "Și atunci, logic, se schimbă enorm de multe pentru om."
+ },
+ {
+  "de": "So.",
+  "ro": "Așa."
+ },
+ {
+  "de": "Und jetzt die dritte, die Grundlage von allem, also die Grundlage sowohl von diesen medizinischen Technologien, aber natürlich auch von dieser künstlichen Intelligenz, ist: Wir brauchen genug Energie.",
+  "ro": "Și acum a treia, fundamentul a tot, adică fundamentul atât al acestor tehnologii medicale, cât și, desigur, al inteligenței artificiale, este: avem nevoie de suficientă energie."
+ },
+ {
+  "de": "Ich sag's mal ganz einfach: Intelligenz ist das Produkt aus Energie.",
+  "ro": "O spun foarte simplu: inteligența este produsul energiei."
+ },
+ {
+  "de": "Du kannst Energie durch ein bestimmtes System umwandeln in Intelligenz.",
+  "ro": "Poți transforma energia, printr-un anumit sistem, în inteligență."
+ },
+ {
+  "de": "Der Mensch, der menschliche Körper ist auch so ein Energiesystem.",
+  "ro": "Omul, corpul uman, este și el un astfel de sistem energetic."
+ },
+ {
+  "de": "Ja, wir produzieren Energie und wandeln sie durch unser Hirn um in Intelligenz.",
+  "ro": "Da, producem energie și o transformăm prin creierul nostru în inteligență."
+ },
+ {
+  "de": "Der menschliche Körper ist über viele, viele hunderttausende Jahre, Millionen Jahre irgendwie sehr resistent, ja, hat sich durchgesetzt, aber er hat ein begrenztes Energielimit.",
+  "ro": "Corpul uman este, de-a lungul multor sute de mii de ani, milioane de ani, foarte rezistent, da, s-a impus, dar are o limită energetică restrânsă."
+ },
+ {
+  "de": "Die künstliche Intelligenz auf der anderen Seite ist genau ein System, was einfach nur Energie in Intelligenz umwandelt, braucht aber externe Energie, braucht Strom.",
+  "ro": "Inteligența artificială, pe de altă parte, este exact un sistem care pur și simplu transformă energia în inteligență, dar are nevoie de energie externă, are nevoie de curent electric."
+ },
+ {
+  "de": "Ja, deshalb reden wir von der Elektrifizierung der Energie.",
+  "ro": "Da, de aceea vorbim despre electrificarea energiei."
+ },
+ {
+  "de": "Es geht nicht mehr um Gas und Öl und irgendwas.",
+  "ro": "Nu mai e vorba de gaz, petrol și altele."
+ },
+ {
+  "de": "Es geht darum, richtig Strom zu produzieren.",
+  "ro": "E vorba de a produce cu adevărat curent electric."
+ },
+ {
+  "de": "Das ist die Grundlage.",
+  "ro": "Acesta este fundamentul."
+ },
+ {
+  "de": "Wenn wir das nicht schaffen, dann passiert das andere alles nicht oder viel langsamer.",
+  "ro": "Dacă nu reușim asta, atunci tot restul nu se întâmplă sau se întâmplă mult mai încet."
+ },
+ {
+  "de": "Aber die Wahrscheinlichkeit, dass wir das schaffen, ist total hoch.",
+  "ro": "Dar probabilitatea să reușim este foarte mare."
+ },
+ {
+  "de": "Als wir das letzte Mal geredet haben, haben wir schon kurz darüber geredet, ja: Die Wahrscheinlichkeit, dass wir 2040 mehr Energie zur Verfügung haben auf der Welt, als die Welt dann verbrauchen kann, obwohl bis dahin der Weltverbrauch an Energie noch mal um das Dreifache steigt, ist total hoch.",
+  "ro": "Când am vorbit ultima dată, am atins deja pe scurt subiectul, da: probabilitatea ca în 2040 să avem la dispoziție în lume mai multă energie decât poate consuma lumea atunci, deși până atunci consumul mondial de energie se va tripla, este foarte mare."
+ },
+ {
+  "de": "Ja, wir werden mehr Energie haben durch Technologien; Kernfusion spielt da die größte Rolle.",
+  "ro": "Da, vom avea mai multă energie datorită tehnologiilor; fuziunea nucleară joacă aici rolul cel mai important."
+ },
+ {
+  "de": "Na ja, und deshalb sind das die drei Grundlagentechnologien, und unter denen finden sozusagen dann all die anderen Technologien und die ganzen Anwendungen dieser Technologien statt.",
+  "ro": "Ei bine, și de aceea acestea sunt cele trei tehnologii fundamentale, iar sub ele, ca să zic așa, se desfășoară apoi toate celelalte tehnologii și toate aplicațiile acestor tehnologii."
+ },
+ {
+  "de": "Das ist das, worauf man aufpassen muss, wo man drauf schauen muss, wenn man sich verbinden will mit dem, was wirklich stark in der Welt wächst.",
+  "ro": "La asta trebuie să fii atent, la asta trebuie să te uiți dacă vrei să te conectezi cu ceea ce crește cu adevărat puternic în lume."
+ },
+ {
+  "de": "Und ehrlich gesagt, man kann sich heute schon verbinden.",
+  "ro": "Și sincer vorbind, te poți conecta încă de azi."
+ },
+ {
+  "de": "Ja, das ist deine Einstiegsfrage: Muss man dazu gucken?",
+  "ro": "Da, asta era întrebarea ta de început: trebuie să stai doar să privești?"
+ },
+ {
+  "de": "Nee, man muss nicht, also man kann heute da investieren, egal ob in Kernfusion oder in medizinische Technologien oder in KI, na klar.",
+  "ro": "Nu, nu trebuie; poți investi încă de azi, fie în fuziune nucleară, fie în tehnologii medicale sau în IA, sigur că da."
+ },
+ {
+  "de": "Man kann da Firmen gründen, man kann seine Kinder auf irgendwelche Universitäten oder in irgendwelche Kurse, Onlinekurse schicken, das kann man alles machen.",
+  "ro": "Poți înființa firme în domeniu, îți poți trimite copiii la universități sau la cursuri, cursuri online – toate astea le poți face."
+ },
+ {
+  "de": "Man kann sich heute mit diesen Technologien verbinden.",
+  "ro": "Te poți conecta încă de azi cu aceste tehnologii."
+ },
+ {
+  "de": "Wusstest du, dass das komplette Growth Marketing von Claude über 10 Monate lang eine einzige Person verantwortet hat, und zwar in der Phase, in der das Unternehmen von 150 Millionen auf 7 Milliarden Dollar Jahresumsatz gewachsen ist?",
+  "ro": "Știai că întregul growth marketing al lui Claude a fost gestionat timp de 10 luni de o singură persoană, și anume în perioada în care compania a crescut de la 150 de milioane la 7 miliarde de dolari cifră de afaceri anuală?"
+ },
+ {
+  "de": "Austin Lau hatte davor nie eine Zeile Code geschrieben und musste anfangs sogar googeln, wie man auf dem Mac überhaupt das Terminal öffnet, und er erzeugt heute hunderte Creatives in Minuten, weil er sein Marketing nicht mehr selbst umsetzt, sondern Agenten führt, die für ihn arbeiten.",
+  "ro": "Austin Lau nu scrisese niciodată înainte o linie de cod și la început a trebuit chiar să caute pe Google cum se deschide terminalul pe Mac, iar azi produce sute de materiale creative în câteva minute, pentru că nu își mai implementează singur marketingul, ci coordonează agenți care lucrează pentru el."
+ },
+ {
+  "de": "Der zweitgrößte Werbekonzern der Welt hat währenddessen in 12 Monaten 9000 Stellen abgebaut, und beides liegt daran, dass KI-Agenten das Marketing fundamental verändert haben.",
+  "ro": "Între timp, al doilea cel mai mare grup de publicitate din lume a desființat 9000 de posturi în 12 luni, iar ambele se datorează faptului că agenții IA au schimbat fundamental marketingul."
+ },
+ {
+  "de": "Das Problem ist aber, die wenigsten wissen, worauf es dabei wirklich ankommt, und bleiben deshalb bei banalen Prompts bei ChatGPT oder Claude hängen, sodass am Ende nur generische Texte rauskommen, die niemanden mehr abholen, und sie deswegen ständig nur Systeme und Apps mit KI bauen, aber am Ende keinen Cent damit verdienen.",
+  "ro": "Problema este însă că foarte puțini știu ce contează cu adevărat aici și de aceea rămân blocați la prompturi banale în ChatGPT sau Claude, așa că la final ies doar texte generice care nu mai captează pe nimeni, iar ei construiesc mereu doar sisteme și aplicații cu IA, dar până la urmă nu câștigă niciun cent cu ele."
+ },
+ {
+  "de": "Es bringt dir überhaupt nichts, all diese Videos hier zu schauen und technisch perfekte Lösungen umzusetzen, wenn du sie am Ende nicht verkauft bekommst.",
+  "ro": "Nu-ți folosește absolut la nimic să te uiți la toate aceste videoclipuri și să implementezi soluții tehnic perfecte dacă la final nu reușești să le vinzi."
+ },
+ {
+  "de": "Und genau deshalb zeige ich dir im nächsten kostenlosen Live-Workshop zum Thema Marketing, wie du die wahrscheinlich letzte wirklich relevante Fähigkeit erlernst und dadurch endlich gesehen wirst, egal ob im Job, mit deiner App oder deinem Unternehmen.",
+  "ro": "Și tocmai de aceea îți arăt în următorul workshop live gratuit despre marketing cum să înveți probabil ultima abilitate cu adevărat relevantă și să fii astfel în sfârșit văzut, fie la job, cu aplicația ta sau cu firma ta."
+ },
+ {
+  "de": "Sichere dir jetzt deinen Platz, zu 100 % kostenfrei, unter icmarketing.de oder über den Link in der Videobeschreibung, und damit zurück ins Video.",
+  "ro": "Asigură-ți acum locul, 100% gratuit, pe icmarketing.de sau prin linkul din descrierea videoclipului, iar acum înapoi la video."
+ },
+ {
+  "de": "Jetzt noch mal zum Kernthema auch hier auf dem Kanal, künstliche Intelligenz.",
+  "ro": "Acum să revenim la tema centrală, inclusiv aici pe canal: inteligența artificială."
+ },
+ {
+  "de": "Du hast es schon angesprochen, also rekursive Selbstverbesserung der AI, und das ist ja so die große Frage: Wann werden wir AGI erreicht haben?",
+  "ro": "Ai pomenit deja de asta, adică autoîmbunătățirea recursivă a IA, și asta e marea întrebare: când vom fi atins AGI?"
+ },
+ {
+  "de": "Und was mich eben auch überrascht hat: Ja, du bist hier wirklich sehr konkret, also du sagst, bis 2035 werden wir mit nahezu Sicherheit AGI erreicht haben.",
+  "ro": "Și ce m-a surprins: da, ești aici foarte concret, adică spui că până în 2035 vom fi atins aproape sigur AGI."
+ },
+ {
+  "de": "Und da stellen sich mir jetzt erstmal zwei Fragen.",
+  "ro": "Și aici îmi vin mai întâi două întrebări."
+ },
+ {
+  "de": "Erstens: Was genau macht dich da so sicher?",
+  "ro": "În primul rând: ce anume te face atât de sigur?"
+ },
+ {
+  "de": "Weil es gibt ja durchaus verschiedenste Lager jetzt in der KI-Szene.",
+  "ro": "Pentru că există acum tabere foarte diferite în lumea IA."
+ },
+ {
+  "de": "Die einen sagen, es wird noch ewig dauern oder es ist gar nicht klar definiert, und die anderen sagen 2028, 2030 und so weiter.",
+  "ro": "Unii spun că va mai dura o veșnicie sau că nici nu e clar definit, iar alții spun 2028, 2030 și așa mai departe."
+ },
+ {
+  "de": "Aber mich interessiert natürlich, auf welche Grundlage du dich dort stützt, und daran anknüpfend dann eben auch die Frage der Definition von deiner Seite aus, da das ja auch gefühlt jedes Unternehmen gerade für sich selbst definiert.",
+  "ro": "Dar pe mine mă interesează, desigur, pe ce te bazezi aici și, legat de asta, și întrebarea definiției din partea ta, pentru că se pare că fiecare companie o definește acum în felul ei."
+ },
+ {
+  "de": "Was ist AGI denn eigentlich, weil du hier eben sehr konkret bist?",
+  "ro": "Ce este de fapt AGI, dat fiind că ești aici foarte concret?"
+ },
+ {
+  "de": "Also erstmal noch mal, um das zu verstehen: Wo kommt das überhaupt her, was wir da prognostizieren, sowohl in unseren Studien als auch natürlich in dem Buch?",
+  "ro": "Deci mai întâi, încă o dată, ca să se înțeleagă: de unde vine de fapt ceea ce prognozăm, atât în studiile noastre, cât și, desigur, în carte?"
+ },
+ {
+  "de": "Dieses Buch ist ja quasi, wie sagt man, eine populärwissenschaftliche Übersetzung unserer Studien.",
+  "ro": "Această carte este practic, cum se spune, o traducere de popularizare științifică a studiilor noastre."
+ },
+ {
+  "de": "Also lesbar für jeden, kann jeder verstehen.",
+  "ro": "Deci accesibilă oricui, o poate înțelege oricine."
+ },
+ {
+  "de": "Es gibt Kapitel, die beschreiben einen Ablauf, einen Tagesablauf eines ganz normalen Familienlebens in der Zukunft im Jahr 2035, und dann hinterher immer das Erklärkapitel, so ein bisschen populärwissenschaftlich: Warum ist das denn so und so?",
+  "ro": "Există capitole care descriu desfășurarea unei zile dintr-o viață de familie complet obișnuită în viitor, în anul 2035, iar apoi urmează mereu capitolul explicativ, puțin în stil de popularizare științifică: de ce este așa și așa?"
+ },
+ {
+  "de": "Ja, also das ist jetzt nichts anderes als unsere Studien, nur eben etwas verständlicher erklärt, sage ich mal so.",
+  "ro": "Da, deci nu e nimic altceva decât studiile noastre, doar explicate ceva mai pe înțeles, să zic așa."
+ },
+ {
+  "de": "Und wo kommen die Prognosen in den Studien her?",
+  "ro": "Și de unde vin prognozele din studii?"
+ },
+ {
+  "de": "Wir machen hier in meinem Institut Interviews, tiefe Interviews mit den Strategiechefs, mit den Innovationschefs und Technologiechefs und -chefinnen natürlich, der großen, der trendtreibenden Unternehmen quasi in jeder Branche.",
+  "ro": "Aici, în institutul meu, facem interviuri, interviuri aprofundate cu directorii de strategie, cu directorii și directoarele de inovare și de tehnologie, desigur, ai marilor companii care dictează tendințele, practic în fiecare domeniu."
+ },
+ {
+  "de": "Und ganz viele von diesen Interviews, also jede Woche 10, 15 ungefähr – ja, das Jahr hat 52 Wochen, seit 25 Jahren machen wir das, also ziemlich viele Interviews.",
+  "ro": "Și foarte multe dintre aceste interviuri, cam 10–15 pe săptămână – da, anul are 52 de săptămâni, facem asta de 25 de ani, deci destul de multe interviuri."
+ },
+ {
+  "de": "Und dort kommen aus diesen Köpfen, aus den Köpfen der Strategieleute, der Strategiechefs und -chefinnen, die eben heute die Entscheidung treffen: Wo stecke ich mein großes Geld rein, mit welcher Erwartung tue ich das, was will ich da am Ende raushaben, wenn das so kommt, wie ich das heute plane, wie ändert das dann Produkte, Geschäftsmodelle, Märkte und so weiter?",
+  "ro": "Și acolo ies din aceste minți, din mințile oamenilor de strategie, ale directorilor și directoarelor de strategie, care iau azi decizia: unde îmi bag banii mulți, cu ce așteptare fac asta, ce vreau să obțin la final, dacă lucrurile vin așa cum le plănuiesc azi, cum schimbă asta apoi produsele, modelele de afaceri, piețele și așa mai departe?"
+ },
+ {
+  "de": "Das ist die Basis dieser Prognosen.",
+  "ro": "Aceasta este baza acestor prognoze."
+ },
+ {
+  "de": "Warum machen wir das so?",
+  "ro": "De ce procedăm așa?"
+ },
+ {
+  "de": "Also, warum orientieren sich die Wissenschaftler, die wissenschaftliche Methoden anwenden, genau an diesen Leuten?",
+  "ro": "Deci, de ce se orientează oamenii de știință care aplică metode științifice tocmai după acești oameni?"
+ },
+ {
+  "de": "Weil diese Leute die größte Macht haben, ihre heutige Prognose sozusagen in die Welt zu bringen, umzusetzen.",
+  "ro": "Pentru că acești oameni au cea mai mare putere de a aduce în lume, de a pune în practică, ca să zic așa, prognoza lor de azi."
+ },
+ {
+  "de": "Die haben die größten Ressourcen, finanzielle, politische Ressourcen, die haben die Macht, dass andere ihnen folgen müssen.",
+  "ro": "Ei au cele mai mari resurse, resurse financiare, politice, au puterea ca alții să fie nevoiți să-i urmeze."
+ },
+ {
+  "de": "Und wenn man nach Wahrscheinlichkeit strebt, nicht nach „Wünsch dir was“ oder irgendwie nach so rosaroten Blümchen-Dingen, sondern nach Wahrscheinlichkeit – egal ob ich das jetzt gut oder schlecht finde, aber es ist wahrscheinlich –, dann musst du das genauso machen.",
+  "ro": "Și dacă urmărești probabilitatea, nu „ce ți-ai dori” sau cumva lucruri roz cu floricele, ci probabilitatea – indiferent dacă eu consider asta bun sau rău, dar e probabil –, atunci trebuie să procedezi exact așa."
+ },
+ {
+  "de": "Dann musst du genau die Prognosen von diesen Leuten nehmen, die mit ihren heutigen Entscheidungen mehr über die Zukunft bestimmen als andere Menschen.",
+  "ro": "Atunci trebuie să iei exact prognozele acelor oameni care, prin deciziile lor de azi, determină viitorul mai mult decât alți oameni."
+ },
+ {
+  "de": "Und logischerweise nehmen wir dann gerade bei den KI-Prognosen, die du angesprochen hast, eben die Strategiechefs der großen Unternehmen, die heute gerade so sehr stark in KI drin sind und KI beeinflussen.",
+  "ro": "Și, logic, mai ales la prognozele despre IA pe care le-ai menționat, îi luăm tocmai pe șefii de strategie ai marilor companii care sunt astăzi foarte implicate în IA și o influențează."
+ },
+ {
+  "de": "Ja, egal, ob das jetzt Anthropic ist oder ob das OpenAI ist, ob das Facebook ist, ob das Tesla ist, ob das Elon Musk ist, ob das Nvidia ist und so weiter.",
+  "ro": "Da, indiferent dacă e Anthropic sau OpenAI, Facebook, Tesla, Elon Musk, Nvidia și așa mai departe."
+ },
+ {
+  "de": "Also die fassen wir sozusagen zusammen.",
+  "ro": "Deci pe aceștia îi adunăm, ca să zic așa, laolaltă."
+ },
+ {
+  "de": "Und die Chinesen natürlich noch dazu.",
+  "ro": "Și, firește, pe chinezi pe deasupra."
+ },
+ {
+  "de": "Ja, klar, die darf man nicht vergessen.",
+  "ro": "Da, sigur, pe ei nu trebuie să-i uităm."
+ },
+ {
+  "de": "Und bei denen ist die – ich will jetzt nicht sagen die 100 % einhellige Meinung, da gibt's auch so zwei, drei, die irgendwie sagen, na ja, vielleicht dann doch nicht, aber eigentlich ist das komplette Silicon Valley…",
+  "ro": "Și la ei părerea este – nu vreau să spun 100% unanimă, există și vreo doi-trei care zic „ei, poate totuși nu”, dar de fapt tot Silicon Valley-ul…"
+ },
+ {
+  "de": "Ich war gerade vor einer Woche wieder für 10 Tage da.",
+  "ro": "Am fost acolo din nou acum o săptămână, timp de 10 zile."
+ },
+ {
+  "de": "Die sind komplett auf dieser Schiene, die sind sich total sicher.",
+  "ro": "Sunt complet pe linia asta, sunt absolut siguri."
+ },
+ {
+  "de": "Ich habe einen Tag verbracht mit dem Geoffrey Hinton, das ist der KI-Nobelpreisträger, also für neuronale Netze.",
+  "ro": "Am petrecut o zi cu Geoffrey Hinton, laureatul Premiului Nobel pentru IA, adică pentru rețele neuronale."
+ },
+ {
+  "de": "Und wir haben natürlich über KI diskutiert, und es war so ein wissenschaftlicher Beirat, wo wir zusammen saßen, und irgendeiner, der nicht aus der KI-Welt kam, hat dann die Frage gestellt: Sag mal, was ist denn jetzt eigentlich der Unterschied zwischen menschlicher Intelligenz und künstlicher Intelligenz?",
+  "ro": "Și am discutat, firește, despre IA; era un fel de consiliu științific în care stăteam împreună, și cineva care nu venea din lumea IA a pus întrebarea: „Ia spune, care e de fapt diferența dintre inteligența umană și inteligența artificială?”"
+ },
+ {
+  "de": "Und da guckt der Geoffrey den mit großen Augen an und sagt: Wie, ein Unterschied?",
+  "ro": "Și atunci Geoffrey se uită la el cu ochii mari și spune: „Cum adică, o diferență?”"
+ },
+ {
+  "de": "Intelligenz ist Intelligenz.",
+  "ro": "Inteligența e inteligență."
+ },
+ {
+  "de": "Ja, ob das jetzt aus dem biologischen System kommt oder aus einem Silicon-System, ist völlig egal.",
+  "ro": "Da, dacă vine dintr-un sistem biologic sau dintr-unul pe bază de siliciu, nu contează deloc."
+ },
+ {
+  "de": "Es ist Intelligenz, es ist genau dasselbe.",
+  "ro": "E inteligență, e exact același lucru."
+ },
+ {
+  "de": "„Everything is out of dust“, sagt er, also aus Sternenstaub quasi.",
+  "ro": "„Totul e făcut din praf”, spune el, adică practic din praf de stele."
+ },
+ {
+  "de": "Ja, und wenn das der Nobelpreisträger sagt, dann kriegst du noch mal so ein sehr spezielles Bild davon, was da eigentlich gerade im Gange ist.",
+  "ro": "Da, și când o spune un laureat al Premiului Nobel, îți faci o imagine cu totul aparte despre ce se petrece de fapt acum."
+ },
+ {
+  "de": "Ja, macht absolut Sinn.",
+  "ro": "Da, are perfect sens."
+ },
+ {
+  "de": "Also auch Demis Hassabis, Nobelpreisträger, sagt ja auch 2028 bis spätestens 2030.",
+  "ro": "Și Demis Hassabis, laureat Nobel, spune de asemenea 2028, cel târziu 2030."
+ },
+ {
+  "de": "Deswegen trifft das sicherlich ins Schwarze, und man sagt ja auch, der beste Weg, die Zukunft vorherzusagen, ist, sie selbst zu bauen, und das machen eben genau diese Leute.",
+  "ro": "De aceea, asta nimerește cu siguranță în plin, și se spune de altfel că cel mai bun mod de a prezice viitorul este să-l construiești tu însuți, iar exact asta fac acești oameni."
+ },
+ {
+  "de": "Nur noch mal eine Frage, das finde ich bei dir nämlich immer interessant.",
+  "ro": "Încă o întrebare, pentru că asta mi se pare mereu interesant la tine."
+ },
+ {
+  "de": "Ich habe ja auch schon 2021 oder so „2030“ gelesen, also vor ChatGPT, und damals hast du über Bots gesprochen, ne?",
+  "ro": "Am citit deja prin 2021 sau cam așa cartea „2030”, deci înainte de ChatGPT, și atunci vorbeai despre boți, nu?"
+ },
+ {
+  "de": "Und das hat sich dann später herausgestellt.",
+  "ro": "Și asta s-a confirmat mai târziu."
+ },
+ {
+  "de": "Du nanntest es damals Bots, heute nennen wir es KI-Agenten.",
+  "ro": "Tu îi numeai atunci boți, azi le spunem agenți IA."
+ },
+ {
+  "de": "Aber das Prinzip war eigentlich das gleiche, und das finde ich halt immer spannend, dass es solche Tendenzen gibt.",
+  "ro": "Dar principiul era de fapt același, și asta mi se pare mereu fascinant, că există astfel de tendințe."
+ },
+ {
+  "de": "Du erfindest quasi oder nutzt Begriffe, die später vielleicht anders heißen, aber das Konzept ist klar.",
+  "ro": "Practic inventezi sau folosești termeni care mai târziu poate se numesc altfel, dar conceptul e clar."
+ },
+ {
+  "de": "Und so ein neuer Begriff war für mich jetzt das KI-Replikat.",
+  "ro": "Iar un astfel de termen nou pentru mine a fost acum replica IA."
+ },
+ {
+  "de": "Also du sprichst von KI-Replikaten und nicht nur von KI-Agenten.",
+  "ro": "Adică vorbești de replici IA, nu doar de agenți IA."
+ },
+ {
+  "de": "Kannst du das mal erklären?",
+  "ro": "Poți să explici asta?"
+ },
+ {
+  "de": "Also was sind KI-Replikate und wie unterscheiden die sich von KI-Agenten?",
+  "ro": "Deci ce sunt replicile IA și prin ce se deosebesc de agenții IA?"
+ },
+ {
+  "de": "Also, KI-Agenten kennen wir ja, das ist das, womit die meisten von euch hoffentlich, ja, das ist das, womit ihr so umgeht.",
+  "ro": "Ei bine, agenții IA îi cunoaștem, sunt ceea ce majoritatea dintre voi, sper, da, folosiți deja."
+ },
+ {
+  "de": "Replika oder Replikat auf Deutsch ist eine besondere Art von KI-Agents oder von AI Agents.",
+  "ro": "Replica, sau „Replikat” în germană, este un tip special de agent IA."
+ },
+ {
+  "de": "Die ist nämlich trainiert auf einen Menschen.",
+  "ro": "Ea este antrenată pe un singur om anume."
+ },
+ {
+  "de": "Also, die will einen Menschen replizieren.",
+  "ro": "Adică vrea să reproducă un om."
+ },
+ {
+  "de": "Die redet in der Sprache dieses Menschen, also wirklich genau in der Sprachmodulation genau dieses Menschen, die hat dasselbe Humorlevel wie der Mensch.",
+  "ro": "Vorbește în limbajul acelui om, chiar cu exact modulația vocii acelui om, are același nivel de umor ca el."
+ },
+ {
+  "de": "Das hat sie von ihm gelernt.",
+  "ro": "Asta a învățat de la el."
+ },
+ {
+  "de": "Sie hat dasselbe Charmelevel, also benutzt dieselben Worte oder auch nicht, je nachdem, wie dieser Mensch ist.",
+  "ro": "Are același nivel de farmec, adică folosește aceleași cuvinte sau nu, în funcție de cum e omul respectiv."
+ },
+ {
+  "de": "Hat dasselbe Wissenslevel wie dieser Mensch.",
+  "ro": "Are același nivel de cunoștințe ca acel om."
+ },
+ {
+  "de": "Also ist nicht allwissend.",
+  "ro": "Deci nu este atotștiutoare."
+ },
+ {
+  "de": "Das kann man verschieden machen.",
+  "ro": "Se poate face și altfel."
+ },
+ {
+  "de": "Also man kann ja theoretisch auch Replikate von sich machen, die vielleicht mehr wissen als ich.",
+  "ro": "Teoretic, îți poți face și replici care poate știu mai mult decât tine."
+ },
+ {
+  "de": "Ja, aber erstmal wissen sie genauso viel.",
+  "ro": "Da, dar la început știu exact cât tine."
+ },
+ {
+  "de": "Also, es ist quasi die Nachbildung eines Menschen durch eine KI, und die wird – also steht in dem Buch, ja, kann man nachlesen – die wird eine sehr, sehr große Rolle spielen.",
+  "ro": "Deci este practic reproducerea unui om de către o IA, iar ea va juca – scrie în carte, se poate citi – un rol foarte, foarte mare."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil jeder Mensch natürlich persönliche KI haben wird, die ihn begleitet und so weiter.",
+  "ro": "Pentru că fiecare om va avea, firește, o IA personală care îl însoțește și așa mai departe."
+ },
+ {
+  "de": "Und es wird relativ viele Menschen geben, die sich jetzt keine anonyme, irgendwie so ein ChatGPT-Zeug oder so ein Claude-Zeug nehmen, sondern wirklich eine ganz persönliche, also die darauf achten: Das soll mit meiner Stimme sprechen, wenn es irgendwann mal eine Visualisierung bekommt, soll das Ding auch so aussehen wie ich und so weiter und so fort.",
+  "ro": "Și vor fi destul de mulți oameni care nu vor lua o chestie anonimă, gen ChatGPT sau Claude, ci una cu adevărat personală, adică vor avea grijă ca ea să vorbească cu vocea lor și, dacă la un moment dat primește o reprezentare vizuală, să arate ca ei și așa mai departe."
+ },
+ {
+  "de": "Und das ist ein Markt, wenn man so will, der ist heute noch nicht da.",
+  "ro": "Și asta e o piață, dacă vrei, care astăzi încă nu există."
+ },
+ {
+  "de": "Also es gibt kleine Anbieter davon, aber die sind alle noch nicht wirklich besonders gut.",
+  "ro": "Există câțiva furnizori mici, dar niciunul nu e încă cu adevărat bun."
+ },
+ {
+  "de": "Aber das ist das, was in den nächsten 10 Jahren aus unserer Sicht sehr, sehr stark passieren wird.",
+  "ro": "Dar asta e ceea ce, din punctul nostru de vedere, se va întâmpla foarte, foarte intens în următorii 10 ani."
+ },
+ {
+  "de": "Und das sorgt natürlich dann, wie soll ich sagen, für neue Fragestellungen.",
+  "ro": "Și asta ridică, firește, cum să zic, noi întrebări."
+ },
+ {
+  "de": "Ja, das sorgt dann für eine Fragestellung beispielsweise: Wie viele Replikate von mir werde ich denn eigentlich haben?",
+  "ro": "Da, apare de exemplu întrebarea: câte replici ale mele voi avea de fapt?"
+ },
+ {
+  "de": "Also in dem Buch sind sowohl Personen beschrieben, die ein Replikat von sich haben, so einen persönlichen Assistenten quasi.",
+  "ro": "În carte sunt descrise atât persoane care au o replică a lor, un fel de asistent personal."
+ },
+ {
+  "de": "Es sind aber auch Personen beschrieben wie eine Tochter, die schon älter ist, die lebt dann nicht mehr in dem Haushalt, sondern ist nach China gezogen, die heißt Jenny, die hat fünf Jennys, ja, also fünf KI-Replikate sozusagen, die alle ein bisschen anders trainiert sind, also für so unterschiedliche Rollen, die der Mensch eben hat.",
+  "ro": "Dar sunt descrise și persoane ca o fiică deja mai mare, care nu mai locuiește în gospodărie, ci s-a mutat în China; o cheamă Jenny și are cinci Jenny, adică cinci replici IA, toate antrenate puțin diferit, pentru diferitele roluri pe care le are omul."
+ },
+ {
+  "de": "Also diese Jenny beispielsweise lebt, wie gesagt, eben in China.",
+  "ro": "Această Jenny, de exemplu, trăiește, cum am spus, în China."
+ },
+ {
+  "de": "Dann hat sie eine trainiert für so interkulturelle Dolmetsch-Dinge sozusagen.",
+  "ro": "Așa că are una antrenată pentru chestiuni de interpretare interculturală, ca să zic așa."
+ },
+ {
+  "de": "Und eine hat sie trainiert für ihre Familie, und – sie ist in der Space-Industrie – eine hat sie als Space-Expertin, also als Weltraumexpertin, dann hat sie noch eine als Mentorin für Startups und so weiter, also in den verschiedenen Rollen, und das werden viele von uns mit hoher Wahrscheinlichkeit auch machen, ja, dass wir eben verschiedene von diesen Dingern haben.",
+  "ro": "Una e antrenată pentru familia ei, și – ea lucrează în industria spațială – una e expertă spațială, adică expertă în domeniul spațiului, apoi mai are una ca mentoră pentru startup-uri și așa mai departe, deci în diferitele roluri; și foarte probabil mulți dintre noi vom face la fel, adică vom avea mai multe astfel de chestii."
+ },
+ {
+  "de": "Zweite Fragestellung, die dann auftritt, ist auch im Buch beschrieben, oder das ist eigentlich schon beschrieben in einem Buch vorher, nämlich in dem 2030-Buch: Da verstirbt der Großvater dieser Familie, und der hinterlässt seiner Familie und ganz besonders der Enkeltochter, der Maria, ein KI-Replikat von sich selbst.",
+  "ro": "A doua întrebare care apare e descrisă tot în carte, sau de fapt deja într-o carte anterioară, și anume în cartea „2030”: acolo moare bunicul acestei familii și îi lasă familiei, și mai ales nepoatei, Maria, o replică IA a lui însuși."
+ },
+ {
+  "de": "In dem 2030-Buch heißt das noch nicht KI-Replikat, sondern Opa-Bot.",
+  "ro": "În cartea „2030” încă nu se numește replică IA, ci „Bunicul-Bot”."
+ },
+ {
+  "de": "Ja, aber es ist dasselbe Ding.",
+  "ro": "Da, dar e același lucru."
+ },
+ {
+  "de": "Und jetzt in dem 2035-Buch kommt dieser Opa-Bot oder dieses Replikat des Opas – der Opa ist gestorben, aber sein Replikat lebt natürlich weiter – und diese KI, dieser Agent sozusagen, kommt an und sagt: Sag mal, ihr redet gar nicht mehr mit mir, ihr braucht mich gar nicht mehr, ich will jetzt sterben.",
+  "ro": "Iar acum, în cartea „2035”, vine acest Bunic-Bot sau această replică a bunicului – bunicul a murit, dar replica lui trăiește, firește, mai departe – și această IA, acest agent, ca să zic așa, vine și spune: „Ia ascultați, nu mai vorbiți deloc cu mine, nu mai aveți nevoie de mine, acum vreau să mor.”"
+ },
+ {
+  "de": "Also, ich will, dass ihr mich abschaltet.",
+  "ro": "Adică: „Vreau să mă opriți.”"
+ },
+ {
+  "de": "Ja, und dann entwickelt sich natürlich eine Debatte darüber: Ey, wer darf denn jetzt überhaupt entscheiden, einen Opa abzuschalten?",
+  "ro": "Da, și atunci se naște, firește, o dezbatere: „Hei, cine are de fapt dreptul să decidă să oprească un bunic?”"
+ },
+ {
+  "de": "Also auch solche Fragestellungen entstehen natürlich dann, und wie gesagt, das ist jetzt nicht Science-Fiction, das ist nicht in 30 Jahren oder irgendwann mal auf dem Raumschiff Enterprise, das ist direkt vor uns, innerhalb der nächsten 10 Jahre.",
+  "ro": "Deci apar, firește, și astfel de întrebări, și cum am spus, asta nu e science-fiction, nu e peste 30 de ani sau cândva pe nava Enterprise, e chiar în fața noastră, în următorii 10 ani."
+ },
+ {
+  "de": "Ja, das ist echt interessant, vor allem, weil dabei auch einige technische Durchbrüche schon mitgedacht sind, wie beispielsweise, dass KI viel größere Kontextfenster braucht, um überhaupt so ein Replikat sein zu können und dann nicht limitiert zu sein, so wie wir es heute bei Agenten noch sehen.",
+  "ro": "Da, e chiar interesant, mai ales pentru că sunt luate deja în calcul și câteva descoperiri tehnice, cum ar fi faptul că IA are nevoie de ferestre de context mult mai mari ca să poată fi o astfel de replică și să nu fie limitată, cum vedem încă azi la agenți."
+ },
+ {
+  "de": "Und zwei Fragen dazu.",
+  "ro": "Și două întrebări legate de asta."
+ },
+ {
+  "de": "Erstens: Kannst du schon was dazu sagen, wie du dir das konkret vorstellst?",
+  "ro": "Prima: poți spune deja ceva despre cum îți imaginezi asta concret?"
+ },
+ {
+  "de": "Weil wenn wir heute über Agenten sprechen, dann sind das meistens Fenster im Terminal, Sessions, Agent-Sessions oder bei manchen immer noch irgendwelche Workflows in irgendwelchen Tools, und jetzt würde ich mir vorstellen, so ein Replikat, das muss ja schon deutlich weitergehen, also vielleicht auch in dem Videocall dann mitsitzen oder tatsächlich irgendwie sprechen können.",
+  "ro": "Pentru că atunci când vorbim azi despre agenți, de cele mai multe ori sunt ferestre în terminal, sesiuni, sesiuni de agenți sau, la unii, încă niște workflow-uri în diverse unelte; iar o astfel de replică, îmi imaginez, trebuie să meargă mult mai departe, poate să participe la apelul video sau să poată chiar vorbi."
+ },
+ {
+  "de": "Und da knüpft dann auch meine zweite Frage an, weil du sagst, die größte Veränderung in den Wohnungen des Jahres 2035 ist nicht die Wohnung selbst, sondern zwei neue Mitbewohner.",
+  "ro": "Și de aici pornește și a doua mea întrebare, pentru că spui că cea mai mare schimbare în locuințele anului 2035 nu este locuința în sine, ci doi noi colegi de locuință."
+ },
+ {
+  "de": "Also erste Frage: Welche Ausprägung wird das annehmen, und die zweite Frage: Welche neuen Mitbewohner wird denn jeder Mensch im Jahr 2035 haben?",
+  "ro": "Deci prima întrebare: ce formă va lua asta, și a doua: ce noi colegi de locuință va avea fiecare om în anul 2035?"
+ },
+ {
+  "de": "Die Ausprägung, die ich in dem Buch beschrieben habe – das sind aus heutiger Sicht die wahrscheinlichsten –, die wahrscheinlichste Ausprägung ist, dass du deine Replikate oder deine Agents einfach im Ohr hast, also die sprechen mit dir sozusagen.",
+  "ro": "Forma pe care am descris-o în carte – care din perspectiva de azi e cea mai probabilă – este că îți ai replicile sau agenții pur și simplu în ureche, adică vorbesc cu tine, ca să zic așa."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Und das ist jetzt egal, ob das durch eine Brille ist, die du dann aufsetzt, oder durch einfach einen Ohrstöpsel oder sowas.",
+  "ro": "Și nu contează dacă e prin niște ochelari pe care îi porți sau pur și simplu printr-o cască în ureche sau ceva de genul ăsta."
+ },
+ {
+  "de": "Aber der Hauptkommunikationskanal wird einfach das Sprechen sein, so wie wir Menschen eben auch miteinander sprechen als Hauptkommunikationskanal.",
+  "ro": "Dar principalul canal de comunicare va fi pur și simplu vorbirea, la fel cum și noi, oamenii, vorbim unii cu alții ca principal canal de comunicare."
+ },
+ {
+  "de": "Und dann gibt es, völlig richtig, auch noch eine – also wenn du einen Bildschirm vor dir hast, egal ob das jetzt so ein heutiger Bildschirm ist, oder es sind auch Hologramme beschrieben, die bis 2030 wahrscheinlich nicht überall, nicht ständig, aber wahrscheinlich da sein werden.",
+  "ro": "Și apoi există, absolut corect, și o altă variantă – adică atunci când ai un ecran în fața ta, fie el un ecran de azi, fie hologramele descrise, care până în 2030 vor exista probabil, nu peste tot și nu permanent, dar probabil vor exista."
+ },
+ {
+  "de": "Also, wenn irgendwo etwas projiziert wird, dann können diese KI, diese Replikate – das kann man sich aussuchen, ehrlich gesagt – auch eine Verkörperung bekommen, die dann eben zu sehen ist.",
+  "ro": "Deci, când ceva e proiectat undeva, aceste IA, aceste replici pot – sincer, asta se poate alege – să primească și o întruchipare care poate fi văzută."
+ },
+ {
+  "de": "Beispielsweise bei der Maria, also der Tochter dieser Familie, da ist beschrieben, dass ihr persönliches Replikat immer eben auf dem Bildschirm sozusagen irgendwie auftaucht und sie dann mit dem Ding reden, es aber eben auch sehen kann.",
+  "ro": "De exemplu la Maria, fiica acestei familii, e descris că replica ei personală apare mereu pe ecran, ca să zic așa, iar ea poate vorbi cu ea, dar o poate și vedea."
+ },
+ {
+  "de": "Ja, aber wie gesagt, das kann man sich wählen.",
+  "ro": "Da, dar cum am spus, asta se poate alege."
+ },
+ {
+  "de": "Der Vater der Familie, der Peter, der will sein Rob – so heißt bei ihm sozusagen das Replikat – der will das nicht sehen, der hat es immer im Ohr.",
+  "ro": "Tatăl familiei, Peter, nu vrea să-și vadă Rob-ul – așa se numește replica lui, ca să zic așa – îl are mereu în ureche."
+ },
+ {
+  "de": "So, und dann zu deiner zweiten Frage, die zwei Mitbewohner: Ich habe ja gesagt, ich habe geschrieben in dem Buch, die Wohnung an sich, das Haus oder wo man wohnt, das ändert sich jetzt nicht so groß, das wird noch ganz ähnlich aussehen wie heute.",
+  "ro": "Așa, și acum la a doua ta întrebare, cei doi colegi de locuință: am spus, am scris în carte, că locuința în sine, casa sau locul unde stai, nu se schimbă prea mult, va arăta foarte asemănător cu azi."
+ },
+ {
+  "de": "Aber der wesentlichste Unterschied zum Wohnen heute sind die Mitbewohner, und das sind in diesem Fall zwei humanoide Roboter.",
+  "ro": "Dar diferența cea mai importantă față de locuitul de azi sunt colegii de locuință, iar aceștia sunt în cazul de față doi roboți umanoizi."
+ },
+ {
+  "de": "Humanoide Roboter kennt man inzwischen, oder?",
+  "ro": "Roboții umanoizi îi cunoaștem între timp, nu?"
+ },
+ {
+  "de": "Ja, so Roboter, die aussehen wie Menschen.",
+  "ro": "Da, roboți care arată ca oamenii."
+ },
+ {
+  "de": "Vereinfacht gesagt eine KI mit Händen dran und Füßen.",
+  "ro": "Spus simplu, o IA cu mâini și picioare."
+ },
+ {
+  "de": "Und die werden im Jahr 2035, ja, die werden überall sein.",
+  "ro": "Și în anul 2035, da, ei vor fi peste tot."
+ },
+ {
+  "de": "Also nach heutigen Prognosen – ich gehe noch mal auf unsere Studien zurück –, wenn du heute Interviews machst mit den großen Investoren in diesem Space, also im Bereich der humanoiden Roboter, dann sagen die dir, sie rechnen damit, dass es im Jahr 2040 mehr von diesen humanoiden Robotern auf der Welt gibt, als es Menschen gibt.",
+  "ro": "Conform prognozelor de azi – revin din nou la studiile noastre –, dacă faci azi interviuri cu marii investitori din acest domeniu, adică al roboților umanoizi, ei îți spun că se așteaptă ca în anul 2040 să existe pe lume mai mulți roboți umanoizi decât oameni."
+ },
+ {
+  "de": "10 Milliarden.",
+  "ro": "10 miliarde."
+ },
+ {
+  "de": "Ja, nun reden wir nicht über 2040, sondern 2035.",
+  "ro": "Da, dar acum nu vorbim de 2040, ci de 2035."
+ },
+ {
+  "de": "Das sind also noch nicht mehr, als es Menschen gibt, aber wir sind schon weit auf dem Weg.",
+  "ro": "Deci încă nu sunt mai mulți decât oamenii, dar suntem deja mult înaintați pe drumul acesta."
+ },
+ {
+  "de": "Das bedeutet, in jedem Haushalt, der sich halbwegs ein bisschen was leisten kann, gibt es diese humanoiden Roboter.",
+  "ro": "Asta înseamnă că în fiecare gospodărie care își permite cât de cât ceva vor exista acești roboți umanoizi."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil die nicht mehr viel kosten.",
+  "ro": "Pentru că nu vor mai costa mult."
+ },
+ {
+  "de": "Ja, in jedem Unternehmen gibt's die und sonst überall.",
+  "ro": "Da, vor exista în fiecare firmă și în rest peste tot."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil sie einfach nützlich sind.",
+  "ro": "Pentru că pur și simplu sunt utili."
+ },
+ {
+  "de": "Im Haushalt, also in diesem Haus, gibt's zwei Humanoide.",
+  "ro": "În gospodărie, adică în această casă, sunt doi umanoizi."
+ },
+ {
+  "de": "Nicht nur einen, sondern zwei.",
+  "ro": "Nu doar unul, ci doi."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Der eine heißt Nova und macht im Prinzip die Hausarbeit, also das Kochen, Putzen, Wäschewaschen, na ja, was man eben so im Haus macht.",
+  "ro": "Unul se numește Nova și face în principiu treburile casei, adică gătitul, curățenia, spălatul rufelor, ei bine, ce se face de obicei în casă."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Und der andere, der Tilo, der ist quasi, wie soll ich das sagen, der Familienorganisator, ja?",
+  "ro": "Iar celălalt, Tilo, este practic, cum să zic, organizatorul familiei, da?"
+ },
+ {
+  "de": "Also, mit dem kannst du auch mal ein philosophisches Gespräch führen oder irgendwie sowas.",
+  "ro": "Adică cu el poți purta și o conversație filozofică sau ceva de genul ăsta."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Und logischerweise kommunizieren auch die persönlichen KI, also die Replikate der Menschen, natürlich auch mit diesen KI in den humanoiden Robotern.",
+  "ro": "Și, logic, IA-urile personale, adică replicile oamenilor, comunică firește și cu aceste IA din roboții umanoizi."
+ },
+ {
+  "de": "Also sozusagen gibt es, wenn man so will, neben der menschlichen Kommunikation, die stattfindet, noch mal eine zweite Lage von KI-zu-KI-Kommunikation und ab und zu natürlich auch eine Mensch-zu-KI-Kommunikation, aber die Lage mit der KI-zu-KI-Kommunikation, die ist viel, viel, viel größer.",
+  "ro": "Deci, dacă vrei, pe lângă comunicarea umană care are loc, mai există un al doilea strat de comunicare IA-cu-IA și, din când în când, firește, și comunicare om-IA, dar stratul comunicării IA-cu-IA este mult, mult, mult mai mare."
+ },
+ {
+  "de": "Also es wird im Jahr 2035 viel mehr Kommunikation zwischen KI geben als zwischen Menschen.",
+  "ro": "Deci în anul 2035 va exista mult mai multă comunicare între IA decât între oameni."
+ },
+ {
+  "de": "Ja, darauf will ich gleich auch noch mal zu sprechen kommen.",
+  "ro": "Da, la asta vreau să revin imediat."
+ },
+ {
+  "de": "Komm noch mal kurz zu den humanoiden Robotern im Haushalt, weil ich würde sagen, das Thema AGI bis 2035 ist wahrscheinlich sogar mehr im Konsens als der universelle Haushaltsroboter.",
+  "ro": "Să revenim puțin la roboții umanoizi din gospodărie, pentru că aș zice că tema AGI până în 2035 e probabil chiar mai mult un consens decât robotul universal de casă."
+ },
+ {
+  "de": "Also, da gibt's, wenn wir auf den Stand heute schauen, deutlich mehr Vorbehalte, sei es Datenschutz, sei es, die Form macht gar keinen Sinn, sei es, dass es zu unsicher ist, einen Humanoiden zu Hause zu haben.",
+  "ro": "Adică acolo există, dacă ne uităm la situația de azi, mult mai multe rezerve, fie protecția datelor, fie că forma nu are deloc sens, fie că e prea nesigur să ai un umanoid acasă."
+ },
+ {
+  "de": "Und du hast natürlich schon erklärt, wie ihr vorgeht mit den Interviews, aber was macht dich da so sicher?",
+  "ro": "Și ai explicat deja, firește, cum procedați cu interviurile, dar ce te face să fii atât de sigur?"
+ },
+ {
+  "de": "Also, dass humanoide Roboter im Haushalt verbreitet sein werden?",
+  "ro": "Adică faptul că roboții umanoizi vor fi răspândiți în gospodării?"
+ },
+ {
+  "de": "Ist es einfach die schiere Anzahl, die produziert wird, die irgendeinen Markt bedienen muss, oder was macht dich da wirklich so sicher?",
+  "ro": "E pur și simplu numărul uriaș care se produce și care trebuie să deservească o piață, sau ce anume te face cu adevărat atât de sigur?"
+ },
+ {
+  "de": "Na ja, erstens ist es die Skalierung, die da prognostiziert wird.",
+  "ro": "Ei bine, în primul rând e scalarea care se prognozează."
+ },
+ {
+  "de": "Also die Skalierung heißt ja erstens: Anzahl steigt, zweitens: Preis geht runter.",
+  "ro": "Scalarea înseamnă, pe de o parte, că numărul crește și, pe de altă parte, că prețul scade."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Dass die Dinger eben dann für irgendwas um 100 bis 200 € pro Monat… also anders: Wenn du das Ding heute kaufst, gibt's verschiedene Anbieter.",
+  "ro": "Că aceste chestii vor costa atunci undeva între 100 și 200 € pe lună… sau altfel spus: dacă cumperi chestia azi, există diferiți furnizori."
+ },
+ {
+  "de": "Die Amerikaner wollen da 20.000 $ haben, die Chinesen wollen […]000 $ haben.",
+  "ro": "Americanii vor 20.000 $, chinezii vor […]000 $."
+ },
+ {
+  "de": "Also heute kostet das ungefähr so viel wie ein kleiner Wagen.",
+  "ro": "Deci azi costă cam cât o mașină mică."
+ },
+ {
+  "de": "Das ist schon eine echte Investition, da müssen Menschen drüber nachdenken.",
+  "ro": "E deja o investiție reală, la care oamenii trebuie să se gândească."
+ },
+ {
+  "de": "Ja, aber wenn in ein paar Jahren der Preis so runterkommt, dass das quasi, na ja, weiß nicht, so viel kostet wie – was ist denn jetzt ein guter Vergleich? – ja, sagen wir mal 100, 150 Euro im Monat, also so eine Monatsgebühr, ja, dann können sich das ganz viele leisten, und dann werden ganz viele Menschen, also weltweit natürlich, zu der Überzeugung kommen: Ey, diese Datenschutzsache, ja, muss man mal drüber reden und mal gucken, irgendwie drauf achten, aber wenn das Ding mir meine Wäsche wäscht, wenn das Ding meine Spülmaschine ausräumt und einräumt, wenn das Ding meine Fenster putzt, wenn das Ding all diese Haushaltsdinge macht, für die ich wahnsinnig viel Zeit völlig unnütz irgendwie verplempere, ey, dann ist das aber echt ein gutes Preis-Leistungs-Verhältnis.",
+  "ro": "Da, dar dacă peste câțiva ani prețul scade atât de mult încât costă practic, nu știu, cât – care ar fi o comparație bună? – să zicem 100, 150 de euro pe lună, deci un fel de abonament lunar, atunci foarte mulți și-l vor putea permite și foarte mulți oameni, la nivel mondial firește, vor ajunge la concluzia: „Hei, problema asta cu protecția datelor, da, trebuie discutată, trebuie urmărită, trebuie să fim atenți, dar dacă chestia asta îmi spală rufele, dacă îmi golește și îmi încarcă mașina de spălat vase, dacă îmi spală geamurile, dacă face toate treburile astea casnice pe care îmi irosesc o grămadă de timp complet inutil, atunci e chiar un raport calitate-preț foarte bun.”"
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Und das ist eigentlich der entscheidende Punkt, dass Menschen in ihrer Bequemlichkeit – so sind Menschen – sich einfach darüber freuen, wenn ihnen so sinnlose Arbeit abgenommen wird.",
+  "ro": "Și acesta e de fapt punctul decisiv: oamenii, din comoditate – așa sunt oamenii –, se bucură pur și simplu când li se ia de pe umeri o muncă atât de fără sens."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Und zum Formfaktor muss man eine Sache sagen.",
+  "ro": "Și despre factorul de formă trebuie spus un lucru."
+ },
+ {
+  "de": "Natürlich müssen Roboter nicht aussehen wie Menschen, selbstverständlich nicht, aber wenn sie für den Haushalt gedacht sind, dann müssen sie aussehen wie Menschen.",
+  "ro": "Firește că roboții nu trebuie să arate ca oamenii, evident că nu, dar dacă sunt gândiți pentru gospodărie, atunci trebuie să arate ca oamenii."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil alles im Haushalt auf Menschengröße angepasst ist.",
+  "ro": "Pentru că totul în gospodărie e adaptat la dimensiunea omului."
+ },
+ {
+  "de": "Also, wenn du dir deine Küche vor deinem inneren Auge vorstellst: die Herdflächen, der Kühlschrank, die Griffe, die sind alle für menschliche Größe ausgelegt.",
+  "ro": "Adică, dacă îți imaginezi bucătăria în fața ochilor minții: plitele, frigiderul, mânerele, toate sunt concepute pentru dimensiunea umană."
+ },
+ {
+  "de": "Und deshalb, wenn du jetzt nicht vorher deine ganze Küche umbauen willst, macht es total Sinn, dass auch der humanoide Roboter eben so eine menschliche Größe hat.",
+  "ro": "Și de aceea, dacă nu vrei să-ți refaci mai întâi toată bucătăria, are perfect sens ca și robotul umanoid să aibă o dimensiune umană."
+ },
+ {
+  "de": "Ja, etwas anderes ist es auf einer Tiefbaubaustelle, wo Rohre verlegt oder Löcher gebohrt werden; da macht ein humanoider Roboter keinen Sinn.",
+  "ro": "Da, altfel stau lucrurile pe un șantier de lucrări subterane, unde se pozează țevi sau se forează găuri; acolo un robot umanoid nu are sens."
+ },
+ {
+  "de": "Da braucht man eher einen Roboter, der viel kleiner ist, der auch keine Beine hat und da irgendwie so rumwankt, sondern irgendwie, weiß nicht, auf einem Band läuft oder so.",
+  "ro": "Acolo e nevoie mai degrabă de un robot mult mai mic, care nici nu are picioare și nu se clatină pe acolo, ci, nu știu, merge pe șenile sau ceva de genul ăsta."
+ },
+ {
+  "de": "Also, kurz gesagt, diese Roboter werden sich natürlich ihrem Umfeld anpassen, aber jetzt reden wir eben gerade über das Haus, über das Zuhause.",
+  "ro": "Pe scurt, acești roboți se vor adapta, firește, mediului lor, dar acum vorbim tocmai despre casă, despre cămin."
+ },
+ {
+  "de": "Dort ist wahrscheinlich der menschliche Formfaktor wirklich der richtige, weil eben alles im Haus auf diese menschliche Form schon ausgerichtet ist.",
+  "ro": "Acolo forma umană este probabil cu adevărat cea potrivită, pentru că totul în casă este deja adaptat acestei forme umane."
+ },
+ {
+  "de": "Ja, das mit den Preisen macht Sinn.",
+  "ro": "Da, partea cu prețurile are sens."
+ },
+ {
+  "de": "Also, das lese ich auch bei uns in den Kommentaren des Öfteren von Menschen, die sagen, wenn das so bei 250 € zum Beispiel läge – habe ich schon öfter gelesen –, dann würde ich das sofort machen.",
+  "ro": "Citesc asta adesea și în comentariile noastre, de la oameni care spun că, dacă ar costa de exemplu în jur de 250 € – am citit asta de mai multe ori –, l-ar lua imediat."
+ },
+ {
+  "de": "Und ich kann mir auch vorstellen, weil du ja auch im Buch sagst, dass das Auto als Besitzgut sozusagen im Jahr 2035 immer weniger wichtig wird, dass dann der Haushaltsroboter für viele Menschen zum neuen Statussymbol avancieren könnte, als Ersatz für ein Statussymbol.",
+  "ro": "Și îmi pot imagina, pentru că spui și în carte că mașina, ca bun deținut, devine tot mai puțin importantă în 2035, că robotul de casă ar putea deveni pentru mulți oameni noul simbol de statut, ca înlocuitor al unui simbol de statut."
+ },
+ {
+  "de": "Nun stellen sich viele Leute natürlich die Frage nach der Arbeit und nach den Jobs.",
+  "ro": "Acum mulți oameni își pun, firește, întrebarea despre muncă și despre locurile de muncă."
+ },
+ {
+  "de": "Also, wenn wir über KI-Replikate, Agenten, humanoide Roboter sprechen, dann stellen wir uns natürlich schon riesige Arbeitslosenwellen im Jahr 2035 vor.",
+  "ro": "Adică, atunci când vorbim despre replici IA, agenți, roboți umanoizi, ne imaginăm firește valuri uriașe de șomaj în anul 2035."
+ },
+ {
+  "de": "Du hast aber geschrieben, die erste Täuschung der kommenden Arbeitswelt besteht darin, dass sie lange nicht wie eine Krise aussieht.",
+  "ro": "Tu ai scris însă că prima iluzie a lumii muncii care vine constă în faptul că multă vreme nu arată ca o criză."
+ },
+ {
+  "de": "Was ist das für eine Täuschung?",
+  "ro": "Ce fel de iluzie e asta?"
+ },
+ {
+  "de": "Na ja, also diese Erwartungen oder diese Befürchtungen, diese Ängste, die es da heute gibt, dass KI uns ganz schnell alle Jobs wegnimmt sozusagen, die werden mit ganz hoher Wahrscheinlichkeit nicht eintreffen.",
+  "ro": "Ei bine, aceste așteptări sau temeri, aceste frici care există azi, că IA ne va lua foarte repede toate locurile de muncă, ca să zic așa, cu foarte mare probabilitate nu se vor adeveri."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil erstens KI nicht so schnell Jobs wegnimmt, weil zweitens für die Jobs, die sie wegnimmt, neue Jobs entstehen, in aller Regel in der Implementierung von KI in alle Lebensbereiche, die es eben so gibt, hinein.",
+  "ro": "Pentru că, în primul rând, IA nu ia locurile de muncă atât de repede și pentru că, în al doilea rând, în locul joburilor pe care le ia apar altele noi, de regulă în implementarea IA în toate domeniile vieții care există."
+ },
+ {
+  "de": "Also bis zum Jahr 2035 oder knapp vor dem Jahr 2035 werden wir mit hoher Wahrscheinlichkeit, zumindest mal in unserem deutschsprachigen Raum, keine dramatische Massenarbeitslosigkeit erleben.",
+  "ro": "Așadar, până în 2035 sau până puțin înainte de 2035, cel mai probabil nu vom trăi un șomaj în masă dramatic, cel puțin în spațiul nostru germanofon."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Das erwarten heute viele anders, und das ist die Täuschung, also dass es eben dann doch nicht so schnell geht mit dem, was wir erwarten.",
+  "ro": "Mulți se așteaptă astăzi la altceva, și tocmai aici e iluzia: că lucrurile nu merg totuși atât de repede pe cât ne așteptăm."
+ },
+ {
+  "de": "Aber es ist eine Täuschung.",
+  "ro": "Dar este o iluzie."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil man sich dann irgendwie vielleicht dran gewöhnt, dass dann doch nicht die Arbeitsplätze weggehen, und na ja, vielleicht bleibt ja doch alles beim Alten – das ist die Täuschung, weil es sich trotzdem ändert.",
+  "ro": "Pentru că oamenii se obișnuiesc oarecum cu ideea că locurile de muncă nu dispar totuși și își spun: ei bine, poate rămâne totul ca înainte – asta e iluzia, pentru că lucrurile se schimbă oricum."
+ },
+ {
+  "de": "Und dann wird es nach unseren heutigen Prognosen ungefähr – ich habe vorhin gesagt, 2035 könnte der Kipppunkt sein, ja, also kurz nach dem Jahr 2035 könnte es richtig kippen, weil dann richtig viele Jobs wirklich verloren gehen.",
+  "ro": "Iar apoi, după prognozele noastre de azi – am spus mai devreme că 2035 ar putea fi punctul de basculare, da, deci imediat după 2035 situația s-ar putea răsturna de-a binelea, pentru că atunci se vor pierde cu adevărat foarte multe locuri de muncă."
+ },
+ {
+  "de": "Das hat nicht nur mit der KI-Entwicklung zu tun, sondern das hat auch etwas mit dem demografischen Faktor zu tun.",
+  "ro": "Asta nu ține doar de dezvoltarea IA, ci are legătură și cu factorul demografic."
+ },
+ {
+  "de": "Also in Deutschland zumindest, die Babyboomer-Generation, die geht ja gerade in Rente, und das geht noch ungefähr 10 Jahre bis zum Jahr 2035.",
+  "ro": "Adică, cel puțin în Germania, generația baby boomerilor tocmai iese la pensie, iar asta mai durează aproximativ 10 ani, până în 2035."
+ },
+ {
+  "de": "Insofern werden auch viele verloren gehende Jobs einfach dadurch aufgefangen, dass es die Menschen im Arbeitsmarkt gar nicht mehr gibt, weil die ja alle in Rente gegangen sind.",
+  "ro": "În acest sens, multe dintre locurile de muncă pierdute vor fi compensate pur și simplu prin faptul că oamenii aceia nici nu mai sunt pe piața muncii, pentru că au ieșit cu toții la pensie."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Das ist bis 2035, aber ab 2035, da ist dann der Peak der Babyboomer schon in Rente.",
+  "ro": "Asta până în 2035, dar din 2035 vârful generației baby boomerilor va fi deja la pensie."
+ },
+ {
+  "de": "Da gehen dann nicht mehr so viele in Rente, und dann merkt man es tatsächlich deutlich, welche Jobs die KI wegnimmt.",
+  "ro": "Atunci nu vor mai ieși atât de mulți la pensie și se va simți cu adevărat clar ce locuri de muncă ia IA."
+ },
+ {
+  "de": "Ja, also da fließen diese beiden Trends, dieser technologische, dieser KI-Trend, und der demografische Trend, zusammen, und wie gesagt, 2035 kippt's dann, und dann werden wir es aber ganz extrem merken.",
+  "ro": "Da, deci acolo se unesc aceste două tendințe, cea tehnologică, adică tendința IA, și cea demografică, iar, cum am spus, în 2035 situația se răstoarnă și atunci o vom simți extrem de puternic."
+ },
+ {
+  "de": "0%.",
+  "ro": "0%."
+ },
+ {
+  "de": "Das ist der Anteil der Unternehmen, die sagen, wir haben keine Probleme aufgrund des Datenschutzes.",
+  "ro": "Acesta este procentul companiilor care spun că nu au probleme din cauza protecției datelor."
+ },
+ {
+  "de": "Daher wundert es mich nicht, dass gerade 70% aller Unternehmen Innovationsprojekte, also genau die wichtigen KI-Projekte, gestoppt haben, nur wegen Datenschutzvorgaben und rechtlicher Unsicherheiten.",
+  "ro": "De aceea nu mă miră că tocmai 70% din toate companiile au oprit proiecte de inovare, adică exact proiectele importante de IA, doar din cauza reglementărilor privind protecția datelor și a incertitudinilor juridice."
+ },
+ {
+  "de": "Wenn du Inhaber, Geschäftsführer oder Führungskraft bist, dann stört es dich doch auch jeden Tag, dass du hier all die Möglichkeiten von KI siehst, wie Claude Code, Angebotsautomatisierung, Kundensupport, persönliche Assistenten oder eine ganz eigene App, doch du die PS einfach nicht auf die Straße bekommst, weil der Datenschutz dich ständig ausbremst.",
+  "ro": "Dacă ești proprietar, director general sau manager, probabil te deranjează și pe tine în fiecare zi că vezi toate aceste posibilități ale IA, precum Claude Code, automatizarea ofertelor, suportul pentru clienți, asistenții personali sau o aplicație complet proprie, dar pur și simplu nu reușești să pui caii-putere în mișcare, pentru că protecția datelor te frânează constant."
+ },
+ {
+  "de": "Vor allem, weil du ihn ja nicht einfach ignorieren kannst.",
+  "ro": "Mai ales pentru că nu o poți ignora pur și simplu."
+ },
+ {
+  "de": "Typische Fehler kosten dich bis zu 20 Millionen Euro oder 4% deines Jahresumsatzes, oder deine Mitarbeiter nutzen KI einfach über private ChatGPT-Abos, blasen all deine Firmendaten einfach in die USA, und am Ende wirst du dafür sogar noch haftbar gemacht.",
+  "ro": "Greșelile tipice te pot costa până la 20 de milioane de euro sau 4% din cifra de afaceri anuală, ori angajații tăi folosesc IA prin abonamente private ChatGPT, trimit pur și simplu toate datele firmei tale în SUA, iar la final tu ești cel tras la răspundere."
+ },
+ {
+  "de": "Um das jetzt ein für alle Mal zu lösen, habe ich gemeinsam mit unserem Partner von Heuking, dem führenden IT-Anwalt Dr. Lutz Keppeler, den KI-DSGVO-Report zusammengestellt, der dir in verständlicher Sprache zeigt, welche Fehler du vermeiden musst, was es jetzt wirklich zu beachten gilt und wie du KI-Systeme wirklich rechtssicher und DSGVO-konform in deinem Unternehmen einführst, ohne am Ende dafür geradestehen zu müssen.",
+  "ro": "Ca să rezolv asta o dată pentru totdeauna, am alcătuit împreună cu partenerul nostru de la Heuking, avocatul IT de top Dr. Lutz Keppeler, raportul IA-GDPR, care îți arată pe înțelesul tuturor ce greșeli trebuie să eviți, la ce trebuie să fii cu adevărat atent acum și cum introduci în firma ta sisteme IA cu adevărat sigure din punct de vedere juridic și conforme cu GDPR, fără să ajungi la final să răspunzi tu pentru asta."
+ },
+ {
+  "de": "Sichere dir jetzt zu 100% kostenfrei den KI-DSGVO-Report über kidsgvoreport.de oder über den Link in der Videobeschreibung, und damit zurück ins Video.",
+  "ro": "Asigură-ți acum, 100% gratuit, raportul IA-GDPR pe kidsgvoreport.de sau prin linkul din descrierea videoclipului, iar acum ne întoarcem la video."
+ },
+ {
+  "de": "Ja, wenn wir jetzt mal auf dieses Szenario schauen, also 2035, wenn wir es ganz extrem merken, jetzt denkt man natürlich ganz besonders erstmal an die Büroarbeiter, die Office-Jobs, Software-Developer, Grafikdesigner und so weiter, das sieht man ja heute schon.",
+  "ro": "Da, dacă ne uităm acum la acest scenariu, adică 2035, când o vom simți extrem de puternic, ne gândim desigur în primul rând la lucrătorii de birou, la joburile de birou, la dezvoltatorii de software, la designerii grafici și așa mai departe – asta se vede deja astăzi."
+ },
+ {
+  "de": "Also, da ist es ja keine ferne Zukunftsthese zu überlegen, dass sie 2035 zum ganz großen Teil eben nicht mehr vorhanden sein werden.",
+  "ro": "Deci nu e o teză futuristă îndepărtată să ne gândim că în 2035 acestea nu vor mai exista în foarte mare parte."
+ },
+ {
+  "de": "Und jetzt hört man ja immer wieder: Handwerk hat goldenen Boden.",
+  "ro": "Și acum auzi mereu: meseria e brățară de aur."
+ },
+ {
+  "de": "Ja, also mich betrifft das alles nicht.",
+  "ro": "Da, adică pe mine nu mă privește nimic din toate astea."
+ },
+ {
+  "de": "Lese ich eben auch immer wieder, weil im Handwerk – ja, macht ihr mal mit der KI.",
+  "ro": "Citesc și eu asta mereu, pentru că în meserii – da, faceți voi ce vreți cu IA."
+ },
+ {
+  "de": "Mich betrifft das alles nicht.",
+  "ro": "Pe mine nu mă privește nimic din toate astea."
+ },
+ {
+  "de": "Jetzt habe ich eine These, da interessiert mich deine Meinung zu.",
+  "ro": "Acum am o teză și mă interesează părerea ta despre ea."
+ },
+ {
+  "de": "Und zwar muss man sich ja die Frage stellen, was passiert denn dann mit diesen ganzen Menschen, die auf den Arbeitsmarkt strömen, und in China sind z.B. Plattformen wie Daojia, so eine Gig-Economy-Plattform, im Wesentlichen ein Uber für Handwerksleistungen und Serviceleistungen, schon verbreitet.",
+  "ro": "Și anume, trebuie să ne punem întrebarea: ce se întâmplă atunci cu toți acești oameni care se revarsă pe piața muncii? În China, de exemplu, platforme precum Daojia, o platformă de gig economy, practic un Uber pentru meșteșuguri și servicii, sunt deja răspândite."
+ },
+ {
+  "de": "Ich habe da neulich von einem Fall gelesen, in dem eine Frau 10 Jahre lang bei Daojia im Marketing gearbeitet hat, dann entlassen wurde, jetzt einen Reparaturdienst betreibt – und da titelt man eben, ne, von PowerPoint zum Akkuschrauber – und verdient sogar mehr als im Marketing.",
+  "ro": "Am citit de curând despre un caz în care o femeie a lucrat 10 ani în marketing la Daojia, apoi a fost concediată și acum are un serviciu de reparații – iar titlul era, nu-i așa, „de la PowerPoint la mașina de înșurubat” – și câștigă chiar mai mult decât în marketing."
+ },
+ {
+  "de": "Und siehst du das als wahrscheinlich, also dass vielleicht nicht nur humanoide Roboter auch im Handwerk Konkurrenz machen könnten, sondern vor allem dieses schlichte Überangebot an Arbeit, ja, diesem Handwerksmarkt?",
+  "ro": "Și consideri asta probabil, adică faptul că nu doar roboții umanoizi ar putea face concurență în meserii, ci mai ales această simplă supraofertă de forță de muncă, da, pe această piață a meseriilor?"
+ },
+ {
+  "de": "Definitiv.",
+  "ro": "Categoric."
+ },
+ {
+  "de": "Das ist ja sogar eine sehr naheliegende Prognose, ne?",
+  "ro": "Este chiar o prognoză foarte evidentă, nu?"
+ },
+ {
+  "de": "Wenn Menschen jetzt sozusagen ihre bisherigen Jobs nicht mehr machen können oder machen sollten, weil die KI es schneller, besser und kostengünstiger macht, dann suchen die sich natürlich was Neues.",
+  "ro": "Dacă oamenii nu-și mai pot face, sau nu ar mai trebui să-și facă, joburile de până acum, pentru că IA le face mai repede, mai bine și mai ieftin, atunci își caută, firește, ceva nou."
+ },
+ {
+  "de": "Ist doch klar.",
+  "ro": "E clar."
+ },
+ {
+  "de": "Und wo gehen sie hin?",
+  "ro": "Și unde se duc?"
+ },
+ {
+  "de": "Was suchen sie sich?",
+  "ro": "Ce își caută?"
+ },
+ {
+  "de": "Das, wo sie glauben, dass es noch funktioniert.",
+  "ro": "Ceva despre care cred că încă funcționează."
+ },
+ {
+  "de": "Und falls das am Anfang stimmen sollte – ich habe da meine Zweifel mit den humanoiden Robotern, ja –, aber falls das in den nächsten Jahren noch stimmen sollte, dass das Handwerk goldenen Boden hat, dann wird genau das passieren, was du gerade sagst, dass die Menschen, die an anderer Stelle ihre Arbeit verlieren, sagen: „Oh, da ist es aber toll, da gehe ich jetzt auch hin, mache ich Handwerk.“",
+  "ro": "Și dacă asta s-ar adeveri la început – am îndoielile mele în privința roboților umanoizi, da –, dar dacă în următorii ani se va adeveri că meseria e brățară de aur, atunci se va întâmpla exact ce spui tu: oamenii care își pierd munca în altă parte vor spune „Oh, acolo e grozav, mă duc și eu acolo, mă apuc de o meserie.”"
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Und dann wird's natürlich ein Überangebot geben, und dann passiert genau das, was wir ehrlicherweise schon in dem 2030-Buch prognostiziert haben, nämlich dass die Märkte sich zweiteilen: dass es einen großen, wir nennen das den Economy-Bereich, gibt, wo es eben um Preis-Leistung geht, wo man eigentlich gar keinen Unterschied mehr feststellen kann, wo es einfach nur um den besten Preis geht, und einen anderen Bereich, den Premium-Bereich, in einem Markt und eben auch im Handwerkermarkt, ja, einen Premiumbereich, wo es eher um – wir nennen das – Identitätsmanagement geht.",
+  "ro": "Și atunci va exista, desigur, o supraofertă și se va întâmpla exact ce am prognozat, sincer vorbind, deja în cartea despre 2030, anume că piețele se împart în două: că există un segment mare, noi îl numim segmentul Economy, unde contează raportul calitate-preț, unde de fapt nu mai poți constata nicio diferență, unde e vorba doar de cel mai bun preț, și un alt segment, segmentul Premium, într-o piață și deci și pe piața meseriilor, da, un segment premium unde e vorba mai degrabă de ceea ce noi numim managementul identității."
+ },
+ {
+  "de": "Also man könnte auch sagen Personal Branding, ja, wo jemand zu einem anderen geht und sich irgendwelche Handwerkerleistungen von dem anderen einkauft.",
+  "ro": "Adică s-ar putea spune și personal branding, da, când cineva merge la altcineva și îi cumpără niște servicii meșteșugărești."
+ },
+ {
+  "de": "Nicht, weil der das am besten macht, sondern weil der andere bekannt ist.",
+  "ro": "Nu pentru că acela le face cel mai bine, ci pentru că celălalt e cunoscut."
+ },
+ {
+  "de": "Weil wenn ich den beauftrage, dann wissen meine Freunde, meine Kollegen, meine Familie und so weiter alle: Boah, der Jánszky ist ganz toll.",
+  "ro": "Pentru că, dacă îl angajez pe el, atunci prietenii mei, colegii mei, familia mea și așa mai departe știu cu toții: uau, Jánszky ăsta e grozav."
+ },
+ {
+  "de": "Ja, der ist ganz tief in der Identität A, B, C oder so.",
+  "ro": "Da, el e adânc ancorat în identitatea A, B, C sau ce-o fi."
+ },
+ {
+  "de": "Der ist ganz toll, ganz besonders, weil der sich mit dem anderen beschäftigt und sich den anderen leistet, ne?",
+  "ro": "E grozav, foarte deosebit, pentru că lucrează cu celălalt și și-l permite pe celălalt, nu?"
+ },
+ {
+  "de": "Und das gibt es für ganz verschiedene Identitäten.",
+  "ro": "Și asta există pentru identități foarte diferite."
+ },
+ {
+  "de": "Das gibt's für die Identität: Jemand will beweisen, dass er besonders öko ist.",
+  "ro": "Există pentru identitatea: cineva vrea să demonstreze că e deosebit de eco."
+ },
+ {
+  "de": "Jemand will beweisen, dass er besonders heimatverbunden ist.",
+  "ro": "Cineva vrea să demonstreze că e deosebit de atașat de locurile natale."
+ },
+ {
+  "de": "Jemand will beweisen, dass er besonders reich ist.",
+  "ro": "Cineva vrea să demonstreze că e deosebit de bogat."
+ },
+ {
+  "de": "Jemand will beweisen, dass er besonders sparsam ist.",
+  "ro": "Cineva vrea să demonstreze că e deosebit de econom."
+ },
+ {
+  "de": "Jemand will beweisen, dass er besonders international, kosmopolitisch ist, besonders sportlich ist, besonders musikalisch, besonders intellektuell, besonders kulturinteressiert, besonders designaffin und so weiter und so fort.",
+  "ro": "Cineva vrea să demonstreze că e deosebit de internațional, cosmopolit, deosebit de sportiv, deosebit de muzical, deosebit de intelectual, deosebit de interesat de cultură, deosebit de pasionat de design și așa mai departe."
+ },
+ {
+  "de": "Also wir machen jetzt keine Unternehmensberatung hier heute, aber wenn wir mit unseren Unternehmenskunden reden, dann gibt's so 25 bis 30 Identitäten, die Menschen ausdrücken möchten durch die Benutzung von Produkten, von Unternehmensmarken und Personenmarken.",
+  "ro": "Ei bine, nu facem consultanță de afaceri astăzi aici, dar când vorbim cu clienții noștri corporativi, există cam 25 până la 30 de identități pe care oamenii vor să le exprime prin folosirea de produse, de mărci ale companiilor și de mărci personale."
+ },
+ {
+  "de": "Und gerade in diesem Handwerksbereich geht's natürlich um die Personenmarke.",
+  "ro": "Și tocmai în acest domeniu al meseriilor e vorba, firește, de marca personală."
+ },
+ {
+  "de": "Ja, ganz klar.",
+  "ro": "Da, foarte clar."
+ },
+ {
+  "de": "Und dann, damit das stimmt, was du gesagt hast, die Grundthese, dass das Handwerk goldenen Boden hat, damit die weiterhin stimmt, musst du nicht dein Handwerk besonders gut machen, sondern du musst besonders gut Personal Branding machen.",
+  "ro": "Și atunci, pentru ca ce ai spus tu să fie adevărat, teza de bază că meseria e brățară de aur, pentru ca ea să rămână valabilă, nu trebuie să-ți faci meseria deosebit de bine, ci trebuie să faci deosebit de bine personal branding."
+ },
+ {
+  "de": "Du musst für eine bestimmte Identität stehen als Mensch, als Handwerker, als Mensch, und dann hast du nach wie vor ein gutes Geschäft.",
+  "ro": "Trebuie să reprezinți o anumită identitate ca om, ca meșteșugar, ca om, și atunci ai în continuare o afacere bună."
+ },
+ {
+  "de": "Ja, absolut.",
+  "ro": "Da, absolut."
+ },
+ {
+  "de": "Und gerade wenn es dann noch so Plattformen gibt, die das entsprechend verteilen, nach Empfehlung beispielsweise, ähnlich wie bei Uber, dann ist es natürlich absolut denkbar, dass man hier mit einem Überangebot rechnen kann.",
+  "ro": "Și mai ales dacă mai există și platforme care distribuie lucrările în mod corespunzător, de exemplu pe bază de recomandări, similar cu Uber, atunci e absolut de conceput că ne putem aștepta aici la o supraofertă."
+ },
+ {
+  "de": "Und jetzt stellt sich mir noch mal die Frage, wenn wir über AGI und die Zukunft von Organisationen sprechen, dass ja OpenAI diese fünf Phasen der AGI-Entwicklung beschreibt.",
+  "ro": "Și acum îmi pun din nou întrebarea, când vorbim despre AGI și viitorul organizațiilor, pentru că OpenAI descrie aceste cinci faze ale dezvoltării AGI."
+ },
+ {
+  "de": "Und die letzte Stufe, also Stufe 5 nach OpenAI-Definition, sind autonome Organisationen und Firmen – und um Führung geht es auch, da sprechen wir gleich auch noch drüber –, aber hältst du das erstmal für wahrscheinlich, also wird's 2035 schon Firmen geben, die komplett ohne Menschen funktionieren?",
+  "ro": "Iar ultima treaptă, adică treapta 5 după definiția OpenAI, sunt organizațiile și firmele autonome – și e vorba și de conducere, despre asta vorbim imediat –, dar consideri asta mai întâi probabil, adică vor exista deja în 2035 firme care funcționează complet fără oameni?"
+ },
+ {
+  "de": "Wobei ehrlicherweise nicht – also aus meiner Sicht sind das nicht so viele Firmen.",
+  "ro": "Deși, sincer vorbind, nu – adică, din punctul meu de vedere, nu vor fi atât de multe firme."
+ },
+ {
+  "de": "Also das sind Firmen, wo wenig – wie soll ich das sagen – wo wenig Interaktion mit Menschen ist.",
+  "ro": "Adică sunt firme unde există puțină – cum să spun – puțină interacțiune cu oamenii."
+ },
+ {
+  "de": "Ja, also ich sag's mal so: Wenn eine Firma ein Produkt oder eine Dienstleistung herstellt und das an irgendeine andere KI verkauft, an eine KI, die dann einem Menschen gehört oder einer anderen Firma gehört und so weiter, dann ist das total wahrscheinlich, weil dann im Prinzip alle Prozesse, sowohl in der Konzeption, der Produktion, der Distribution des Produktes, als auch dann in den Transaktionen, also Rechnungswesen und so weiter – das kannst du alles mit Agents machen.",
+  "ro": "Da, să o spun așa: dacă o firmă produce un produs sau un serviciu și îl vinde unei alte IA, unei IA care aparține apoi unui om sau unei alte firme și așa mai departe, atunci e foarte probabil, pentru că în principiu toate procesele, atât în concepție, producție și distribuția produsului, cât și în tranzacții, adică contabilitate și așa mai departe – pe toate le poți face cu agenți."
+ },
+ {
+  "de": "Ja, dann hast du eine in sich geschlossene Organisation, die im Prinzip quasi nur auf Agents beruht.",
+  "ro": "Da, atunci ai o organizație închisă în sine, care se bazează în principiu doar pe agenți."
+ },
+ {
+  "de": "Aber bei all den Dingen, die an Menschen verkauft werden, hast du mit hoher Wahrscheinlichkeit tatsächlich noch an irgendeiner Stelle den Menschen mit drin.",
+  "ro": "Dar la toate lucrurile care se vând oamenilor, cel mai probabil vei avea într-adevăr omul implicat undeva."
+ },
+ {
+  "de": "Und das Interessante ist nur – und das geht dann wahrscheinlich gleich in die Frage von Führung über –, das Interessante ist nur, dass der Mensch nicht an der Führungsstelle steht in der Organisation, sondern der Mensch steht dann an der Stelle des Ausführenden, des Vertrauen Aufbauenden gegenüber anderen Menschen.",
+  "ro": "Iar interesant este doar – și asta trece probabil direct la întrebarea despre conducere –, interesant este doar că omul nu se află în poziția de conducere în organizație, ci în poziția celui care execută, a celui care construiește încredere față de alți oameni."
+ },
+ {
+  "de": "Das ist nicht zwingend die Führungsstelle in einem Unternehmen.",
+  "ro": "Aceasta nu este neapărat poziția de conducere într-o companie."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Aus heutiger Sicht ist das aus meiner Sicht ein großes Missverständnis.",
+  "ro": "Din perspectiva de azi, asta este, după părerea mea, o mare neînțelegere."
+ },
+ {
+  "de": "Ja, weil ganz viele mir heute irgendwie sagen: Human in the Loop.",
+  "ro": "Da, pentru că foarte mulți îmi spun azi: human in the loop."
+ },
+ {
+  "de": "Und was sie damit meinen ist, der Mensch ist noch der, der bestimmt, der entscheidet.",
+  "ro": "Iar ce vor să spună prin asta este că omul e încă cel care stabilește, cel care decide."
+ },
+ {
+  "de": "Ja, was heute auch noch so ist, natürlich, das ist heute so, aber in 10 Jahren ist am Ende der Mensch vielleicht noch der, dem das ganze Ding gehört, die Organisation, aber der soll bitte nicht entscheiden, weil entscheiden, das macht die KI besser.",
+  "ro": "Da, ceea ce e încă valabil azi, desigur, așa e azi, dar peste 10 ani omul va fi la final poate încă cel căruia îi aparține toată treaba, organizația, dar el să nu mai decidă, vă rog, pentru că deciziile le ia mai bine IA."
+ },
+ {
+  "de": "Ja, der soll an der Stelle, wo er wesentlich ist, wo die KI Dinge nicht so gut tun kann, wie ein Mensch sie tun kann, Vertrauen aufbauen gegenüber anderen Menschen, oder vielleicht auch bestimmte Handgriffe.",
+  "ro": "Da, el ar trebui ca, acolo unde este esențial, unde IA nu poate face lucrurile la fel de bine ca un om, să construiască încredere față de alți oameni, sau poate și să facă anumite operații manuale."
+ },
+ {
+  "de": "Auch 2035 wird KI wahrscheinlich noch nicht – wie soll ich das sagen – noch nicht die Biochemie des menschlichen Körpers nachbauen.",
+  "ro": "Nici în 2035 IA probabil nu va reproduce încă – cum să spun – biochimia corpului uman."
+ },
+ {
+  "de": "Also, die wird noch keine Angst spüren, die wird noch keine Euphorie spüren, die wird noch keine Leidenschaft spüren.",
+  "ro": "Adică nu va simți încă frică, nu va simți încă euforie, nu va simți încă pasiune."
+ },
+ {
+  "de": "Ja, all das bleibt menschlich.",
+  "ro": "Da, toate acestea rămân omenești."
+ },
+ {
+  "de": "Und überall, wo das gefragt ist, ist der Mensch in the Loop, nur eben nicht an führender Position.",
+  "ro": "Și oriunde e nevoie de asta, omul este in the loop, doar că nu într-o poziție de conducere."
+ },
+ {
+  "de": "Ja, das ist wirklich interessant, weil das ja so eine große Binsenweisheit ist, die ich gerade überall höre: Wir werden alle Manager von KI-Agenten.",
+  "ro": "Da, e foarte interesant, pentru că e un mare loc comun pe care îl aud acum peste tot: vom deveni cu toții manageri de agenți IA."
+ },
+ {
+  "de": "Ja, ihr müsst alle Führungskräfte von KI werden.",
+  "ro": "Da, trebuie să deveniți cu toții conducători ai IA."
+ },
+ {
+  "de": "Und ich sehe es heute schon teilweise als völlig idealistisch, weil ich so viele Leute sehe, die völlig überfordert sind, fünf bis zehn parallele Claude-Code-Sessions allein nur zu orchestrieren, wohingegen andere Menschen das äußerst gut hinbekommen und da gar keine Probleme haben – und das ist vielleicht einer von 100, ja, der das gut hinbekommt.",
+  "ro": "Și văd asta deja astăzi, parțial, ca fiind complet idealist, pentru că văd atât de mulți oameni complet depășiți doar de orchestrarea a cinci până la zece sesiuni Claude Code în paralel, în timp ce alții se descurcă extrem de bine și nu au nicio problemă – și poate unul din 100, da, se descurcă bine."
+ },
+ {
+  "de": "Und demnach stellt sich mir immer auch diese Frage, also die gebe ich noch mal an dich weiter: Wird der Großteil der Menschen, der ganz normalen Mitarbeiter, überhaupt in der Lage sein, so viele Agenten selbst zu managen und zu orchestrieren?",
+  "ro": "Și de aceea îmi pun mereu și această întrebare, pe care ți-o transmit din nou: va fi majoritatea oamenilor, a angajaților obișnuiți, în stare să gestioneze și să orchestreze singuri atât de mulți agenți?"
+ },
+ {
+  "de": "Und zweitens – das hast du gerade schon gesagt –, aber wird es dann tatsächlich wahrscheinlicher sein, dass nicht der normale Mitarbeiter und Mensch die KI führt, sondern eben ganz umgekehrt, also ein Großteil der Menschen von KI als Vorgesetzter sozusagen geführt wird?",
+  "ro": "Și în al doilea rând – ai spus-o deja –, dar va fi atunci într-adevăr mai probabil ca nu angajatul obișnuit, omul, să conducă IA, ci tocmai invers, adică o mare parte a oamenilor să fie conduși, ca să zic așa, de IA ca șef?"
+ },
+ {
+  "de": "Dann gibt's natürlich einen Unterschied zwischen dem, was du beschreibst, irgendwie fünf Claude-Code-Sessions zu orchestrieren, also sozusagen selber zu trainieren und die Agents – das werden nach wie vor nur wenige sein, das werden nicht alle Menschen sein.",
+  "ro": "Există, desigur, o diferență între ceea ce descrii tu, să orchestrezi cinci sesiuni Claude Code, adică, ca să zic așa, să antrenezi singur agenții – aceștia vor fi în continuare puțini, nu vor fi toți oamenii."
+ },
+ {
+  "de": "Aber was ich schon unterschreiben würde, zumindest für die nächsten – nicht für 2035, aber sag bis 2028, 29 oder so –, ist, dass Menschen dazu übergehen, KI-Teams zu führen.",
+  "ro": "Dar ce aș semna cu siguranță, cel puțin pentru următorii ani – nu pentru 2035, dar să zicem până în 2028, 2029 sau cam așa –, este că oamenii vor trece la a conduce echipe de IA."
+ },
+ {
+  "de": "Und das KI-Teams-Führen muss jetzt nicht heißen, ich trainiere die Dinger, sondern es kann auch heißen, ich kriege ein KI-Team quasi vorgegeben.",
+  "ro": "Iar a conduce echipe de IA nu trebuie să însemne că antrenez eu chestiile astea, ci poate însemna și că primesc, practic, o echipă de IA deja stabilită."
+ },
+ {
+  "de": "Das macht so seine Routinearbeit, ja, immer im Kreis, wenn man so will.",
+  "ro": "Ea își face munca de rutină, da, mereu în cerc, dacă vrei."
+ },
+ {
+  "de": "Und ich schaue einfach nur zu.",
+  "ro": "Iar eu doar mă uit."
+ },
+ {
+  "de": "Ich schaue als Mensch an irgendeiner Stelle auf irgendein Ergebnis und prüfe, ob das die richtige Qualität hat.",
+  "ro": "Ca om, mă uit undeva la un rezultat și verific dacă are calitatea potrivită."
+ },
+ {
+  "de": "Und wenn es die richtige Qualität nicht hat, dann habe ich einen bestimmten vordefinierten Prozess, den ich tun muss, um dieses Agent-Team sozusagen irgendwie wieder auf die richtige Bahn zu bringen.",
+  "ro": "Iar dacă nu are calitatea potrivită, atunci am un anumit proces predefinit pe care trebuie să-l urmez ca să readuc, ca să zic așa, această echipă de agenți pe drumul cel bun."
+ },
+ {
+  "de": "Das heißt nicht, dass ich programmieren muss, das heißt nicht, dass ich irgendwie ein Experte in Claude Code sein muss, sondern das heißt einfach nur, dass ich bestimmte Prozesse habe, denen ich folge, genau wie es heute in den allermeisten Jobs ist.",
+  "ro": "Asta nu înseamnă că trebuie să programez, nu înseamnă că trebuie să fiu vreun expert în Claude Code, ci înseamnă doar că am anumite procese pe care le urmez, exact cum e astăzi în marea majoritate a joburilor."
+ },
+ {
+  "de": "Ja, du kriegst gesagt, was du zu tun hast, und dann machst du das sozusagen, und je mehr Erfahrung du darin hast, desto besser machst du es und so weiter.",
+  "ro": "Da, ți se spune ce ai de făcut și apoi faci asta, ca să zic așa, și cu cât ai mai multă experiență, cu atât o faci mai bine și așa mai departe."
+ },
+ {
+  "de": "Also, das wird die Masse sein.",
+  "ro": "Deci aceasta va fi masa."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Aber – und jetzt auf den zweiten Teil der Frage – das wird nur so lange so sein, solange der Mensch noch besser einschätzen kann als eine KI, ob das Ergebnis, was da ist, ob die Qualität stimmt.",
+  "ro": "Dar – și acum la a doua parte a întrebării – așa va fi doar atâta timp cât omul poate încă evalua mai bine decât o IA dacă rezultatul obținut, dacă calitatea e cea potrivită."
+ },
+ {
+  "de": "Ne, und wenn dann aber dieser Zeitpunkt von AGI eintrifft – du hast es vorhin selber gesagt, es gibt verschiedene Definitionen von AGI, das führt uns jetzt vielleicht auch zu weit –, aber wenn dieser Zeitpunkt eintrifft, wo eine KI zum ersten Mal besser als ein Mensch entscheiden kann, ob das jetzt die richtige Qualität ist, was da rauskommt, dann ändert sich die Führungsrolle.",
+  "ro": "Nu-i așa, iar când va sosi momentul AGI – ai spus-o chiar tu mai devreme, există diferite definiții ale AGI, poate ne-ar duce prea departe acum –, dar când va sosi momentul în care o IA poate decide pentru prima dată mai bine decât un om dacă ceea ce iese are calitatea potrivită, atunci se schimbă rolul de conducere."
+ },
+ {
+  "de": "Dann muss die KI – und wahrscheinlich ist das so 2028, 29 – und dann kippt das, und dann muss die KI die Führung übernehmen.",
+  "ro": "Atunci IA trebuie – și probabil asta va fi pe la 2028, 2029 – și atunci situația se răstoarnă, iar IA trebuie să preia conducerea."
+ },
+ {
+  "de": "Wenn dir dieses Video hier gefällt und du schon was Neues gelernt hast, dann stell einmal sicher, ob du den Kanal wirklich abonniert hast.",
+  "ro": "Dacă îți place acest video și ai învățat deja ceva nou, verifică o dată dacă te-ai abonat într-adevăr la canal."
+ },
+ {
+  "de": "Ich höre immer wieder von Zuschauern, die die Videos hier ausgespielt bekommen, die davon profitieren, aber übersehen, dass sie den Kanal nicht abonniert haben.",
+  "ro": "Aud mereu de la spectatori cărora li se afișează videoclipurile de aici, care beneficiază de ele, dar scapă din vedere că nu sunt abonați la canal."
+ },
+ {
+  "de": "Wenn du den Kanal abonnierst und die Glocke aktivierst, dann profitierst du immer als Erste oder Erster von den neuesten Videos, von den neuesten Entwicklungen im KI-Bereich, und bist allen anderen zwei, drei Schritte voraus.",
+  "ro": "Dacă te abonezi la canal și activezi clopoțelul, vei beneficia mereu prima sau primul de cele mai noi videoclipuri, de cele mai noi evoluții din domeniul IA, și vei fi cu doi-trei pași înaintea tuturor celorlalți."
+ },
+ {
+  "de": "Deswegen schau einmal nach, tu dir selbst den Gefallen, und jetzt viel Spaß mit dem weiteren Video.",
+  "ro": "De aceea verifică o dată, fă-ți singur această favoare, iar acum vizionare plăcută în continuare."
+ },
+ {
+  "de": "Du schreibst auch, Mitarbeiter, Kunden und Partner müssen dann auch wissen, wann sie es mit einem Menschen, wann mit einem Replikat und wann mit irgendeinem anderen autonomen System zu tun haben.",
+  "ro": "Scrii și că angajații, clienții și partenerii trebuie să știe atunci când au de-a face cu un om, când cu o replică și când cu un alt sistem autonom."
+ },
+ {
+  "de": "Wie stellst du dir das vor?",
+  "ro": "Cum îți imaginezi asta?"
+ },
+ {
+  "de": "An vielen Stellen wird es für viele Menschen sogar egal sein, ob sie mit irgendwie sowas zu tun haben.",
+  "ro": "În multe situații, pentru mulți oameni va fi chiar indiferent dacă au de-a face cu așa ceva."
+ },
+ {
+  "de": "Aber eine Abgrenzung wird für die Menschen – wie soll ich das sagen – für das menschliche Selbstverständnis, für das menschliche Selbstbild wichtig sein, nämlich die Abgrenzung: Habe ich es hier mit einem anderen Menschen zu tun oder nicht?",
+  "ro": "Dar o delimitare va fi importantă pentru oameni – cum să spun – pentru felul în care omul se înțelege pe sine, pentru imaginea de sine a omului, și anume delimitarea: am de-a face aici cu un alt om sau nu?"
+ },
+ {
+  "de": "Weil – stell dir vor, stell dir unsere gesamte Welt vor und all die Prozesse, die Produktion und was da alles irgendwie passiert in der Welt, und die KI kann Schritt für Schritt ganz viele von diesen Dingen besser machen als der Mensch.",
+  "ro": "Pentru că – imaginează-ți, imaginează-ți întreaga noastră lume și toate procesele, producția și tot ce se întâmplă în lume, iar IA poate face, pas cu pas, foarte multe dintre aceste lucruri mai bine decât omul."
+ },
+ {
+  "de": "Dann fällt der Mensch erstmal in eine Sinnkrise, in ein Identitätsproblem, der sagt: „Ey, wofür bin ich jetzt eigentlich noch da?“",
+  "ro": "Atunci omul cade mai întâi într-o criză de sens, într-o problemă de identitate, și spune: „Hei, de fapt pentru ce mai exist eu acum?”"
+ },
+ {
+  "de": "Ja, wenn die KI alles besser machen kann.",
+  "ro": "Da, dacă IA poate face totul mai bine."
+ },
+ {
+  "de": "Und dann wird er sich – das ist eine große These in dem Buch – wird er sich rückbesinnen auf das, was den Menschen vielleicht wirklich menschlich macht, und das ist nicht, besonders schnell zu sein, besonders klüger zu sein als ein Computer, intelligenter zu sein als eine KI.",
+  "ro": "Iar apoi el se va – asta e o teză importantă din carte – se va întoarce la ceea ce îl face poate cu adevărat uman pe om, iar asta nu înseamnă să fie deosebit de rapid, mult mai deștept decât un computer, mai inteligent decât o IA."
+ },
+ {
+  "de": "Das ist nicht, was den Menschen menschlicher macht.",
+  "ro": "Nu asta îl face pe om mai uman."
+ },
+ {
+  "de": "Was den Menschen menschlicher macht, ist, dass der Mensch in der Lage ist, anderen Menschen gegenüber Empathie zu zeigen, ihnen Energie zu geben, sie zu motivieren, andere sozusagen mitzuziehen, andere zu begeistern, Leidenschaft zu vermitteln.",
+  "ro": "Ce îl face pe om mai uman este faptul că omul e capabil să arate empatie față de alți oameni, să le dea energie, să-i motiveze, să-i antreneze, ca să zic așa, pe ceilalți, să-i entuziasmeze, să transmită pasiune."
+ },
+ {
+  "de": "Das ist das, was menschlich ist.",
+  "ro": "Asta este ceea ce e uman."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Ich nenne das in dem Buch – ich verwende relativ häufig das Wort die Würde, ja, die menschliche Würde.",
+  "ro": "Eu numesc asta în carte – folosesc relativ des cuvântul demnitate, da, demnitatea umană."
+ },
+ {
+  "de": "Das ist für mich – und jetzt kann man lange Diskussionen machen, was ist eigentlich Würde, wie definieren wir das?",
+  "ro": "Aceasta este pentru mine – și acum se pot purta discuții lungi despre ce este de fapt demnitatea, cum o definim?"
+ },
+ {
+  "de": "Aber für mich ist das der Kern sozusagen des Menschseins.",
+  "ro": "Dar pentru mine aceasta este, ca să zic așa, miezul condiției umane."
+ },
+ {
+  "de": "Und wir sind durch das Industriezeitalter und das, was jetzt danach passiert ist, das Wissenszeitalter oder Informationszeitalter, wie wir es nennen wollen, ähm, sind wir ein Stück weit, wie soll ich sagen, immer in diese Computerdenke reingekommen.",
+  "ro": "Iar prin epoca industrială și prin ceea ce a urmat, epoca cunoașterii sau a informației, cum vrem s-o numim, am intrat, într-o oarecare măsură, cum să spun, tot mai mult în această gândire de tip computer."
+ },
+ {
+  "de": "Ja, und wir werden feststellen: Gegen Computer, gegen KI können wir nicht konkurrieren.",
+  "ro": "Da, și vom constata că împotriva computerelor, împotriva IA, nu putem concura."
+ },
+ {
+  "de": "Also werden wir uns sozusagen darauf zurückziehen, ähm, auf diese menschliche Würde, auf das, was wirklich menschlich ist.",
+  "ro": "Așa că ne vom retrage, ca să zic așa, asupra acestei demnități umane, asupra a ceea ce este cu adevărat omenesc."
+ },
+ {
+  "de": "So.",
+  "ro": "Așa."
+ },
+ {
+  "de": "Und jetzt die Antwort auf deine Frage: Wenn das das neue Selbstbild von Menschen wird, dann wird es für Menschen wichtig werden, zu zeigen, stolz zu zeigen: Hey, ich bin ein Mensch, weil ich diese Würde habe, und so weiter und so fort.",
+  "ro": "Și acum răspunsul la întrebarea ta: dacă aceasta devine noua imagine de sine a oamenilor, atunci va deveni important pentru oameni să arate, să arate cu mândrie: hei, sunt om, pentru că am această demnitate, și așa mai departe."
+ },
+ {
+  "de": "Und dann muss man sich das gegenseitig zeigen, und dadurch kommt sozusagen die Prognose dieser Abgrenzung, dass in den Kommunikationen immer sehr, sehr klar ist, auf welche Weise auch immer: Habe ich es jetzt gerade mit einer KI zu tun oder habe ich es wirklich mit einem Menschen zu tun?",
+  "ro": "Și atunci trebuie să ne arătăm asta reciproc, și de aici vine, ca să zic așa, prognoza acestei delimitări: că în comunicare va fi mereu foarte, foarte clar, într-un fel sau altul, dacă am de-a face acum cu o IA sau chiar cu un om."
+ },
+ {
+  "de": "Denn wenn ich als Mensch mit einem anderen Menschen kommuniziere, dann ist die Vertrauensebene eine ganz andere.",
+  "ro": "Pentru că atunci când eu, ca om, comunic cu un alt om, nivelul de încredere este cu totul altul."
+ },
+ {
+  "de": "Ja, dann geht's um ganz andere Themen, dann geht's um eine ganz andere Kommunikation, einen ganz anderen Energieaustausch auch, ähm, als zwischen Mensch und Maschine.",
+  "ro": "Da, atunci e vorba de cu totul alte teme, de o comunicare cu totul diferită, și de un schimb de energie cu totul diferit decât între om și mașină."
+ },
+ {
+  "de": "Ja, also das war für mich auch eine der interessantesten Thesen, dass du sagtest, dass das rein Körperliche, dadurch, dass der Mensch eben an Wissen und an Fähigkeiten einfach schlicht und umfassend in jedem Bereich gegen den Computer verliert, als die heilige Kuh letztendlich stehen bleiben wird, wenn alles andere irrelevant wird.",
+  "ro": "Da, pentru mine aceasta a fost una dintre cele mai interesante teze: ai spus că pur fizicul, din cauză că omul pierde în fața computerului, pur și simplu și cuprinzător, în orice domeniu, la cunoștințe și abilități, va rămâne în cele din urmă vaca sacră, atunci când tot restul devine irelevant."
+ },
+ {
+  "de": "Ich habe da viele Fragen zu, aber aus Zeitgründen jetzt noch mal eine andere Frage, die mich in dem Kontext interessiert, wenn wir über Wahrheit sprechen – das ist ja auch ein ganzes Kapitel hier: Was passiert mit Wahrheit in 2035?",
+  "ro": "Am multe întrebări despre asta, dar din lipsă de timp, încă o altă întrebare care mă interesează în acest context, când vorbim despre adevăr – e de fapt un capitol întreg aici: ce se întâmplă cu adevărul în 2035?"
+ },
+ {
+  "de": "Und das, was man ja heute schon sieht, du hast es angedeutet: Wir wollen wissen, ist das hier ein KI-Output?",
+  "ro": "Iar ce se vede deja azi, ai sugerat-o: vrem să știm dacă acesta e un output al IA."
+ },
+ {
+  "de": "Und aktuell ist es meiner Wahrnehmung nach eher das Verständnis: Ich will wissen, ist das, was die KI hier macht, eigentlich wahr?",
+  "ro": "Iar în prezent, după percepția mea, înțelegerea este mai degrabă: vreau să știu dacă ceea ce face IA aici este de fapt adevărat."
+ },
+ {
+  "de": "Also diese Idee von dem neuen Transparenzsiegel des AI Acts.",
+  "ro": "Adică ideea aceasta a noului sigiliu de transparență din AI Act."
+ },
+ {
+  "de": "Und wenn du jetzt aber sagst, okay, in den meisten Organisationen oder auch in Führungspositionen würde es nach AGI eher rational sein, einer KI zu vertrauen und ihr die Entscheidung zu lassen und nicht dem Menschen, dann stellt sich mir die Frage: Wird sich das vielleicht ins Umgekehrte kippen?",
+  "ro": "Dar dacă spui acum că, bine, în majoritatea organizațiilor sau și în pozițiile de conducere, după AGI ar fi mai rațional să ai încredere într-o IA și să-i lași ei decizia, nu omului, atunci mă întreb: se va răsturna asta poate în sens invers?"
+ },
+ {
+  "de": "Also, dass wir eher sagen werden, ich vertraue den Menschen nicht mehr, wenn das Ganze nicht vorher durch eine KI-Prüfung ging, dass man quasi ein umgekehrtes AI-Act-Siegel hätte: Achtung, Mensch!",
+  "ro": "Adică să ajungem să spunem mai degrabă că nu mai am încredere în oameni dacă totul nu a trecut înainte printr-o verificare făcută de IA, încât să avem practic un sigiliu AI Act invers: Atenție, om!"
+ },
+ {
+  "de": "Ja, da hat ein Mensch entschieden, da können wir nicht drauf vertrauen, es müsste erstmal noch von der KI geprüft werden.",
+  "ro": "Da, aici a decis un om, nu ne putem baza pe asta, ar trebui mai întâi verificat de IA."
+ },
+ {
+  "de": "Wie siehst du das?",
+  "ro": "Cum vezi tu asta?"
+ },
+ {
+  "de": "Mit hoher Wahrscheinlichkeit wird das genauso sein, wie du es beschreibst.",
+  "ro": "Cu mare probabilitate va fi exact așa cum descrii tu."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Ähm, und wenn man das Buch genau liest, dann merkt man, dass ich ein ganz großes Problem mit dem Wort Wahrheit habe, weil ich als Wissenschaftler keine Wahrheit kenne.",
+  "ro": "Și dacă citești cartea cu atenție, îți dai seama că am o problemă foarte mare cu cuvântul adevăr, pentru că, în calitate de om de știință, nu cunosc niciun adevăr."
+ },
+ {
+  "de": "Ja, es gibt Dinge, auf die die Menschheit sich verständigt hat, weil sie dem aktuellen Stand von Entwicklung, von Wissenschaft entsprechen, aber die sind immer nur so lange wahr, bis das Gegenteil bewiesen wurde oder die Technologie weiterentwickelt wurde und so weiter.",
+  "ro": "Da, există lucruri asupra cărora omenirea a căzut de acord, pentru că corespund stadiului actual al dezvoltării, al științei, dar ele sunt adevărate doar până când se dovedește contrariul sau până când tehnologia evoluează și așa mai departe."
+ },
+ {
+  "de": "Ja, und das gilt mit den größten, mit den wichtigsten Gesetzen, mit Einsteins Relativitätstheorie: Die ist nur so lange wahr, bis die Quantentheorie eintritt, und dann erklärt sie plötzlich nichts mehr.",
+  "ro": "Da, și asta e valabil și pentru cele mai mari, cele mai importante legi, cu teoria relativității a lui Einstein: e adevărată doar până când intră în scenă teoria cuantică, și atunci dintr-odată nu mai explică nimic."
+ },
+ {
+  "de": "Ähm, also kurz gesagt, als Wissenschaftler habe ich ein ganz großes Problem mit der Vorstellung von ganz vielen Menschen, dass es so etwas wie die hundertprozentige Wahrheit gäbe.",
+  "ro": "Pe scurt, ca om de știință am o mare problemă cu ideea, pe care o au foarte mulți oameni, că ar exista așa ceva ca adevărul sută la sută."
+ },
+ {
+  "de": "Gibt es nicht.",
+  "ro": "Nu există."
+ },
+ {
+  "de": "Es gibt Entwicklungsstände, es gibt Wahrscheinlichkeiten.",
+  "ro": "Există stadii de dezvoltare, există probabilități."
+ },
+ {
+  "de": "Ja, und wir werden uns dran gewöhnen müssen, ob wir wollen oder nicht, dass wir entscheiden, obwohl es keine Wahrheit gibt, dass wir entscheiden, obwohl es nur Wahrscheinlichkeiten, Entwicklungsstände und so weiter gibt.",
+  "ro": "Da, și va trebui să ne obișnuim, fie că vrem, fie că nu, să luăm decizii deși nu există adevăr, să decidem deși există doar probabilități, stadii de dezvoltare și așa mai departe."
+ },
+ {
+  "de": "Ähm, wie gesagt, in meiner Wissenschaft ist das normal.",
+  "ro": "Cum am spus, în știința mea asta e normal."
+ },
+ {
+  "de": "Wir Zukunftsforscher, wir machen das die ganze Zeit, weil es in der Zukunftsforschung sowieso keine Wahrheit gibt.",
+  "ro": "Noi, cercetătorii viitorului, facem asta tot timpul, pentru că în cercetarea viitorului oricum nu există adevăr."
+ },
+ {
+  "de": "Wir reden über die Zukunft, die kannst du noch nicht zählen, nicht messen, die kannst du noch nicht sehen.",
+  "ro": "Vorbim despre viitor, pe care încă nu-l poți număra, nu-l poți măsura, nu-l poți încă vedea."
+ },
+ {
+  "de": "Ähm, es gibt nur Meinungen darüber, aber wie gesagt, es gibt ein paar Meinungen, die haben eben eine höhere Wahrscheinlichkeit, sich durchzusetzen.",
+  "ro": "Există doar opinii despre el, dar, cum am spus, există câteva opinii care au o probabilitate mai mare să se impună."
+ },
+ {
+  "de": "Wahrscheinlichkeit.",
+  "ro": "Probabilitate."
+ },
+ {
+  "de": "Ja, und deshalb können wir damit umgehen.",
+  "ro": "Da, și de aceea putem gestiona asta."
+ },
+ {
+  "de": "Zurück auf deine Frage.",
+  "ro": "Înapoi la întrebarea ta."
+ },
+ {
+  "de": "Ähm, natürlich werden wir Menschen irgendwann feststellen, dass die Entscheidungen besser sind, also dass der Outcome, das Ergebnis dieser Entscheidung besser ist, wenn KI es entscheidet.",
+  "ro": "Firește că noi, oamenii, vom constata la un moment dat că deciziile sunt mai bune, adică rezultatul acestor decizii e mai bun atunci când decide IA."
+ },
+ {
+  "de": "Und an dieser Stelle wird genau das passieren, was du sagst.",
+  "ro": "Și în acel punct se va întâmpla exact ce spui tu."
+ },
+ {
+  "de": "Ähm, dann werden Menschen kritisch werden, wenn ein anderer Mensch was entschieden hat, ohne eine KI zu befragen.",
+  "ro": "Atunci oamenii vor deveni critici când un alt om a decis ceva fără să consulte o IA."
+ },
+ {
+  "de": "Ja, also ganz einfaches Beispiel.",
+  "ro": "Da, un exemplu foarte simplu."
+ },
+ {
+  "de": "Stell dir vor, wir hätten heute schon eine KI, die, sagen wir mal, für das Land Deutschland, für die gesellschaftlichen Entscheidungen, die die Bundesregierung so treffen muss, die ganzen Ministerien da, ähm, immer eine Prognose errechnen könnte, was da rauskommt.",
+  "ro": "Imaginează-ți că am avea deja azi o IA care, să zicem, pentru Germania, pentru deciziile sociale pe care trebuie să le ia guvernul federal, toate ministerele de acolo, ar putea calcula mereu o prognoză despre ce va ieși."
+ },
+ {
+  "de": "Und diese KI hätte nicht nur die Bundesregierung – die Bundesregierung hätte so eine KI oder mehrere, keine Ahnung –, sondern auch die Medien, die Zeitungen, Radio, Fernsehen, die hätten auch so eine KI.",
+  "ro": "Și această IA n-ar avea-o doar guvernul – guvernul ar avea o astfel de IA sau mai multe, habar n-am –, ci și mass-media, ziarele, radioul, televiziunea ar avea și ele o astfel de IA."
+ },
+ {
+  "de": "Ähm, und jetzt würde ein Bundeskanzler irgendwas, irgendein Gesetz entscheiden, ohne diese KI vorher zu befragen.",
+  "ro": "Și acum un cancelar federal ar decide ceva, o lege oarecare, fără să consulte înainte această IA."
+ },
+ {
+  "de": "Dann würden doch alle Medien sich sofort auf diesen Bundeskanzler stürzen und sagen: „Um Gottes willen, der hat diese KI nicht befragt, wie kann der nur?“",
+  "ro": "Atunci toate mediile s-ar năpusti imediat asupra acestui cancelar și ar spune: „Doamne ferește, n-a consultat IA, cum a putut?”"
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Ähm, und das weiß dieser Bundeskanzler, der ist ja nicht blöd, der hätte Angst davor, dass sowas passiert.",
+  "ro": "Și cancelarul știe asta, doar nu e prost, s-ar teme că se poate întâmpla așa ceva."
+ },
+ {
+  "de": "Ja, deshalb wird er immer diese KI vorher befragen.",
+  "ro": "Da, de aceea va consulta mereu IA înainte."
+ },
+ {
+  "de": "Und das habe ich jetzt auf Bundeskanzlerebene gesagt, das kannst du runterbrechen auf Bürgermeisterebene, das kannst du auf Unternehmensebene, das kannst du sogar irgendwie auf Familienebene runterbrechen.",
+  "ro": "Și asta am spus-o acum la nivel de cancelar, dar o poți coborî la nivel de primar, la nivel de companie, ba chiar la nivel de familie."
+ },
+ {
+  "de": "Ähm, wenn irgendwie Eltern irgendeine Entscheidung treffen, ohne eine KI zu befragen, und die Kinder sagen: Bist du bescheuert?",
+  "ro": "Când niște părinți iau o decizie fără să consulte o IA, iar copiii le spun: Ești nebun?"
+ },
+ {
+  "de": "Na klar, das wird so sein.",
+  "ro": "Sigur că așa va fi."
+ },
+ {
+  "de": "Wir werden KI in diesen Dingen mehr vertrauen als anderen Menschen.",
+  "ro": "În aceste privințe vom avea mai multă încredere în IA decât în alți oameni."
+ },
+ {
+  "de": "Aber das heißt nicht, dass wir Menschen nicht mehr vertrauen.",
+  "ro": "Dar asta nu înseamnă că nu vom mai avea încredere în oameni."
+ },
+ {
+  "de": "Nee, deshalb habe ich das vorhin so getrennt, zwischen Entscheidungen, die irgendwie in Richtung Produktivität und Kosten und sowas gehen, und Entscheidungen, die irgendwas mit Leidenschaft, mit Menschlichkeit, mit Gefühlen und sowas zu tun haben – die werden wir nach wie vor selber treffen, selbstverständlich.",
+  "ro": "Nu, de aceea am făcut mai devreme această separare, între deciziile care țin de productivitate, costuri și altele asemenea, și deciziile care au de-a face cu pasiunea, cu umanitatea, cu sentimentele – pe acestea le vom lua în continuare noi înșine, bineînțeles."
+ },
+ {
+  "de": "Und ich glaube, dass es gut so ist.",
+  "ro": "Și cred că e bine așa."
+ },
+ {
+  "de": "Wir werden viel mehr Zeit haben.",
+  "ro": "Vom avea mult mai mult timp."
+ },
+ {
+  "de": "Jeder Mensch wird viel mehr Zeit haben für diesen menschlichen Bereich der Gefühle, der Zwischenmenschlichkeit, vielleicht sogar der Spiritualität, je nach Gusto, ja, je nachdem, wie man da veranlagt ist.",
+  "ro": "Fiecare om va avea mult mai mult timp pentru această zonă umană a sentimentelor, a relațiilor interumane, poate chiar a spiritualității, după gust, da, în funcție de cum e fiecare înclinat."
+ },
+ {
+  "de": "Ähm, wir werden viel mehr Zeit haben, und das bringt mich ans Ende: Wenn man das Buch durchliest, habe ich jedenfalls dieses Gefühl, und ich glaube, auch der Leser, die Leserin muss das Gefühl haben, dass diese Welt im Jahr 2035 menschlicher wird.",
+  "ro": "Vom avea mult mai mult timp, și asta mă aduce la final: când citești cartea, eu cel puțin am acest sentiment, și cred că și cititorul, cititoarea trebuie să aibă sentimentul că lumea în anul 2035 devine mai umană."
+ },
+ {
+  "de": "Ja, Wahnsinn.",
+  "ro": "Da, incredibil."
+ },
+ {
+  "de": "Also ich glaube, wir müssen noch mal sprechen.",
+  "ro": "Cred că trebuie să mai vorbim o dată."
+ },
+ {
+  "de": "Ich hätte noch so viele Fragen zu KI und Staat und diesem ganzen Thema, also schreibt es in die Kommentare, wenn euch das interessiert.",
+  "ro": "Aș mai avea atâtea întrebări despre IA și stat și toată această temă, așa că scrieți în comentarii dacă vă interesează."
+ },
+ {
+  "de": "Eine letzte Frage, Sven, weil du auch schon beim 2030-Buch einer der größten Advokaten für die elektronische Person warst, und das ja durchaus auch bis heute ein heikles Thema ist und sich bei all diesen Entwicklungen natürlich die Frage stellen muss: Irgendwann wird KI eine eigene Rechtsperson bekommen.",
+  "ro": "O ultimă întrebare, Sven, pentru că încă de la cartea despre 2030 ai fost unul dintre cei mai mari susținători ai persoanei electronice, iar asta rămâne și azi o temă delicată, și cu toate aceste evoluții se pune firesc întrebarea: la un moment dat IA va primi o personalitate juridică proprie."
+ },
+ {
+  "de": "Und so wie ich es rauslese, bist du dir durchaus relativ sicher, ähm, dass das eben kommen muss.",
+  "ro": "Și, din ce înțeleg eu, ești destul de sigur că asta trebuie să vină."
+ },
+ {
+  "de": "Und hier eben noch mal die Frage: Wie siehst du das bezüglich der elektronischen Person schon im Jahr 2035?",
+  "ro": "Și de aici întrebarea: cum vezi problema persoanei electronice deja în anul 2035?"
+ },
+ {
+  "de": "Ähm, wie sicher bist du dir, dass sowas eingeführt werden muss?",
+  "ro": "Cât de sigur ești că așa ceva trebuie introdus?"
+ },
+ {
+  "de": "Ich bin mir sicher, dass wir auf dem Weg sind, dass sowas eingeführt werden muss, weil wenn du Intelligenzen hast – reden wir mal nicht über Personen, weil ich glaube, bei dieser Frage haben wir ein Missverständnis oder es kommt ein Missverständnis auf, weil wir über Personen reden, und bei Personen denken wir immer an Körper.",
+  "ro": "Sunt sigur că suntem pe drumul spre a trebui să introducem așa ceva, pentru că atunci când ai inteligențe – să nu vorbim despre persoane, pentru că eu cred că la această întrebare avem o neînțelegere, sau apare o neînțelegere, fiindcă vorbim despre persoane, iar când spunem persoane ne gândim mereu la corpuri."
+ },
+ {
+  "de": "Ja, wenn wir über Intelligenzen reden würden, wenn wir also darüber reden würden, dass jede Intelligenz auf der Welt – der Mensch, und Tiere haben auch eine bestimmte Intelligenz, und KIs haben eben auch eine Intelligenz –, dass du je nach Grad der Intelligenz sozusagen bestimmte Rechte und bestimmte Pflichten hast.",
+  "ro": "Da, dacă am vorbi despre inteligențe, adică dacă am vorbi despre faptul că orice inteligență din lume – omul, iar animalele au și ele o anumită inteligență, și IA-urile au și ele o inteligență –, că în funcție de gradul de inteligență ai, ca să zic așa, anumite drepturi și anumite obligații."
+ },
+ {
+  "de": "Ähm, und irgendwo ist natürlich auch ein Strich.",
+  "ro": "Și undeva există, firește, și o linie de demarcație."
+ },
+ {
+  "de": "Also Tiere haben jetzt kein Wahlrecht.",
+  "ro": "De exemplu, animalele nu au drept de vot."
+ },
+ {
+  "de": "Ja, die haben zwar das Recht zu leben und, was weiß ich, irgendwelche Rechte, aber eben jetzt nicht, irgendwie mitzubestimmen in der Gesellschaft.",
+  "ro": "Da, au dreptul la viață și, ce știu eu, alte drepturi, dar nu și dreptul de a participa la decizii în societate."
+ },
+ {
+  "de": "Klar, also irgendwo gibt's eine Grenze, aber die hängt ab von der Macht der Intelligenz.",
+  "ro": "Sigur, undeva există o limită, dar ea depinde de puterea inteligenței."
+ },
+ {
+  "de": "Und wenn jetzt diese KI durch diese Grenze durchgeht und auf menschliches Niveau kommt und vielleicht sogar über das menschliche Niveau drüber geht, dann braucht die natürlich Pflichten, da sind wir uns alle einig, ja?",
+  "ro": "Iar dacă această IA trece de această limită și ajunge la nivel uman, poate chiar depășește nivelul uman, atunci are firește nevoie de obligații, asupra asta suntem cu toții de acord, nu?"
+ },
+ {
+  "de": "Die muss irgendwie Regeln kriegen, das weiß inzwischen jeder.",
+  "ro": "Trebuie să primească niște reguli, asta o știe între timp toată lumea."
+ },
+ {
+  "de": "Aber jeder, der Pflichten hat, jede Intelligenz, die Pflichten hat, die hat auch Rechte.",
+  "ro": "Dar oricine are obligații, orice inteligență care are obligații, are și drepturi."
+ },
+ {
+  "de": "Das ist so.",
+  "ro": "Așa stau lucrurile."
+ },
+ {
+  "de": "Ja.",
+  "ro": "Da."
+ },
+ {
+  "de": "Ähm, und deshalb ist das für mich ein klares Thema, und ich glaube, dass wir als Gesellschaft gut daran tun würden, uns relativ zeitig damit zu beschäftigen und dort ein System einzuführen.",
+  "ro": "Și de aceea, pentru mine, aceasta este o temă clară, și cred că am face bine, ca societate, să ne ocupăm de ea relativ din timp și să introducem acolo un sistem."
+ },
+ {
+  "de": "Ja, irgendwann hat die Menschheit sich ja so eine Art Demokratie – in verschiedenen Ausführungen in verschiedenen Teilen der Welt, aber irgendwie so eine Art Demokratie – gegeben, weil sie festgestellt hat: Oh, auf diese Weise können die Intelligenzen, die menschlichen Intelligenzen, am besten miteinander umgehen.",
+  "ro": "Da, la un moment dat omenirea și-a dat un fel de democrație – în diverse variante, în diferite părți ale lumii, dar oricum un fel de democrație –, pentru că a constatat: aha, în felul acesta inteligențele, inteligențele umane, se pot înțelege cel mai bine între ele."
+ },
+ {
+  "de": "Und genauso ein System, was aber dann wahrscheinlich ein kleines bisschen anders aussehen wird als unsere heutige parlamentarische Demokratie, ähm, genauso ein System muss sich wieder bilden mit diesen künstlichen Intelligenzen.",
+  "ro": "Și exact un astfel de sistem, care probabil va arăta puțin altfel decât democrația noastră parlamentară de azi, exact un astfel de sistem trebuie să se formeze din nou, cu aceste inteligențe artificiale."
+ },
+ {
+  "de": "Und wie gesagt, je eher man das bildet, desto wahrscheinlicher ist es, dass das Ganze relativ smooth passiert und ohne irgendwelche sozialen Unruhen dazwischen.",
+  "ro": "Și, cum am spus, cu cât îl formezi mai devreme, cu atât e mai probabil ca totul să se petreacă relativ lin și fără tulburări sociale pe parcurs."
+ },
+ {
+  "de": "Wenn man das zu lange laufen lässt und plötzlich schlägt da irgendwas ein, plötzlich kommt da irgendwas rein, dann, na ja, dann hat's in der Geschichte an solchen Situationen, in solchen welt- oder gesellschaftsverändernden Momenten auch schon mal wirklich Unruhen und Revolutionen und Kriege gegeben.",
+  "ro": "Dacă lași lucrurile să meargă prea mult așa și dintr-odată se întâmplă ceva, dintr-odată intervine ceva, atunci, ei bine, în istorie au existat în astfel de situații, în astfel de momente care schimbă lumea sau societatea, chiar și tulburări, revoluții și războaie."
+ },
+ {
+  "de": "Ich hoffe nicht, dass wir das mit Blutvergießen im Ganzen erleben – ich hoffe, wir können das vermeiden.",
+  "ro": "Sper să nu trăim asta cu vărsare de sânge – sper că putem evita așa ceva."
+ },
+ {
+  "de": "Aber wie gesagt, es hat was damit zu tun, wie schnell oder wie zeitig wir damit anfangen, uns darauf vorzubereiten und dann eben, wenn es soweit ist, schon ein System in Place zu haben, ähm, was das sozusagen abfängt.",
+  "ro": "Dar, cum am spus, depinde de cât de repede sau cât de devreme începem să ne pregătim pentru asta, ca atunci când va veni momentul să avem deja un sistem pus la punct care, ca să zic așa, să amortizeze totul."
+ },
+ {
+  "de": "Ja, das ist natürlich höchst brisant.",
+  "ro": "Da, asta e, desigur, extrem de exploziv."
+ },
+ {
+  "de": "Also, wenn euch das interessiert, dass wir das mal in einem Gespräch mit Sven vertiefen, schreibt das jetzt noch mal in die Kommentare.",
+  "ro": "Așa că, dacă vă interesează să aprofundăm asta într-o discuție cu Sven, scrieți-o acum încă o dată în comentarii."
+ },
+ {
+  "de": "Und ich kann mir gut vorstellen, dass viele Leute das nicht alles so einfach runterschlucken wie du und ich, die sich sehr tief und regelmäßig mit all diesen Themen beschäftigen, und da jetzt erstmal einige Dinge verdauen müssen, die du heute beschrieben hast und die du natürlich auch in deinem Buch 2035 eingehend beschreibst.",
+  "ro": "Și îmi pot imagina bine că mulți oameni nu înghit toate acestea la fel de ușor ca tine și ca mine, care ne ocupăm foarte profund și regulat de toate aceste teme, și că acum trebuie mai întâi să digere unele lucruri pe care le-ai descris azi și pe care le descrii, desigur, pe larg și în cartea ta „2035”."
+ },
+ {
+  "de": "Kannst du den Menschen abschließend noch mal etwas mit auf den Weg geben, was dir eigentlich so viel Hoffnung macht in Bezug auf die Zukunft?",
+  "ro": "Poți, în încheiere, să le dai oamenilor ceva la drum, ce anume îți dă de fapt atâta speranță în privința viitorului?"
+ },
+ {
+  "de": "Denn du bist ja durchweg sehr optimistisch, was diese ganzen Entwicklungen betrifft – ich würde sagen, deutlich optimistischer als der Querschnitt der Gesellschaft.",
+  "ro": "Pentru că ești constant foarte optimist în privința tuturor acestor evoluții – aș zice, vizibil mai optimist decât media societății."
+ },
+ {
+  "de": "Was macht dich da so optimistisch?",
+  "ro": "Ce te face atât de optimist?"
+ },
+ {
+  "de": "Also der erste Punkt, der mich optimistisch macht: Wir Menschen, also wir beide, die jetzt hier miteinander reden, alle anderen, die uns gerade zuhören und so weiter, ähm, wir kommen aus einer Spezies, aus dem Homo sapiens, die deshalb heute hier auf der Welt ist, weil sie sich am besten an sich ständig verändernde Umgebungen angepasst hat.",
+  "ro": "Primul lucru care mă face optimist: noi, oamenii, adică noi doi care vorbim aici, toți ceilalți care ne ascultă acum și așa mai departe, provenim dintr-o specie, Homo sapiens, care se află azi pe pământ pentru că s-a adaptat cel mai bine la medii în continuă schimbare."
+ },
+ {
+  "de": "Ja, die wichtigste, die größte und die tollste Eigenschaft von Menschen ist: Wir können uns anpassen.",
+  "ro": "Da, cea mai importantă, cea mai mare și cea mai grozavă calitate a oamenilor este că ne putem adapta."
+ },
+ {
+  "de": "Dieses System dieses Körpers kann sich super anpassen.",
+  "ro": "Sistemul acesta al corpului se poate adapta excelent."
+ },
+ {
+  "de": "Äh, das können wir besser als die anderen, die es auch mal gab auf der Welt.",
+  "ro": "Asta știm să facem mai bine decât ceilalți care au existat cândva pe pământ."
+ },
+ {
+  "de": "Ja, es gab ja verschiedene Menschenarten.",
+  "ro": "Da, au existat doar diverse specii de oameni."
+ },
+ {
+  "de": "Es gab ja den Homo sapiens, dann den Homo neanderthalensis und Homo dies und Homo jenes.",
+  "ro": "Exista Homo sapiens, apoi Homo neanderthalensis și Homo cutare și Homo cutare."
+ },
+ {
+  "de": "Also die haben teilweise auch parallel zueinander gelebt, und wir haben uns durchgesetzt.",
+  "ro": "Unii dintre ei au trăit chiar în paralel, iar noi ne-am impus."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil wir uns anpassen können.",
+  "ro": "Pentru că ne putem adapta."
+ },
+ {
+  "de": "Das heißt, die Grundeigenschaft, die wir brauchen, um auf Veränderung zu reagieren, nämlich uns anzupassen, die haben wir, da sind wir Weltmeister drin.",
+  "ro": "Asta înseamnă că avem calitatea de bază de care avem nevoie pentru a reacționa la schimbare, și anume capacitatea de adaptare, la asta suntem campioni mondiali."
+ },
+ {
+  "de": "Das ist schon mal ein ganz wichtiger Punkt.",
+  "ro": "Acesta e deja un punct foarte important."
+ },
+ {
+  "de": "Der zweite Punkt ist: Also ich habe drei Kinder, ja, die sind noch relativ jung, 9 Jahre, 11 Jahre, 14 Jahre.",
+  "ro": "Al doilea punct: am trei copii, da, sunt încă relativ mici, de 9, 11 și 14 ani."
+ },
+ {
+  "de": "Ähm, und wenn ich mir deren Leben anschaue und das in diese Prognosen einbeziehe, dann werden die mit ganz hoher Wahrscheinlichkeit ein noch besseres Leben haben, als ich es habe.",
+  "ro": "Și când mă uit la viața lor și o includ în aceste prognoze, atunci, cu foarte mare probabilitate, vor avea o viață și mai bună decât am eu."
+ },
+ {
+  "de": "Ich habe ein total geiles Leben.",
+  "ro": "Eu am o viață absolut grozavă."
+ },
+ {
+  "de": "Ja, ich habe es also super, ich kann mich überhaupt nicht beschweren.",
+  "ro": "Da, o duc super, nu mă pot plânge deloc."
+ },
+ {
+  "de": "Ähm, aber meine Kinder, die werden länger leben als ich, die werden länger gesund leben als ich, die werden nicht diese verrückten 12-Stunden-Arbeitstage machen wie ich.",
+  "ro": "Dar copiii mei vor trăi mai mult decât mine, vor trăi mai mult timp sănătoși decât mine și nu vor face zilele astea nebunești de muncă de 12 ore ca mine."
+ },
+ {
+  "de": "Die werden viel weniger arbeiten.",
+  "ro": "Vor munci mult mai puțin."
+ },
+ {
+  "de": "Das heißt, sie werden viel mehr Zeit haben, um sich mit anderen Menschen zu umgeben, Freunden, Freundinnen, sich mit sich selbst zu beschäftigen und so weiter und so fort.",
+  "ro": "Asta înseamnă că vor avea mult mai mult timp să se înconjoare de alți oameni, de prieteni și prietene, să se ocupe de ei înșiși și așa mai departe."
+ },
+ {
+  "de": "Also, die werden mehr Zeit haben, Menschlichkeit zu zeigen, menschlich zu sein, ja?",
+  "ro": "Deci vor avea mai mult timp să arate umanitate, să fie umani, nu?"
+ },
+ {
+  "de": "Ähm, die werden mit hoher Wahrscheinlichkeit „reicher“ in Anführungsstrichen sein, also wohlhabender sein.",
+  "ro": "Cu mare probabilitate vor fi „mai bogați”, între ghilimele, adică mai înstăriți."
+ },
+ {
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil die Wertschöpfung in der Welt steigt, und wenn sie es verstehen, sich da anzuschließen an dieses riesige Wachstum, dann geht das gar nicht anders, als dass sie wohlhabender sind.",
+  "ro": "Pentru că valoarea creată în lume crește, iar dacă știu să se conecteze la această creștere uriașă, nici nu se poate altfel decât să fie mai înstăriți."
+ },
+ {
+  "de": "Ähm, und das gilt nicht nur für meine Kinder, sondern es gilt für alle Kinder auf der Welt, deren Eltern irgendwie verstehen, sich an dieses Wachstum anzuschließen.",
+  "ro": "Și asta nu e valabil doar pentru copiii mei, ci pentru toți copiii din lume ai căror părinți știu cumva să se conecteze la această creștere."
+ },
+ {
+  "de": "Insofern ist die Wahrscheinlichkeit, dass die nächste Generation noch besser leben wird als wir, total hoch.",
+  "ro": "În acest sens, probabilitatea ca generația următoare să trăiască și mai bine decât noi este extrem de mare."
+ },
+ {
+  "de": "Ähm, und wenn du dich da jeden Tag als Zukunftsforscher mit beschäftigst – also ich muss es so sagen, ich verstehe, dass, wenn man das zum ersten Mal hört, einen das erstmal so erschlägt und man sagt: Boah, das hab ich aber nie gehört, und das soll jetzt wahrscheinlich sein, um Gottes willen, und so.",
+  "ro": "Și când te ocupi de asta în fiecare zi ca cercetător al viitorului – trebuie să spun așa: înțeleg că, atunci când auzi asta pentru prima dată, te dărâmă la început și zici: uau, n-am auzit niciodată așa ceva, și asta ar trebui să fie probabil, Doamne ferește, și așa mai departe."
+ },
+ {
+  "de": "Ja, verstehe ich.",
+  "ro": "Da, înțeleg."
+ },
+ {
+  "de": "Aber wenn man sich jeden Tag damit beschäftigt, als Zukunftsforscher, wenn man jeden Tag diese Interviews führt mit den Leuten, die da nicht nur drüber quatschen, sondern die heute die Entscheidung getroffen haben, da die nächsten Schritte zu gehen, ihr Geld zu investieren, in die Technologie und so weiter und so fort – wenn man das jeden Tag macht, dann ist das völlig normal.",
+  "ro": "Dar când te ocupi zilnic de asta, ca cercetător al viitorului, când porți în fiecare zi aceste interviuri cu oamenii care nu doar vorbesc despre asta, ci care au luat deja azi decizia să facă pașii următori, să-și investească banii, în tehnologie și așa mai departe – când faci asta zilnic, atunci e complet normal."
+ },
+ {
+  "de": "Denn dann sieht man auch, wie die Menschen, mit denen man da Interviews macht, völlig normal damit umgehen und sich freuen, dass sie der Welt irgendwas Positives bringen und dass es Fortschritt gibt und dass das besser wird und besser wird und besser wird.",
+  "ro": "Pentru că atunci vezi și cum oamenii cu care faci interviurile tratează asta complet normal și se bucură că aduc ceva pozitiv lumii, că există progres și că lucrurile devin tot mai bune, și mai bune, și mai bune."
+ },
+ {
+  "de": "Also, wenn du das so machst, wie wir das machen, diese wissenschaftliche Zukunftsforschung, dann kannst du überhaupt nicht pessimistisch sein, weil du permanent jeden Tag umgeben bist von Leuten, die total optimistisch genau dieses Zeug, was wir dann prognostizieren, machen und umsetzen und damit Gutes in die Welt bringen.",
+  "ro": "Așadar, dacă faci asta cum o facem noi, această cercetare științifică a viitorului, nici nu poți fi pesimist, pentru că ești înconjurat permanent, în fiecare zi, de oameni care fac și pun în practică, extrem de optimist, exact lucrurile pe care noi le prognozăm, și astfel aduc binele în lume."
+ },
+ {
+  "de": "Heißt im Umkehrschluss: Jeder, der vielleicht so denkt, wie du es gerade beschrieben hast, der erstmal so überrascht ist – ihr beschäftigt euch zu wenig mit der Zukunft.",
+  "ro": "Ceea ce înseamnă, invers: oricine gândește poate așa cum ai descris tu adineauri, cine e la început atât de surprins – vă ocupați prea puțin de viitor."
+ },
+ {
+  "de": "Die Lösung ist nicht, dass die Zukunft anders wird, sondern die Lösung ist, dass ihr euch jetzt mal bitte mehr mit der Zukunft beschäftigt.",
+  "ro": "Soluția nu este ca viitorul să fie altfel, ci soluția este să vă ocupați acum, vă rog, mai mult de viitor."
+ },
+ {
+  "de": "Dann wird das für euch völlig normal, und dann werdet ihr die positiven Seiten darin sehen und genauso optimistisch da reinschauen wie wir Zukunftsforscher, die das jeden Tag machen.",
+  "ro": "Atunci va deveni pentru voi complet normal, și veți vedea părțile pozitive și veți privi spre el la fel de optimist ca noi, cercetătorii viitorului, care facem asta în fiecare zi."
+ },
+ {
+  "de": "Ja, das kann ich nur so unterschreiben.",
+  "ro": "Da, pot doar să subscriu la asta."
+ },
+ {
+  "de": "Also du schreibst es, ich meine, das war auch in der Einleitung: Du kannst die technologische Entwicklung ohnehin nicht aufhalten.",
+  "ro": "O scrii și tu, cred că era și în introducere: oricum nu poți opri dezvoltarea tehnologică."
+ },
+ {
+  "de": "Ja, also freunde dich lieber mit ihr an, schau, wie du davon profitieren kannst, anstatt sie einfach zu negieren.",
+  "ro": "Da, așa că mai bine împrietenește-te cu ea, vezi cum poți profita de ea, în loc să o negi pur și simplu."
+ },
+ {
+  "de": "Ja, und Sven, also höchst interessante Einblicke.",
+  "ro": "Da, și Sven, perspective extrem de interesante."
+ },
+ {
+  "de": "Wir werden das Ganze hier unter diesem Video verlinken.",
+  "ro": "Vom pune linkurile la toate acestea aici, sub acest video."
+ },
+ {
+  "de": "Wenn euch ein zweiter Teil dazu interessiert, lasst es uns jetzt wissen.",
+  "ro": "Dacă vă interesează o a doua parte, anunțați-ne acum."
+ },
+ {
+  "de": "Du bist jederzeit gerne wieder herzlich hier eingeladen.",
+  "ro": "Ești oricând binevenit să revii aici."
+ },
+ {
+  "de": "Bis zum nächsten Mal.",
+  "ro": "Pe data viitoare."
+ },
+ {
+  "de": "Bis zum nächsten Mal.",
+  "ro": "Pe data viitoare."
+ },
+ {
+  "de": "Freue mich drauf.",
+  "ro": "Abia aștept."
+ },
+ {
+  "de": "Schöne Zukunft.",
+  "ro": "Un viitor frumos."
+ }
+]
