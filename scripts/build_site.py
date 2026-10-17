@@ -141,7 +141,7 @@ def build(source_dir: Path):
     for meta in entries:
         video_id = meta["video_id"]
         title = html.escape(meta["title"])
-        docx_filename = html.escape(f"{title.replace(' — ki-news', '')}.docx")
+        docx_filename = f"{video_id}.docx"
         topic = meta.get("topic", "other")
         topic_label = html.escape(TOPIC_LABELS.get(topic, topic))
         lang_label = html.escape(language_label(meta))
