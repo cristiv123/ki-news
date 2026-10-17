@@ -1032,8 +1032,12 @@
   "ro": "Da."
  },
  {
-  "de": "Dass die Dinger eben dann für irgendwas um 100 bis 200 € pro Monat… also anders: Wenn du das Ding heute kaufst, gibt's verschiedene Anbieter.",
-  "ro": "Că aceste chestii vor costa atunci undeva între 100 și 200 € pe lună… sau altfel spus: dacă cumperi chestia azi, există diferiți furnizori."
+  "de": "Dass die Dinger eben dann für irgendwas um 100 bis 200 € pro Monat…",
+  "ro": "Că aceste chestii vor costa atunci undeva între 100 și 200 € pe lună…"
+ },
+ {
+  "de": "also anders: Wenn du das Ding heute kaufst, gibt's verschiedene Anbieter.",
+  "ro": "sau altfel spus: dacă cumperi chestia azi, există diferiți furnizori."
  },
  {
   "de": "Die Amerikaner wollen da 20.000 $ haben, die Chinesen wollen […]000 $ haben.",

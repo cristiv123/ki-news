@@ -372,8 +372,12 @@
   "ro": "Dacă te interesează astfel de priviri în culise, atunci uită-te neapărat pe canalul meu personal."
  },
  {
-  "de": "Leonard Schmedding heißt der. Einfach bei YouTube eingeben oder den Link in der Videobeschreibung nutzen.",
-  "ro": "Se numește Leonard Schmedding. Îl cauți pur și simplu pe YouTube sau folosești linkul din descrierea videoclipului."
+  "de": "Leonard Schmedding heißt der.",
+  "ro": "Se numește Leonard Schmedding."
+ },
+ {
+  "de": "Einfach bei YouTube eingeben oder den Link in der Videobeschreibung nutzen.",
+  "ro": "Îl cauți pur și simplu pe YouTube sau folosești linkul din descrierea videoclipului."
  },
  {
   "de": "Dort zeige ich dann die ganze Version davon.",
@@ -432,8 +436,12 @@
   "ro": "Acolo am spus: niciodată să nu schimbi Reasoning Effort în cadrul unei sesiuni."
  },
  {
-  "de": "Warum? Weil dann der Prompt-Cache zurückgesetzt wird und das dafür sorgt, dass du deutlich mehr Tokens verbrauchst, als du müsstest, für nahezu null zusätzlichen Mehrwert.",
-  "ro": "De ce? Pentru că atunci cache-ul prompturilor este resetat, iar asta face să consumi mult mai mulți tokeni decât ar fi necesar, pentru aproape nicio valoare adăugată."
+  "de": "Warum?",
+  "ro": "De ce?"
+ },
+ {
+  "de": "Weil dann der Prompt-Cache zurückgesetzt wird und das dafür sorgt, dass du deutlich mehr Tokens verbrauchst, als du müsstest, für nahezu null zusätzlichen Mehrwert.",
+  "ro": "Pentru că atunci cache-ul prompturilor este resetat, iar asta face să consumi mult mai mulți tokeni decât ar fi necesar, pentru aproape nicio valoare adăugată."
  },
  {
   "de": "Aber das ist jetzt gelöst mit Opus 5.5.",
@@ -612,8 +620,12 @@
   "ro": "Deasupra fiecărei piese de mobilier se poate vedea prețul, dimensiunile și numele piesei respective la IKEA."
  },
  {
-  "de": "Gehen wir nun beispielsweise mal in den Außenbereich. Den hat Opus sehr gut umgesetzt.",
-  "ro": "Să mergem acum, de exemplu, în zona exterioară. Opus a realizat-o foarte bine."
+  "de": "Gehen wir nun beispielsweise mal in den Außenbereich.",
+  "ro": "Să mergem acum, de exemplu, în zona exterioară."
+ },
+ {
+  "de": "Den hat Opus sehr gut umgesetzt.",
+  "ro": "Opus a realizat-o foarte bine."
  },
  {
   "de": "Wenn wir nun wieder reingehen in die Wohnung und uns jetzt beispielsweise in das erste Schlafzimmer bewegen möchten, sehen wir auch direkt, welches Mobiliar Opus hier für diesen Raum gewählt hat.",
@@ -940,8 +952,12 @@
   "ro": "Acum au prezentat Muse Charm, ochelari VR și ochelari audio fără fir, precum și aparate auditive certificate FDA și noul Muse Agent."
  },
  {
-  "de": "Was ist das? Muse Charm ist ein dediziertes, handflächengroßes 5G-Hardwaregerät, das speziell dafür gebaut wurde, unterwegs mit deinem Muse-Agenten zu interagieren.",
-  "ro": "Ce este? Muse Charm este un dispozitiv hardware 5G dedicat, cât palma, construit special pentru a interacționa din mers cu agentul tău Muse."
+  "de": "Was ist das?",
+  "ro": "Ce este?"
+ },
+ {
+  "de": "Muse Charm ist ein dediziertes, handflächengroßes 5G-Hardwaregerät, das speziell dafür gebaut wurde, unterwegs mit deinem Muse-Agenten zu interagieren.",
+  "ro": "Muse Charm este un dispozitiv hardware 5G dedicat, cât palma, construit special pentru a interacționa din mers cu agentul tău Muse."
  },
  {
   "de": "Und das passt direkt an deinen Schlüsselanhänger, sodass du eine direkte Sprachverbindung zu deinem Agenten hast, ohne das Handy herauszuziehen.",
@@ -968,8 +984,12 @@
   "ro": "Este și complet de înțeles în lumina a ceea ce a spus, de exemplu, conducerea Huawei: trebuie să accelerăm în continuare în China."
  },
  {
-  "de": "Wir sind die Nummer zwei. Wir sehen diese Sicherheitsrisiken, über die gesprochen wird, überhaupt gar nicht, und demnach müssen wir hier erst mal weiter beschleunigen.",
-  "ro": "Suntem pe locul doi. Nu vedem deloc aceste riscuri de securitate despre care se vorbește și, prin urmare, trebuie să accelerăm în continuare."
+  "de": "Wir sind die Nummer zwei.",
+  "ro": "Suntem pe locul doi."
+ },
+ {
+  "de": "Wir sehen diese Sicherheitsrisiken, über die gesprochen wird, überhaupt gar nicht, und demnach müssen wir hier erst mal weiter beschleunigen.",
+  "ro": "Nu vedem deloc aceste riscuri de securitate despre care se vorbește și, prin urmare, trebuie să accelerăm în continuare."
  },
  {
   "de": "Und genauso sieht das auch Donald Trump, und deswegen ist von einer Durchsetzung des Pause-Frontiers nicht auszugehen, glücklicherweise, wie man tatsächlich sagen muss.",
@@ -1032,8 +1052,12 @@
   "ro": "Primesc totuși, desigur, pe bună dreptate, mereu întrebarea: da, dar riscurile de securitate, atacurile cibernetice, există, nu poți să le minimalizezi."
  },
  {
-  "de": "Was ist denn die beste Strategie? Und die Antwort liegt ja auf der Hand.",
-  "ro": "Care este atunci cea mai bună strategie? Iar răspunsul este la îndemână."
+  "de": "Was ist denn die beste Strategie?",
+  "ro": "Care este atunci cea mai bună strategie?"
+ },
+ {
+  "de": "Und die Antwort liegt ja auf der Hand.",
+  "ro": "Iar răspunsul este la îndemână."
  },
  {
   "de": "Die hat der Hugging-Face-CEO jetzt auch noch mal erneut bestätigt und unterschrieben.",
@@ -1084,8 +1108,12 @@
   "ro": "Deci scalare defensivă și nu reglementare de stat."
  },
  {
-  "de": "Was ist deine Meinung zu alledem? Lass mich das gerne mal in den Kommentaren wissen.",
-  "ro": "Care este părerea ta despre toate acestea? Spune-mi-o cu plăcere în comentarii."
+  "de": "Was ist deine Meinung zu alledem?",
+  "ro": "Care este părerea ta despre toate acestea?"
+ },
+ {
+  "de": "Lass mich das gerne mal in den Kommentaren wissen.",
+  "ro": "Spune-mi-o cu plăcere în comentarii."
  },
  {
   "de": "Und wenn du mehr darüber erfahren möchtest, also wie du selbst lokale KI einsetzen kannst, dann schau mal gerne in dieses Video.",
