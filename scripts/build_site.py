@@ -35,6 +35,13 @@ PAGE_TEMPLATE = """<!doctype html>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body>
+<aside class="sidebar">
+  <h2>📺 Videoclipuri</h2>
+  <nav>
+{sidebar_nav}
+  </nav>
+</aside>
+<div>
 <header>
   <a class="back" href="../index.html">&larr; toate videoclipurile</a>
 </header>
@@ -58,6 +65,7 @@ PAGE_TEMPLATE = """<!doctype html>
     </tbody>
   </table>
 </main>
+</div>
 </body>
 </html>
 """
@@ -74,6 +82,13 @@ INDEX_TEMPLATE = """<!doctype html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<aside class="sidebar">
+  <h2>📺 Videoclipuri</h2>
+  <nav>
+{sidebar_nav}
+  </nav>
+</aside>
+<div>
 <header>
   <h1>ki-news</h1>
   <p class="subtitle">Transcripturi bilingve (DE/RO), propoziție cu propoziție, din podcasturi și video-uri germane despre Claude AI și viitorul inteligenței artificiale.</p>
@@ -81,6 +96,7 @@ INDEX_TEMPLATE = """<!doctype html>
 <main>
 {sections}
 </main>
+</div>
 </body>
 </html>
 """
@@ -127,6 +143,45 @@ def language_label(meta):
     return base
 
 
+def generate_sidebar_nav(entries, current_video_id=None):
+    """Generate sidebar navigation HTML from entries.
+
+    Args:
+        entries: List of video metadata dicts
+        current_video_id: If set, mark this video as active
+    """
+    html_parts = []
+    by_topic = {t: [] for t in TOPIC_ORDER}
+
+    for entry in entries:
+        by_topic.setdefault(entry.get("topic", "other"), []).append(entry)
+
+    for topic in TOPIC_ORDER:
+        videos = by_topic.get(topic, [])
+        if not videos:
+            continue
+        html_parts.append(f'    <div class="sidebar-section">\n      <h3>{TOPIC_LABELS.get(topic, topic)}</h3>')
+        for entry in videos:
+            vid_id = entry["video_id"]
+            title = entry["title"][:40] + "..." if len(entry["title"]) > 40 else entry["title"]
+            active = ' class="active"' if vid_id == current_video_id else ""
+            html_parts.append(f'      <a href="videos/{vid_id}.html"{active}>{html.escape(title)}</a>')
+        html_parts.append('    </div>')
+
+    for topic, videos in by_topic.items():
+        if topic in TOPIC_ORDER or not videos:
+            continue
+        html_parts.append(f'    <div class="sidebar-section">\n      <h3>{topic}</h3>')
+        for entry in videos:
+            vid_id = entry["video_id"]
+            title = entry["title"][:40] + "..." if len(entry["title"]) > 40 else entry["title"]
+            active = ' class="active"' if vid_id == current_video_id else ""
+            html_parts.append(f'      <a href="videos/{vid_id}.html"{active}>{html.escape(title)}</a>')
+        html_parts.append('    </div>')
+
+    return "\n".join(html_parts)
+
+
 def build(source_dir: Path):
     entries = load_entries(source_dir)
     if not entries:
@@ -137,6 +192,9 @@ def build(source_dir: Path):
     VIDEOS_DIR.mkdir(exist_ok=True)
 
     by_topic = {t: [] for t in TOPIC_ORDER}
+
+    # Generate sidebar nav for all pages
+    sidebar_nav_index = generate_sidebar_nav(entries)
 
     for meta in entries:
         video_id = meta["video_id"]
@@ -156,6 +214,8 @@ def build(source_dir: Path):
             for s in sentences
         )
 
+        sidebar_nav = generate_sidebar_nav(entries, current_video_id=video_id)
+
         page = PAGE_TEMPLATE.format(
             title=title,
             topic_label=topic_label,
@@ -165,6 +225,7 @@ def build(source_dir: Path):
             sentence_count=len(sentences),
             video_id=html.escape(video_id),
             docx_filename=docx_filename,
+            sidebar_nav=sidebar_nav,
             rows=rows,
         )
         (VIDEOS_DIR / f"{video_id}.html").write_text(page, encoding="utf-8")
@@ -203,7 +264,10 @@ def build(source_dir: Path):
             SECTION_TEMPLATE.format(topic_label=html.escape(topic), cards="".join(cards))
         )
 
-    index_html = INDEX_TEMPLATE.format(sections="".join(sections))
+    index_html = INDEX_TEMPLATE.format(
+        sections="".join(sections),
+        sidebar_nav=sidebar_nav_index
+    )
     (REPO_DIR / "index.html").write_text(index_html, encoding="utf-8")
 
     print(f"Built {len(entries)} video page(s) into {REPO_DIR}")
