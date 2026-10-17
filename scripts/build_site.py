@@ -35,13 +35,6 @@ PAGE_TEMPLATE = """<!doctype html>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-<aside class="sidebar">
-  <h2>📺 Videoclipuri</h2>
-  <nav>
-{sidebar_nav}
-  </nav>
-</aside>
-<div>
 <header>
   <a class="back" href="../index.html">&larr; toate videoclipurile</a>
 </header>
@@ -65,7 +58,6 @@ PAGE_TEMPLATE = """<!doctype html>
     </tbody>
   </table>
 </main>
-</div>
 </body>
 </html>
 """
@@ -82,13 +74,6 @@ INDEX_TEMPLATE = """<!doctype html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<aside class="sidebar">
-  <h2>📺 Videoclipuri</h2>
-  <nav>
-{sidebar_nav}
-  </nav>
-</aside>
-<div>
 <header>
   <h1>ki-news</h1>
   <p class="subtitle">Transcripturi bilingve (DE/RO), propoziție cu propoziție, din podcasturi și video-uri germane despre Claude AI și viitorul inteligenței artificiale.</p>
@@ -96,7 +81,6 @@ INDEX_TEMPLATE = """<!doctype html>
 <main>
 {sections}
 </main>
-</div>
 </body>
 </html>
 """
@@ -196,9 +180,6 @@ def build(source_dir: Path):
 
     by_topic = {t: [] for t in TOPIC_ORDER}
 
-    # Generate sidebar nav for all pages
-    sidebar_nav_index = generate_sidebar_nav(entries)
-
     for meta in entries:
         video_id = meta["video_id"]
         title = html.escape(meta["title"])
@@ -217,8 +198,6 @@ def build(source_dir: Path):
             for s in sentences
         )
 
-        sidebar_nav = generate_sidebar_nav(entries, current_video_id=video_id, from_videos_page=True)
-
         page = PAGE_TEMPLATE.format(
             title=title,
             topic_label=topic_label,
@@ -228,7 +207,6 @@ def build(source_dir: Path):
             sentence_count=len(sentences),
             video_id=html.escape(video_id),
             docx_filename=docx_filename,
-            sidebar_nav=sidebar_nav,
             rows=rows,
         )
         (VIDEOS_DIR / f"{video_id}.html").write_text(page, encoding="utf-8")
@@ -268,8 +246,7 @@ def build(source_dir: Path):
         )
 
     index_html = INDEX_TEMPLATE.format(
-        sections="".join(sections),
-        sidebar_nav=sidebar_nav_index
+        sections="".join(sections)
     )
     (REPO_DIR / "index.html").write_text(index_html, encoding="utf-8")
 
