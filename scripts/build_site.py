@@ -51,6 +51,20 @@ PAGE_TEMPLATE = """<!doctype html>
   <p style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border);">
     <a href="../{docx_filename}" style="color: var(--accent); text-decoration: none; font-weight: 600;">⬇ Descarcă transcript Word (DE/RO)</a>
   </p>
+
+  <h2 style="margin-top: 2rem; font-size: 1.3rem;">📝 Rezumat</h2>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
+    <div style="padding: 1rem; background: var(--card); border: 1px solid var(--border); border-radius: 8px;">
+      <h3 style="margin-top: 0; color: var(--accent); font-size: 1rem;">Deutsch</h3>
+      <p style="line-height: 1.6; font-size: 0.95rem;">{summary_de}</p>
+    </div>
+    <div style="padding: 1rem; background: var(--card); border: 1px solid var(--border); border-radius: 8px;">
+      <h3 style="margin-top: 0; color: var(--accent); font-size: 1rem;">Română</h3>
+      <p style="line-height: 1.6; font-size: 0.95rem;">{summary_ro}</p>
+    </div>
+  </div>
+
+  <h2 style="margin-top: 2rem; margin-bottom: 1rem; font-size: 1.3rem;">📋 Transcript complet (propoziție cu propoziție)</h2>
   <table class="sentence-table">
     <thead><tr><th>Deutsch</th><th>Română</th></tr></thead>
     <tbody>
@@ -98,6 +112,17 @@ CARD_TEMPLATE = """      <a class="card" href="videos/{video_id}.html">
         <div class="card-body">
           <h3>{title}</h3>
           <p class="meta"><span class="badge">{language_label}</span><span class="badge">{subtitle_type_label}</span></p>
+        </div>
+      </a>
+"""
+
+DOWNLOAD_CARD_TEMPLATE = """      <a class="card" href="data/{docx_filename}" download>
+        <div style="background: var(--card); height: 160px; display: flex; align-items: center; justify-content: center; border-radius: 8px 8px 0 0;">
+          <div style="font-size: 3rem;">📄</div>
+        </div>
+        <div class="card-body">
+          <h3>{title}</h3>
+          <p class="meta"><span class="badge">Word (.docx)</span><span class="badge">DE/RO</span></p>
         </div>
       </a>
 """
@@ -184,6 +209,17 @@ def build(source_dir: Path):
         video_id = meta["video_id"]
         title = html.escape(meta["title"])
         docx_filename = f"{video_id}.docx"
+
+        # Try to load summary if exists
+        summary_de = ""
+        summary_ro = ""
+        summary_path = source_dir / f"{video_id}.summary.json"
+        if summary_path.exists():
+            with open(summary_path, "r", encoding="utf-8") as f:
+                summary_data = json.load(f)
+                summary_de = html.escape(summary_data.get("summary_de", ""))
+                summary_ro = html.escape(summary_data.get("summary_ro", ""))
+
         topic = meta.get("topic", "other")
         topic_label = html.escape(TOPIC_LABELS.get(topic, topic))
         lang_label = html.escape(language_label(meta))
@@ -207,6 +243,8 @@ def build(source_dir: Path):
             sentence_count=len(sentences),
             video_id=html.escape(video_id),
             docx_filename=docx_filename,
+            summary_de=summary_de,
+            summary_ro=summary_ro,
             rows=rows,
         )
         (VIDEOS_DIR / f"{video_id}.html").write_text(page, encoding="utf-8")
