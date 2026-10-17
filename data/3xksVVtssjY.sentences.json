@@ -1,0 +1,1110 @@
+[
+ {
+  "de": "Claude Opus 5.5: Nur zwei Stunden später schießt OpenAI mit GPT-6 Sol und GPT-6 Luna zurück.",
+  "ro": "Claude Opus 5.5: la doar două ore distanță, OpenAI ripostează cu GPT-6 Sol și GPT-6 Luna."
+ },
+ {
+  "de": "Doch Opus 5.5 ist mal wieder ein richtig großes und wirklich gutes Update.",
+  "ro": "Dar Opus 5.5 este din nou o actualizare cu adevărat mare și foarte bună."
+ },
+ {
+  "de": "Wer Opus 4.6 noch kennt und geliebt hat, wird sich bei 5.5 wie zu Hause fühlen, heißt es.",
+  "ro": "Cine mai cunoaște și a iubit Opus 4.6 se va simți la 5.5 ca acasă, se spune."
+ },
+ {
+  "de": "Und das Modell schlägt sogar Claude Fable 5.1, obwohl es deutlich günstiger ist.",
+  "ro": "Iar modelul îl bate chiar și pe Claude Fable 5.1, deși este mult mai ieftin."
+ },
+ {
+  "de": "Also, was kann es wirklich in der Praxis und was übersehen dabei die meisten?",
+  "ro": "Deci, ce poate să facă cu adevărat în practică și ce trec cu vederea cei mai mulți?"
+ },
+ {
+  "de": "Und genau das schauen wir uns gleich gemeinsam an, sowie alle weiteren KI-News.",
+  "ro": "Exact asta ne uităm împreună în continuare, precum și la toate celelalte știri din lumea IA."
+ },
+ {
+  "de": "Zum Beispiel, wie Claude im Alleingang eine molekulare Maschine entdeckt hat, die laut Dario Amodei ein völlig neuer Mechanismus für Genediting sein könnte, inklusive seiner These, dass die Biologie gerade denselben Sprung macht wie zuvor die Mathematik.",
+  "ro": "De exemplu, cum a descoperit Claude de unul singur o mașinărie moleculară care, potrivit lui Dario Amodei, ar putea fi un mecanism complet nou pentru editarea genetică, inclusiv teza lui că biologia face acum același salt pe care l-a făcut înainte matematica."
+ },
+ {
+  "de": "Dazu kommt Meta mit Muse Charm, einem KI-Agenten zum Anhängen an den Schlüsselbund, und eine VR-Brille, die sich direkt mit der Apple Vision Pro anlegt.",
+  "ro": "Apoi vine Meta cu Muse Charm, un agent IA care se atașează de breloc, și cu o pereche de ochelari VR care o provoacă direct pe Apple Vision Pro."
+ },
+ {
+  "de": "Diese Woche war mal wieder einiges los in der KI-Welt, und ich fasse wie jede Woche seit jetzt über zweieinhalb Jahren alle wichtigen Updates für die Praxis zusammen.",
+  "ro": "Săptămâna aceasta s-a întâmplat din nou destul de multe în lumea IA, iar eu rezum, ca în fiecare săptămână de peste doi ani și jumătate, toate actualizările importante pentru practică."
+ },
+ {
+  "de": "Heute direkt aus der Brennkammer der KI-Entwicklung hier in San Francisco, sowie mit einigen spannenden Live-Updates.",
+  "ro": "Astăzi direct din cazanul dezvoltării IA, aici în San Francisco, și cu câteva actualizări live interesante."
+ },
+ {
+  "de": "Zum Beispiel, wie Luna hier vor Ort den ganzen Supermarkt schmeißt und alleine steuert und leitet.",
+  "ro": "De exemplu, cum Luna conduce aici, la fața locului, întregul supermarket și îl gestionează și îl dirijează singură."
+ },
+ {
+  "de": "Das habe ich mir nämlich angeschaut.",
+  "ro": "Pentru că m-am dus să văd asta."
+ },
+ {
+  "de": "Da springen wir gleich auch rein, damit du den entscheidenden Vorsprung hast, um Kosten zu sparen und mehr Geld zu verdienen.",
+  "ro": "Ne aruncăm imediat în subiect, ca să ai avantajul decisiv pentru a economisi costuri și a câștiga mai mulți bani."
+ },
+ {
+  "de": "Mein Name ist Leonard Schmedding, also starten wir direkt rein.",
+  "ro": "Mă numesc Leonard Schmedding, așa că hai să începem direct."
+ },
+ {
+  "de": "Anthropic nennt Opus 5.5 das erste Modell der neuen Claude-5.5-Familie, was uns schon zeigt, dass es sehr bald sicher auch Sonnet und Haiku 5.5, auf die wir ja schon lange warten, geben wird.",
+  "ro": "Anthropic numește Opus 5.5 primul model din noua familie Claude 5.5, ceea ce ne arată deja că foarte curând vor exista sigur și Sonnet și Haiku 5.5, pe care le așteptăm de mult."
+ },
+ {
+  "de": "Sie schreiben selbst, es arbeite bei den meisten Aufgaben auf dem Niveau von Claude Fable 5.1, koste im Betrieb aber nur 40 % weniger als Opus 5.",
+  "ro": "Ei înșiși scriu că la majoritatea sarcinilor lucrează la nivelul lui Claude Fable 5.1, dar în exploatare costă cu doar 40 % mai puțin decât Opus 5."
+ },
+ {
+  "de": "Wenn man die Zahlen jetzt mal nebeneinanderlegt, ist es sogar noch untertrieben.",
+  "ro": "Dacă punem cifrele una lângă alta, afirmația este chiar subestimată."
+ },
+ {
+  "de": "Im Terminal-Bench 4.0 beispielsweise, dem Test für agentisches Coding, liegt Opus 5.5 klar vorn, während Fable 5.1 bei 55,8 % und GPT-6 Astra bei nur 57,9 % liegen.",
+  "ro": "În Terminal-Bench 4.0, de exemplu, testul pentru programare agentică, Opus 5.5 este clar în frunte, în timp ce Fable 5.1 se află la 55,8 %, iar GPT-6 Astra la doar 57,9 %."
+ },
+ {
+  "de": "Im Cursor Bench sind es 57,8 gegenüber 51,8 % bei Fable.",
+  "ro": "În Cursor Bench sunt 57,8 față de 51,8 % la Fable."
+ },
+ {
+  "de": "Auch bei der Wissensarbeit im GDPval, bei Humanity's Last Exam und auch bei Computer Use sowie im OSWorld 2.0 liegt das neue Opus vorne.",
+  "ro": "Și la munca de cunoaștere din GDPval, la Humanity's Last Exam, la Computer Use și în OSWorld 2.0, noul Opus este în frunte."
+ },
+ {
+  "de": "Nur bei automatisierten Business-Workflows und bei agentischer Forschung behält Astra noch etwas die Nase vorn.",
+  "ro": "Doar la fluxurile de lucru de business automatizate și la cercetarea agentică, Astra mai păstrează un mic avans."
+ },
+ {
+  "de": "Ja, und wie dieser Nutzer hier schreibt: Wenn du Opus 4.6 mochtest und es geliebt hast, damit zu arbeiten – so ging es mir ehrlicherweise auch.",
+  "ro": "Da, și cum scrie acest utilizator: dacă ți-a plăcut Opus 4.6 și ai iubit să lucrezi cu el – sincer, și mie mi s-a întâmplat la fel."
+ },
+ {
+  "de": "Für mich war 4.7, 4.8 und auch 5 nicht so wirklich ein richtiges Upgrade gegenüber 4.6.",
+  "ro": "Pentru mine, 4.7, 4.8 și chiar 5 nu au fost cu adevărat o îmbunătățire reală față de 4.6."
+ },
+ {
+  "de": "4.6 war bis dato auch mein persönliches Lieblingsmodell von Anthropic.",
+  "ro": "4.6 a fost până acum și modelul meu preferat de la Anthropic."
+ },
+ {
+  "de": "Und jemand schreibt hier eben: Opus 5.5 fühlt sich an wie nach Hause kommen.",
+  "ro": "Și cineva scrie aici: Opus 5.5 se simte ca și cum te-ai întoarce acasă."
+ },
+ {
+  "de": "Ob das wirklich so ist, das müssen wir uns jetzt mal in der Praxis anschauen.",
+  "ro": "Dacă chiar este așa, trebuie să vedem acum în practică."
+ },
+ {
+  "de": "Dieser Nutzer hier zeigt beispielsweise Sketch-to-Simulation mit Opus 5.5.",
+  "ro": "Acest utilizator arată, de exemplu, „sketch-to-simulation” cu Opus 5.5."
+ },
+ {
+  "de": "Das ist schon durchaus beeindruckend: von der Handzeichnung hin zu einer richtigen Simulation.",
+  "ro": "Este într-adevăr impresionant: de la un desen făcut de mână la o simulare adevărată."
+ },
+ {
+  "de": "Das kann man ja auch auf zahlreiche Geschäftsanwendungsfälle übertragen, im Bereich der technischen Zeichnung, Architektur und Innenarchitektur, aber auch im Bereich Storytelling, also bei Erklärvideos oder ganzen Filmen.",
+  "ro": "Asta se poate transpune și la numeroase cazuri de utilizare în afaceri, în domeniul desenului tehnic, al arhitecturii și al designului interior, dar și în storytelling, adică în videoclipuri explicative sau chiar filme întregi."
+ },
+ {
+  "de": "Meine persönliche These, wenn wir nur das hier sehen, lautet: Die Videomodelle werden immer weniger wichtig, die werden letztendlich von Three.js gefressen.",
+  "ro": "Teza mea personală, dacă ne uităm doar la asta, este: modelele video devin tot mai puțin importante, până la urmă vor fi înghițite de Three.js."
+ },
+ {
+  "de": "Einfach Three.js und Blender acht Stunden lang mit Opus 5.5 laufen zu lassen, erzeugt nahezu bessere Ergebnisse als viele Videomodelle da draußen.",
+  "ro": "Pur și simplu să lași Three.js și Blender să ruleze opt ore cu Opus 5.5 produce rezultate aproape mai bune decât multe modele video de acolo."
+ },
+ {
+  "de": "Das zeigt auch diese 3D-Visualisierung hier einer interaktiven Kameralinse, die ein User gebaut hat.",
+  "ro": "Asta arată și această vizualizare 3D a unei lentile de cameră interactive, construită de un utilizator."
+ },
+ {
+  "de": "Und hier passt es auch perfekt zusammen: Er hat mehrere Agents laufen lassen und ein komplett eigenes CRM-System mit Opus 5.5 gebaut.",
+  "ro": "Și aici totul se potrivește perfect: a lăsat mai mulți agenți să ruleze și a construit un sistem CRM complet propriu cu Opus 5.5."
+ },
+ {
+  "de": "Oder auch dieses Beispiel hier: ein Erklärvideo, an dem vier Agents anderthalb Stunden lang autonom gearbeitet haben.",
+  "ro": "Sau acest exemplu: un videoclip explicativ la care patru agenți au lucrat autonom timp de o oră și jumătate."
+ },
+ {
+  "de": "Auch Andon Labs hat das mal ganz konkret bemessen.",
+  "ro": "Și Andon Labs a măsurat asta foarte concret."
+ },
+ {
+  "de": "Andon Labs ist relativ interessant dahingehend, dass sie unabhängige Benchmarks fahren, die weniger ganz konkrete Aufgaben sind, sondern viel mehr realwirtschaftliche Aufgaben, wie eben autonom ein Automatenbusiness zu betreiben, mit Vending-Bench.",
+  "ro": "Andon Labs este destul de interesant prin faptul că rulează benchmark-uri independente care sunt mai puțin sarcini foarte concrete și mult mai mult sarcini din economia reală, cum ar fi administrarea autonomă a unei afaceri cu automate, cu Vending-Bench."
+ },
+ {
+  "de": "Interessant dabei ist, dass das neue GPT-6 Sol dabei mit Abstand am besten abschneidet und gleichzeitig günstig ist.",
+  "ro": "Interesant este că noul GPT-6 Sol se descurcă de departe cel mai bine și este totodată ieftin."
+ },
+ {
+  "de": "Opus 5.5 ist in dieser Aufgabe wiederum sogar schlechter als Opus 5.",
+  "ro": "Opus 5.5 este, la rândul lui, în această sarcină chiar mai slab decât Opus 5."
+ },
+ {
+  "de": "Dafür ist Opus 5.5 aber sehr gut gerade in den Bereichen, die wir eben schon gesehen haben: 3D-Welten bauen und 3D-Visualisierungen.",
+  "ro": "În schimb, Opus 5.5 este foarte bun tocmai în domeniile pe care le-am văzut adineauri: construirea de lumi 3D și vizualizări 3D."
+ },
+ {
+  "de": "Das messen die zum Beispiel mit Blueprint-Bench.",
+  "ro": "Asta o măsoară, de exemplu, cu Blueprint-Bench."
+ },
+ {
+  "de": "Dabei geht es darum, aus Innenfotos einer Wohnung einen 2D-Grundriss zu konstruieren.",
+  "ro": "Este vorba despre construirea unui plan 2D dintr-o fotografie de interior a unui apartament."
+ },
+ {
+  "de": "Konkret bekommt der Agent pro Wohnung etwa 20 Innenfotos und soll daraus einen Plan erzeugen, mit Räumen, Türen, Durchgängen, relativen Größen und grober Orientierung.",
+  "ro": "Concret, agentul primește pentru fiecare apartament aproximativ 20 de fotografii de interior și trebuie să genereze din ele un plan, cu camere, uși, treceri, dimensiuni relative și o orientare aproximativă."
+ },
+ {
+  "de": "Getestet werden dabei 50 Wohnungen nacheinander.",
+  "ro": "Se testează astfel 50 de apartamente, unul după altul."
+ },
+ {
+  "de": "Der Agent hat ein persistentes Notepad, damit er Strategien und typische Layout-Muster über Wohnungen hinweg mitnehmen kann.",
+  "ro": "Agentul are un blocnotes persistent, ca să poată duce strategii și tipare tipice de planuri de la un apartament la altul."
+ },
+ {
+  "de": "Ja, und das wird dann eben bewertet, und dabei schneidet Opus 5.5 am besten ab.",
+  "ro": "Da, și apoi totul este evaluat, iar Opus 5.5 se descurcă cel mai bine."
+ },
+ {
+  "de": "Andon Labs hat das sogar noch weitergetrieben, und zwar haben die hier in San Francisco einen Supermarkt, besser gesagt eine Boutique laufen, die von Opus 5.5 gesteuert wird.",
+  "ro": "Andon Labs a dus lucrurile și mai departe: ei au aici, în San Francisco, un supermarket, mai exact un butic, condus de Opus 5.5."
+ },
+ {
+  "de": "Und das habe ich mir mal vor Ort angeschaut.",
+  "ro": "Și m-am dus să văd asta la fața locului."
+ },
+ {
+  "de": "Also, was hat es mit dem Andon Market auf sich, und wie gut funktioniert das wirklich schon?",
+  "ro": "Deci, ce este cu Andon Market și cât de bine funcționează de fapt deja?"
+ },
+ {
+  "de": "Was genau managt die KI in diesem Shop hier?",
+  "ro": "Ce anume gestionează IA în acest magazin?"
+ },
+ {
+  "de": "Sie kauft die Produkte ein und managt die Mitarbeiter.",
+  "ro": "Cumpără produsele și gestionează angajații."
+ },
+ {
+  "de": "Im Grunde ist alles, was du hier siehst, von der KI entschieden: alle Produkte in den Regalen und alle Preise.",
+  "ro": "În esență, tot ce vezi aici este decis de IA: toate produsele din rafturi și toate prețurile."
+ },
+ {
+  "de": "Sie hat Stellenanzeigen auf verschiedenen Plattformen veröffentlicht und Leute eingestellt, die hier arbeiten, denn die KI hat offensichtlich keinen physischen Körper, um die körperlichen Aufgaben zu erledigen.",
+  "ro": "A publicat anunțuri de angajare pe diverse platforme și a angajat oameni care lucrează aici, pentru că IA evident nu are un corp fizic cu care să îndeplinească sarcinile fizice."
+ },
+ {
+  "de": "Sie schreibt ihnen in Slack, mit Anweisungen, genau wie ein normaler Manager.",
+  "ro": "Le scrie pe Slack, cu instrucțiuni, exact ca un manager obișnuit."
+ },
+ {
+  "de": "Und alles hinter den Kulissen läuft ebenfalls darüber, zum Beispiel der Twitter-Account und der Instagram-Account.",
+  "ro": "Iar tot ce se întâmplă în culise rulează tot prin ea, de exemplu contul de Twitter și contul de Instagram."
+ },
+ {
+  "de": "Ja, und Luna trifft hier wirklich jede operative Entscheidung in diesem Laden.",
+  "ro": "Da, iar Luna ia aici într-adevăr fiecare decizie operațională din acest magazin."
+ },
+ {
+  "de": "Das bedeutet, all die Gegenstände, all die Produkte, die hier ausgestellt sind und die ich hier tatsächlich kaufen kann.",
+  "ro": "Asta înseamnă că toate obiectele, toate produsele expuse aici și pe care le pot cumpăra efectiv."
+ },
+ {
+  "de": "Natürlich auch die Bücher, die jetzt hier zum Verkauf angeboten werden – das ist auch schon relativ interessant.",
+  "ro": "Desigur, și cărțile care sunt acum scoase la vânzare aici – și asta este deja destul de interesant."
+ },
+ {
+  "de": "Zum Beispiel „The Singularity Is Near“ von Ray Kurzweil.",
+  "ro": "De exemplu, „The Singularity Is Near” de Ray Kurzweil."
+ },
+ {
+  "de": "Das heißt, der Agent hat hier natürlich eine gewisse Voreingenommenheit oder gewisse Vorlieben, oder vielleicht auch einfach nur ein gutes Zielgruppenverständnis dafür, was für Leute sich in der Bay Area so herumtreiben.",
+  "ro": "Adică, agentul are aici desigur o anumită părtinire sau anumite preferințe, sau poate pur și simplu o bună înțelegere a publicului-țintă, a tipului de oameni care circulă prin Bay Area."
+ },
+ {
+  "de": "Und das ist wirklich interessant.",
+  "ro": "Și asta este cu adevărat interesant."
+ },
+ {
+  "de": "Man lässt dem Agent hier wirklich maximalen Freiraum bei den Entscheidungen, was auch ein ganz spannender Punkt ist.",
+  "ro": "Agentului i se lasă aici într-adevăr libertate maximă în luarea deciziilor, ceea ce este de asemenea un punct foarte interesant."
+ },
+ {
+  "de": "Hier steht jetzt zum einen roher Honig.",
+  "ro": "Aici avem, pe de o parte, miere crudă."
+ },
+ {
+  "de": "Was ich auch gesehen habe, sind zum Beispiel Kerzen, und die Kerzen hier sind tatsächlich der Kassenschlager.",
+  "ro": "Am mai văzut, de exemplu, lumânări, iar lumânările de aici sunt de fapt produsul de succes."
+ },
+ {
+  "de": "Andon hat es sogar den möglichen „Move 37“ genannt.",
+  "ro": "Andon l-a numit chiar posibilul „Move 37”."
+ },
+ {
+  "de": "Das kennen wir ja alle noch von AlphaGo: dieser unerwartete Zug, der sich am Ende als der strategisch überraschende, aber tatsächlich sinnvollste herausstellt.",
+  "ro": "Îl știm cu toții de la AlphaGo: acea mutare neașteptată care se dovedește la final cea surprinzătoare strategic, dar de fapt cea mai rațională."
+ },
+ {
+  "de": "Denn die Kerzen hier sind tatsächlich relativ profitabel.",
+  "ro": "Pentru că lumânările de aici sunt de fapt relativ profitabile."
+ },
+ {
+  "de": "Was wir uns jetzt aber noch mal ein bisschen näher anschauen können, ist, was für einen Umsatz der Agent hier eigentlich schon produziert.",
+  "ro": "Ce putem analiza însă puțin mai îndeaproape acum este ce fel de cifră de afaceri produce de fapt deja agentul."
+ },
+ {
+  "de": "Was ist überhaupt gemeint mit „Agent“?",
+  "ro": "Ce se înțelege, de fapt, prin „agent”?"
+ },
+ {
+  "de": "Letztlich sind das immer die neuesten Claude-Modelle.",
+  "ro": "În cele din urmă, sunt întotdeauna cele mai noi modele Claude."
+ },
+ {
+  "de": "Das heißt, in diesem Moment wird der Laden sehr wahrscheinlich von Opus 5.5 betrieben.",
+  "ro": "Adică, în acest moment, magazinul este foarte probabil condus de Opus 5.5."
+ },
+ {
+  "de": "Eine ganze Zeit lief er über Opus 4.8, und das war dann auch der Zeitpunkt, ab dem der Laden schon etwas besser lief.",
+  "ro": "O bună perioadă a rulat pe Opus 4.8, iar acela a fost momentul de la care magazinul a mers deja ceva mai bine."
+ },
+ {
+  "de": "Er ist nämlich mit 100 000 US-Dollar Startkapital gestartet.",
+  "ro": "A pornit, de fapt, cu un capital inițial de 100 000 de dolari americani."
+ },
+ {
+  "de": "Nach etwa vier Monaten – im April ist er gestartet, und im August steht der Laden bei nur noch etwa 53 000 US-Dollar Bankkontostand.",
+  "ro": "După aproximativ patru luni – a pornit în aprilie, iar în august magazinul are în cont doar aproximativ 53 000 de dolari."
+ },
+ {
+  "de": "Das heißt, der Agent ist aktuell noch hart im Minus, vor allem, wenn wir uns noch die Tokenkosten anschauen, die dabei entstehen.",
+  "ro": "Adică agentul este în prezent încă puternic pe minus, mai ales dacă ne uităm și la costurile de tokeni care apar."
+ },
+ {
+  "de": "Die darf man natürlich auch nicht vernachlässigen.",
+  "ro": "Pe acestea, desigur, nu trebuie să le neglijăm."
+ },
+ {
+  "de": "Aber Andon sieht das Ganze wirklich ziemlich gelassen, weil man sagt: Das ist jetzt halt einfach ein Experiment.",
+  "ro": "Dar Andon privește toată treaba destul de relaxat, pentru că spune: este pur și simplu un experiment."
+ },
+ {
+  "de": "Natürlich sind die Modelle noch nicht ideal.",
+  "ro": "Desigur, modelele nu sunt încă ideale."
+ },
+ {
+  "de": "Wir sehen ja auch hier bei mir gerade im Hintergrund, es gibt noch Menschen, die tatsächlich arbeiten.",
+  "ro": "Vedem și aici, în spatele meu, că încă mai există oameni care lucrează efectiv."
+ },
+ {
+  "de": "Eine Kassiererin ist da.",
+  "ro": "E o casieră acolo."
+ },
+ {
+  "de": "Ich schätze mal, das sind eher Sicherheitsaspekte, weshalb der Mensch hier tatsächlich noch gefragt ist, weniger weil er tatsächlich benötigt wird.",
+  "ro": "Presupun că sunt mai degrabă aspecte de securitate pentru care omul mai este necesar aici, și mai puțin pentru că ar fi cu adevărat indispensabil."
+ },
+ {
+  "de": "Die ganzen Entscheidungen werden letztendlich von Luna getroffen, und das ist durchaus wichtig zu betonen.",
+  "ro": "Toate deciziile sunt luate, în cele din urmă, de Luna, și este într-adevăr important să subliniem acest lucru."
+ },
+ {
+  "de": "Man sieht das hier wirklich als Experiment.",
+  "ro": "Aici se privește cu adevărat asta ca pe un experiment."
+ },
+ {
+  "de": "Man möchte fortschrittlich sein, man möchte einfach mal ausprobieren, was heute alles schon mit KI möglich ist, und nimmt dann natürlich auch in Kauf, dass nicht alles perfekt ist und die Agents erst lernen müssen.",
+  "ro": "Vor să fie progresiști, vor pur și simplu să încerce ce este deja posibil astăzi cu IA și acceptă, desigur, că nu totul este perfect și că agenții trebuie mai întâi să învețe."
+ },
+ {
+  "de": "Denn das Kontextfenster ist letztlich noch relativ klein, und die KI ist mittlerweile auch an dem Punkt, tatsächlich Unternehmen voranzubringen und auch Menschen operativ zu steuern.",
+  "ro": "Pentru că fereastra de context este în cele din urmă încă relativ mică, iar IA a ajuns între timp în punctul în care chiar poate face companiile să avanseze și poate coordona operațional și oameni."
+ },
+ {
+  "de": "Der Haken dabei ist natürlich, dass das immer noch vom Input der Gründer ausgehen muss, die übrigens aus Schweden kommen.",
+  "ro": "Problema este, desigur, că tot trebuie să pornească de la contribuția fondatorilor, care, apropo, vin din Suedia."
+ },
+ {
+  "de": "Denn ein Pendant dazu läuft auch in Stockholm.",
+  "ro": "Pentru că un echivalent funcționează și la Stockholm."
+ },
+ {
+  "de": "In Stockholm gibt es das Andon Café, das ist ja hier der Andon-Boutique-Markt, und das läuft auch schon ziemlich erfolgreich.",
+  "ro": "La Stockholm există Andon Café, adică omologul acestui Andon Boutique Market, și funcționează deja destul de bine."
+ },
+ {
+  "de": "Innerhalb kürzester Zeit, in der ersten Woche in diesem Café in Stockholm, haben die Agents dort mit zwei menschlichen Baristas 44 000 Kronen erwirtschaftet.",
+  "ro": "În foarte scurt timp, în prima săptămână în această cafenea din Stockholm, agenții au obținut acolo, cu doi barista oameni, 44 000 de coroane."
+ },
+ {
+  "de": "Also auch das läuft jetzt Stück für Stück an.",
+  "ro": "Deci și asta demarează acum pas cu pas."
+ },
+ {
+  "de": "Das Interessante hierbei ist wirklich auch, weshalb es mir wichtig war, hier mal vor Ort zu sein und richtig aufzusaugen, wie die neue Welt funktionieren wird.",
+  "ro": "Lucrul interesant aici este, de asemenea, motivul pentru care mi-a fost important să fiu pe loc și să absorb cu adevărat cum va funcționa noua lume."
+ },
+ {
+  "de": "Natürlich läuft noch nicht alles perfekt, und man sagt ja auch, es ist erst mal alles noch ein Experiment, und es ist völlig in Ordnung, wenn der Agent noch nicht wirtschaftlich ist.",
+  "ro": "Desigur, nu totul merge încă perfect, și se spune că deocamdată totul este încă un experiment și că este în regulă dacă agentul nu este încă rentabil."
+ },
+ {
+  "de": "Aber das ist letztendlich die Zukunft.",
+  "ro": "Dar acesta este, în cele din urmă, viitorul."
+ },
+ {
+  "de": "Wenn dich solche Einblicke interessieren, dann schau unbedingt mal bei meinem persönlichen Kanal vorbei.",
+  "ro": "Dacă te interesează astfel de priviri în culise, atunci uită-te neapărat pe canalul meu personal."
+ },
+ {
+  "de": "Leonard Schmedding heißt der. Einfach bei YouTube eingeben oder den Link in der Videobeschreibung nutzen.",
+  "ro": "Se numește Leonard Schmedding. Îl cauți pur și simplu pe YouTube sau folosești linkul din descrierea videoclipului."
+ },
+ {
+  "de": "Dort zeige ich dann die ganze Version davon.",
+  "ro": "Acolo arăt versiunea completă."
+ },
+ {
+  "de": "Wirklich unfassbare Einblicke hier vor Ort bei Andon Market, wie ein Agent, Luna, den ganzen Shop autonom schmeißt und vor allem, was das für dich bedeutet, was das für Geschäftsmodelle und für Unternehmen bedeutet.",
+  "ro": "Priviri cu adevărat incredibile aici, la fața locului, la Andon Market, despre cum un agent, Luna, conduce autonom întregul magazin și mai ales ce înseamnă asta pentru tine, pentru modelele de afaceri și pentru companii."
+ },
+ {
+  "de": "All die Schlussfolgerungen und die volle Version bekommst du auf meinem Zweitkanal kostenfrei.",
+  "ro": "Toate concluziile și versiunea completă le primești gratuit pe canalul meu secundar."
+ },
+ {
+  "de": "Also einfach bei Leonard Schmedding mal vorbeischauen, sowie auch für die vielen weiteren Eindrücke hier aus San Francisco und dem Silicon Valley der nächsten Tage.",
+  "ro": "Deci intră pur și simplu pe canalul lui Leonard Schmedding, și pentru multele alte impresii de aici, din San Francisco și Silicon Valley, din zilele următoare."
+ },
+ {
+  "de": "Ein interessanter Hinweis kommt noch von Nathan Lambert, und zwar: Welchen Reasoning Effort solltest du denn einstellen?",
+  "ro": "Mai vine o observație interesantă de la Nathan Lambert, și anume: ce nivel de Reasoning Effort ar trebui să setezi?"
+ },
+ {
+  "de": "Er konstatiert abermals über die Benchmarks, vor allem beim agentischen Coding, dass Medium Effort besser, also effektiver ist als High und auch als Extra High.",
+  "ro": "El constată din nou, pe baza benchmark-urilor, mai ales la programarea agentică, că Medium Effort este mai bun, adică mai eficient, decât High și decât Extra High."
+ },
+ {
+  "de": "Das hatten wir bei den letzten Modellen übrigens auch schon, zum Beispiel bei Astra.",
+  "ro": "Am văzut asta, de altfel, și la ultimele modele, de exemplu la Astra."
+ },
+ {
+  "de": "Alle sollten wissen, dass Medium Effort the way to go ist und High und Extra High nahezu vollständig vermieden oder nur sehr gezielt und sehr bewusst ausgewählt werden sollten.",
+  "ro": "Toți ar trebui să știe că Medium Effort este calea de urmat, iar High și Extra High ar trebui evitate aproape complet sau alese doar foarte țintit și foarte conștient."
+ },
+ {
+  "de": "Selbst der Max Effort bietet keinen zusätzlichen Mehrwert.",
+  "ro": "Chiar și Max Effort nu oferă nicio valoare adăugată."
+ },
+ {
+  "de": "Er performt exakt gleich wie Medium, ist dabei aber deutlich, deutlich teurer.",
+  "ro": "Performează exact la fel ca Medium, dar este mult, mult mai scump."
+ },
+ {
+  "de": "Also einfach auf Medium nutzen.",
+  "ro": "Deci folosește-l pur și simplu pe Medium."
+ },
+ {
+  "de": "Auch super interessant mit Hinblick auf die Token-Effizienz: Du kannst jetzt innerhalb einer Session den Effort wechseln, ohne Prompt-Caching-Probleme zu bekommen.",
+  "ro": "Foarte interesant și din punctul de vedere al eficienței tokenilor: acum poți schimba Effort în cadrul unei sesiuni fără să ai probleme cu prompt caching."
+ },
+ {
+  "de": "Alle, die das Video zur Claude-Kostenoptimierung gesehen haben – den Claude-Kostenoptimierungsreport kannst du dir auch kostenfrei sichern –, die wissen das.",
+  "ro": "Toți cei care au văzut videoclipul despre optimizarea costurilor Claude – raportul de optimizare a costurilor Claude îl poți obține și gratuit – știu asta."
+ },
+ {
+  "de": "Da habe ich nämlich gesagt: niemals innerhalb einer Session den Reasoning Effort wechseln.",
+  "ro": "Acolo am spus: niciodată să nu schimbi Reasoning Effort în cadrul unei sesiuni."
+ },
+ {
+  "de": "Warum? Weil dann der Prompt-Cache zurückgesetzt wird und das dafür sorgt, dass du deutlich mehr Tokens verbrauchst, als du müsstest, für nahezu null zusätzlichen Mehrwert.",
+  "ro": "De ce? Pentru că atunci cache-ul prompturilor este resetat, iar asta face să consumi mult mai mulți tokeni decât ar fi necesar, pentru aproape nicio valoare adăugată."
+ },
+ {
+  "de": "Aber das ist jetzt gelöst mit Opus 5.5.",
+  "ro": "Dar asta este acum rezolvat cu Opus 5.5."
+ },
+ {
+  "de": "Du kannst jetzt also auch innerhalb der Session entsprechend wechseln.",
+  "ro": "Deci acum poți schimba corespunzător chiar și în cadrul sesiunii."
+ },
+ {
+  "de": "Und Claude Code wird jetzt auch den richtigen Stoppunkt wählen, wenn du innerhalb einer Session das Fünf-Stunden-Limit reißt.",
+  "ro": "Iar Claude Code va alege acum și punctul de oprire potrivit atunci când depășești limita de cinci ore în cadrul unei sesiuni."
+ },
+ {
+  "de": "Das heißt, es wird erst mal warten, bis die Aufgabe abgeschlossen ist, statt mittendrin abzubrechen.",
+  "ro": "Adică va aștepta mai întâi până se încheie sarcina, în loc să se oprească pe la mijloc."
+ },
+ {
+  "de": "Das ist ein durchaus charmantes Quality-of-Life-Upgrade in Claude Code.",
+  "ro": "Este o îmbunătățire de confort destul de simpatică în Claude Code."
+ },
+ {
+  "de": "Ja, und OpenAI hat nachgezogen mit GPT-6 Sol und GPT-6 Luna, aber das sind eher kleine Updates, die nicht wirklich mithalten können.",
+  "ro": "Da, iar OpenAI a răspuns cu GPT-6 Sol și GPT-6 Luna, dar sunt mai degrabă actualizări mici, care nu pot ține pasul cu adevărat."
+ },
+ {
+  "de": "Man munkelt hier auch schon, dass OpenAI tatsächlich stark überrascht wurde vom Opus-5.5-Update.",
+  "ro": "Se zvonește deja că OpenAI a fost într-adevăr puternic luat prin surprindere de actualizarea Opus 5.5."
+ },
+ {
+  "de": "Ich muss aber sagen, man hält sich wahrscheinlich einiges für den OpenAI Developer Day nächste Woche zurück.",
+  "ro": "Trebuie însă să spun că probabil se păstrează multe pentru OpenAI Developer Day de săptămâna viitoare."
+ },
+ {
+  "de": "Von dort werde ich selbstverständlich auch berichten.",
+  "ro": "Desigur, voi raporta și de acolo."
+ },
+ {
+  "de": "Ich gehe stark davon aus, dass wir zum Beispiel schon einen Astra 6.1 sehen könnten, oder auch größere Updates, einen Muse-Konkurrenten, einen Meta-Muse-Konkurrenten, erwarte ich dort beim Developer Day.",
+  "ro": "Presupun cu tărie că am putea vedea, de exemplu, deja un Astra 6.1, sau și actualizări mai mari – mă aștept acolo, la Developer Day, la un concurent pentru Muse, un concurent pentru Meta Muse."
+ },
+ {
+  "de": "Da werde ich natürlich hier vor Ort aus San Francisco vom Developer Day berichten.",
+  "ro": "Voi raporta, desigur, de la fața locului, din San Francisco, despre Developer Day."
+ },
+ {
+  "de": "Aber trotzdem: Die Modelle haben jetzt einen EQ von über 150, von 151 im Norway-Test, und haben damit den ganzen Benchmark, den ganzen Test vollständig saturiert.",
+  "ro": "Totuși, modelele au acum un IQ de peste 150, de 151 la testul norvegian, și au saturat astfel complet întregul benchmark, întregul test."
+ },
+ {
+  "de": "Das heißt: Wenn deine Arbeitsaufgaben keinen IQ von 150 und mehr erfordern, ist es sehr wahrscheinlich, dass die Modelle einen Großteil davon heute schon übernehmen können.",
+  "ro": "Adică, dacă sarcinile tale de lucru nu necesită un IQ de 150 sau mai mult, este foarte probabil că modelele pot prelua deja astăzi o mare parte din ele."
+ },
+ {
+  "de": "Deswegen: Marcel, ordne das bitte mal in die Praxis ein.",
+  "ro": "De aceea: Marcel, te rog să plasezi asta în practică."
+ },
+ {
+  "de": "Wie gut laufen die Modelle, also Opus 5.5 und GPT-6 Sol, denn wirklich schon in realen Arbeitsaufgaben?",
+  "ro": "Cât de bine funcționează deja cu adevărat modelele, adică Opus 5.5 și GPT-6 Sol, în sarcini de lucru reale?"
+ },
+ {
+  "de": "Ich habe gestern zwei KI-Modelle gegeneinander antreten lassen: einmal Opus 5.5 und einmal GPT-6 Sol hier rechts.",
+  "ro": "Ieri am pus două modele de IA să concureze unul împotriva celuilalt: o dată Opus 5.5 și o dată GPT-6 Sol, aici în dreapta."
+ },
+ {
+  "de": "Die Aufgabe war es, aus einem ganz normalen Grundriss, wie man ihn von jedem Makler bekommt, wie in diesem Beispiel hier von einem Zweizimmerbungalow, ein begehbares 3D-Modell zu bauen.",
+  "ro": "Sarcina a fost să construiască un model 3D în care se poate circula, pornind de la un plan obișnuit, cum îl primești de la orice agent imobiliar, ca în acest exemplu al unui bungalou cu două camere."
+ },
+ {
+  "de": "Die beiden Modelle sollten anhand nur dieses Bauplans einmal in Blender ein 3D-Modell bauen, wo die Wände gesetzt werden, die Fenster, und dieses 3D-Modell dann später begehbar machen mit Hilfe der Unreal Engine.",
+  "ro": "Cele două modele trebuiau să construiască în Blender, doar pe baza acestui plan de construcție, un model 3D în care sunt montați pereții și ferestrele, iar apoi să facă acest model 3D explorabil cu ajutorul Unreal Engine."
+ },
+ {
+  "de": "Im späteren Verlauf sollten dann die 3D-Modelle jeweils mit Möbeln von IKEA ausgestattet werden.",
+  "ro": "Ulterior, modelele 3D trebuiau să fie mobilate fiecare cu mobilier de la IKEA."
+ },
+ {
+  "de": "Die spannendste Frage ist tatsächlich nicht, wann ein Modell das erste Ergebnis geliefert hat, sondern wann ein Modell gesagt hat, dass es mit der Aufgabe komplett fertig ist.",
+  "ro": "Cea mai interesantă întrebare nu este, de fapt, când a livrat un model primul rezultat, ci când a spus un model că a terminat complet sarcina."
+ },
+ {
+  "de": "Opus 5.5 hat für die Aufgabe nur 2 Stunden und 51 Minuten gebraucht.",
+  "ro": "Opus 5.5 a avut nevoie pentru sarcină de doar 2 ore și 51 de minute."
+ },
+ {
+  "de": "GPT-6 Sol wiederum hat insgesamt 13 Stunden und 46 Minuten daran gearbeitet, da beide Modelle ganz klar die Anweisung bekommen haben, dass heute früh um 8 Uhr die Deadline ist.",
+  "ro": "GPT-6 Sol, în schimb, a lucrat la ea în total 13 ore și 46 de minute, deoarece ambele modele au primit instrucțiunea clară că termenul-limită este azi dimineață la ora 8."
+ },
+ {
+  "de": "GPT-6 Sol hat dementsprechend so lange bis um 8 Uhr in der Früh gearbeitet.",
+  "ro": "GPT-6 Sol a lucrat în consecință până la ora 8 dimineața."
+ },
+ {
+  "de": "Opus 5.5 wiederum hat bereits nach drei Stunden das fertige Ergebnis geliefert.",
+  "ro": "Opus 5.5, în schimb, a livrat rezultatul final deja după trei ore."
+ },
+ {
+  "de": "Schauen wir uns einmal die Kosten an, welche bei diesem Modellvergleich entstanden sind.",
+  "ro": "Să ne uităm o dată la costurile care au rezultat din această comparație de modele."
+ },
+ {
+  "de": "Wir sehen hier schon, dass Claude mit Opus 5.5 beispielsweise sehr viele Millionen Tokens gebraucht hat, wobei GPT-6 nur 167 Millionen Tokens benötigt hat.",
+  "ro": "Vedem deja aici că Claude cu Opus 5.5 a avut nevoie, de exemplu, de foarte multe milioane de tokeni, în timp ce GPT-6 a avut nevoie de doar 167 de milioane."
+ },
+ {
+  "de": "Sprich, Opus 5.5 hat ein Mehrfaches an Tokens benötigt im Vergleich zu GPT-6 Sol.",
+  "ro": "Adică Opus 5.5 a avut nevoie de un multiplu de tokeni în comparație cu GPT-6 Sol."
+ },
+ {
+  "de": "Noch deutlicher wird es, wenn wir uns das Ganze in der zweiten Zeile ansehen, und zwar, welche Tokens von dem Modell jeweils selber geschrieben worden sind.",
+  "ro": "Devine și mai clar dacă ne uităm la toate acestea în al doilea rând, și anume ce tokeni a scris fiecare model singur."
+ },
+ {
+  "de": "Auch hier stellen wir fest, dass Opus 5.5 vierzehnmal so viele Tokens selber geschrieben hat wie GPT-6 Sol.",
+  "ro": "Și aici constatăm că Opus 5.5 a scris singur de paisprezece ori mai mulți tokeni decât GPT-6 Sol."
+ },
+ {
+  "de": "Unterm Strich hat uns also das Ergebnis mit Opus 5.5 rund 200 Dollar und 13 Cent gekostet, wobei das Ergebnis mit GPT-6 Sol uns nur 68,36 Dollar gekostet hat.",
+  "ro": "În concluzie, rezultatul cu Opus 5.5 ne-a costat în jur de 200 de dolari și 13 cenți, în timp ce rezultatul cu GPT-6 Sol ne-a costat doar 68,36 de dolari."
+ },
+ {
+  "de": "Bei GPT stehen da immer jeweils zwei Werte, und das hat einen Grund.",
+  "ro": "La GPT apar întotdeauna câte două valori, și asta are un motiv."
+ },
+ {
+  "de": "OpenAI verlangt ab 272 000 Tokens pro Anfrage den doppelten Satz, und zwar für die komplette Anfrage, nicht nur für den Teil darüber.",
+  "ro": "OpenAI cere de la 272 000 de tokeni pe cerere tariful dublu, și anume pentru întreaga cerere, nu doar pentru partea de deasupra."
+ },
+ {
+  "de": "Bei unserem Lauf lagen 338 von 436 Anfragen über dieser Grenze.",
+  "ro": "La rularea noastră, 338 din 436 de cereri au depășit această limită."
+ },
+ {
+  "de": "Genau deshalb ist GPT hier nicht fünfmal günstiger, wie es die Listenpreise vermuten lassen, sondern nur dreimal so günstig im Vergleich zu Opus 5.5.",
+  "ro": "Tocmai de aceea GPT nu este aici de cinci ori mai ieftin, cum lasă să se creadă prețurile de listă, ci doar de trei ori mai ieftin față de Opus 5.5."
+ },
+ {
+  "de": "Da schauen wir uns nun einmal die Ergebnisse der beiden Modelle an.",
+  "ro": "Să ne uităm acum la rezultatele celor două modele."
+ },
+ {
+  "de": "Zuerst Opus 5.5: Hier wird der Grundriss gezeigt.",
+  "ro": "Mai întâi Opus 5.5: aici este afișat planul."
+ },
+ {
+  "de": "Wir haben hier unten einmal den Punkt, an dem wir sehen, wo wir uns befinden, in welchem Raum und unter anderem auch, wohin gerade unser Blick geht.",
+  "ro": "Avem aici jos un punct care ne arată unde ne aflăm, în ce cameră și, printre altele, încotro se îndreaptă privirea noastră."
+ },
+ {
+  "de": "Scrollen wir ein bisschen weiter nach unten, sehen wir hier weitere Informationen zu den IKEA-Möbeln, welche bereits in dem 3D-Modell verwendet werden.",
+  "ro": "Dacă dăm puțin mai jos, vedem aici informații suplimentare despre mobilierul IKEA care este deja folosit în modelul 3D."
+ },
+ {
+  "de": "Dazu kommt die Dokumentation der gesamten Etappen, welche abgearbeitet werden sollten.",
+  "ro": "La asta se adaugă documentația tuturor etapelor care trebuiau parcurse."
+ },
+ {
+  "de": "Hier können wir uns das 3D-Modell über dem Plan anzeigen lassen, wie die Tastatur und die Maus eingebunden wurden, und hier noch ein paar Informationen beziehungsweise Screenshots aus dem Testing.",
+  "ro": "Aici ne putem afișa modelul 3D peste plan, vedem cum au fost integrate tastatura și mouse-ul și, mai jos, câteva informații, respectiv capturi de ecran din faza de testare."
+ },
+ {
+  "de": "Okay, wir sehen auch hier direkt, wie wir das Ganze starten können.",
+  "ro": "Bine, vedem și aici direct cum putem porni totul."
+ },
+ {
+  "de": "Wir sollen einfach einmal in das Bild hineinklicken, dann starten wir doch direkt mal die Navigation.",
+  "ro": "Trebuie doar să dăm clic în imagine, așa că pornim direct navigarea."
+ },
+ {
+  "de": "Wir sehen auch bereits, wenn wir uns bewegen, wie sich der Punkt und auch die Perspektive verändern, was hier sehr cool gelöst wurde.",
+  "ro": "Vedem deja, când ne mișcăm, cum se schimbă punctul și perspectiva, ceea ce a fost rezolvat foarte bine aici."
+ },
+ {
+  "de": "Man kann über jedem Möbelstück entsprechend den Preis, die Maße und auch sehen, wie dieses Möbelstück bei IKEA heißt.",
+  "ro": "Deasupra fiecărei piese de mobilier se poate vedea prețul, dimensiunile și numele piesei respective la IKEA."
+ },
+ {
+  "de": "Gehen wir nun beispielsweise mal in den Außenbereich. Den hat Opus sehr gut umgesetzt.",
+  "ro": "Să mergem acum, de exemplu, în zona exterioară. Opus a realizat-o foarte bine."
+ },
+ {
+  "de": "Wenn wir nun wieder reingehen in die Wohnung und uns jetzt beispielsweise in das erste Schlafzimmer bewegen möchten, sehen wir auch direkt, welches Mobiliar Opus hier für diesen Raum gewählt hat.",
+  "ro": "Dacă intrăm din nou în apartament și vrem să ne deplasăm, de exemplu, în primul dormitor, vedem direct ce mobilier a ales Opus aici pentru această cameră."
+ },
+ {
+  "de": "Er hat sogar noch ein Bücherregal hinzugefügt.",
+  "ro": "A adăugat chiar și o bibliotecă."
+ },
+ {
+  "de": "Gehen wir nun in das zweite Schlafzimmer direkt nebenan.",
+  "ro": "Să mergem acum în al doilea dormitor, chiar alături."
+ },
+ {
+  "de": "Okay, hier stellen wir auch schon fest, dass Opus beispielsweise je Raum tatsächlich eine Variation beim Bett eingebaut hat.",
+  "ro": "Bine, constatăm deja aici că Opus a introdus, de exemplu, pentru fiecare cameră o variație la pat."
+ },
+ {
+  "de": "Wechseln wir noch einmal zwischen der Ichperspektive und der Übersicht.",
+  "ro": "Să comutăm încă o dată între perspectiva la persoana întâi și vederea de ansamblu."
+ },
+ {
+  "de": "Das heißt, ich kann nun hier noch mal den gesamten Grundriss betrachten, und wenn wir uns das hier so anzeigen lassen und mit dem Plan hier rechts vergleichen, sehen wir schon, das wurde durchaus sehr gut übernommen.",
+  "ro": "Adică pot privi acum din nou întregul plan, iar dacă ni-l afișăm așa și îl comparăm cu planul din dreapta, vedem deja că a fost preluat destul de bine."
+ },
+ {
+  "de": "Das, was wir gerade von Opus 5.5 gesehen haben, war das Cockpit im Browser.",
+  "ro": "Ceea ce tocmai am văzut de la Opus 5.5 a fost cockpitul în browser."
+ },
+ {
+  "de": "Jedoch hat Opus 5.5 auch noch eine native Version gebaut.",
+  "ro": "Totuși, Opus 5.5 a construit și o versiune nativă."
+ },
+ {
+  "de": "Und zwar kann ich jetzt hier direkt nativ auf meinem Mac ein Fenster aufmachen, in dem ich selber durch das gesamte 3D-Modell navigieren kann.",
+  "ro": "Și anume, pot deschide acum direct nativ pe Mac-ul meu o fereastră în care pot naviga eu însumi prin întregul model 3D."
+ },
+ {
+  "de": "Ich kann mir das Ganze noch mal anschauen, habe im Prinzip die Perspektive eines Roboters, also ich sehe hier die Hände, die Beine und kann jetzt wiederum durch das Modell hindurch navigieren.",
+  "ro": "Pot privi totul încă o dată, am practic perspectiva unui robot, adică îi văd aici mâinile, picioarele, și pot naviga din nou prin model."
+ },
+ {
+  "de": "Die Steuerung ist etwas empfindlicher tatsächlich, aber das ist soweit okay.",
+  "ro": "Comanda este de fapt ceva mai sensibilă, dar în rest este în regulă."
+ },
+ {
+  "de": "Ich kann hier nun auch wieder komplett in die Zimmer hineingehen.",
+  "ro": "Pot intra acum din nou complet în camere."
+ },
+ {
+  "de": "Ich sehe auch hier, dass Opus genau die gleichen Modelle übernommen hat.",
+  "ro": "Văd și aici că Opus a preluat exact aceleași modele."
+ },
+ {
+  "de": "Was jetzt aber tatsächlich noch cool ist und was ich im Browser nicht konnte: Ich sehe hier unten links, dass ich beispielsweise durch Drücken der Entertaste die Möbel durchsuchen und weitere hinzufügen kann.",
+  "ro": "Ce este însă cu adevărat tare aici și ce nu puteam face în browser: văd aici jos în stânga că pot căuta mobilier și adăuga altele, de exemplu apăsând tasta Enter."
+ },
+ {
+  "de": "Wir sehen hier auch direkt den Preis für das Ganze, die Maße, sogar die Artikelnummer, und setzen jetzt einfach einmal das Möbelstück hier direkt vor uns hin.",
+  "ro": "Vedem aici direct și prețul, dimensiunile, chiar și numărul articolului, și plasăm acum pur și simplu piesa de mobilier chiar în fața noastră."
+ },
+ {
+  "de": "Okay, er hat jetzt einfach hier das Möbelstück, die Couch, die zuvor dort stand, hierhin gesetzt.",
+  "ro": "Bine, a mutat pur și simplu aici piesa de mobilier, canapeaua, care stătea înainte acolo."
+ },
+ {
+  "de": "Durch die Pfeiltasten können wir das Möbelstück bewegen.",
+  "ro": "Cu tastele săgeți putem muta piesa de mobilier."
+ },
+ {
+  "de": "Das Problem ist jetzt hier nur, dass wir uns selber natürlich auch mitbewegen.",
+  "ro": "Problema aici este doar că, desigur, ne mișcăm și noi odată cu ea."
+ },
+ {
+  "de": "Durch Drücken der Q-Taste und der E-Taste können wir das Möbelstück drehen.",
+  "ro": "Apăsând tastele Q și E putem roti piesa de mobilier."
+ },
+ {
+  "de": "Mit ein bisschen mehr Feinschliff und ein paar Follow-up-Prompts kann man hier mit Opus 5.5 auf jeden Fall ein Mega-Tool bauen für die Inneneinrichtung oder aber auch für Makler, damit diese einfach auf ihrer Website beispielsweise 3D-Modelle gestalten, welche sich dann die Interessenten ansehen können.",
+  "ro": "Cu puțin mai multă finisare și câteva prompturi de continuare, cu Opus 5.5 se poate construi cu siguranță o unealtă excelentă pentru amenajări interioare sau pentru agenți imobiliari, ca aceștia să creeze pe site-ul lor, de exemplu, modele 3D pe care să le poată vedea apoi cei interesați."
+ },
+ {
+  "de": "Okay, schauen wir uns nun einmal das Ergebnis von GPT-6 Sol an.",
+  "ro": "Bine, să ne uităm acum la rezultatul de la GPT-6 Sol."
+ },
+ {
+  "de": "Hier sehen wir gleich schon mal den designtechnischen Unterschied zu Opus 5.5, prinzipiell aber vom Aufbau her ziemlich gleich.",
+  "ro": "Vedem imediat aici diferența de design față de Opus 5.5, dar ca structură este în principiu destul de asemănător."
+ },
+ {
+  "de": "Hier können wir uns einmal das 3D-Modell noch mal ansehen.",
+  "ro": "Aici ne putem uita încă o dată la modelul 3D."
+ },
+ {
+  "de": "Wenn wir das jetzt einmal dem Plan gegenüberstellen, sehen wir beispielsweise, dass er hier diesen Außenbereich, der bei Opus freigelassen wurde, mit einer Wand zugebaut hat.",
+  "ro": "Dacă îl comparăm acum cu planul, vedem de exemplu că aici a închis cu un perete această zonă exterioară, care la Opus a fost lăsată liberă."
+ },
+ {
+  "de": "Da es sich hier um den Außenbereich beziehungsweise den Eingangsbereich handelt, könnten wir im echten Leben das Bungalow so prinzipiell nicht betreten.",
+  "ro": "Fiindcă aici este vorba despre zona exterioară, respectiv despre zona de intrare, în viața reală nu am putea intra în bungalou în acest mod."
+ },
+ {
+  "de": "Aber schauen wir doch einfach mal rein und gucken uns das Ganze einmal hier im Browser an.",
+  "ro": "Dar hai să aruncăm o privire înăuntru și să ne uităm la toate acestea aici, în browser."
+ },
+ {
+  "de": "Die Navigation beziehungsweise das Handling ist genau gleich wie auch bei Opus.",
+  "ro": "Navigarea, respectiv manevrarea, este exact la fel ca la Opus."
+ },
+ {
+  "de": "Jedoch sehen wir schon, dass hier, sage ich mal, nicht wie bei Opus die Preise von IKEA angezeigt werden.",
+  "ro": "Totuși, vedem deja că aici nu sunt afișate, să zicem, prețurile de la IKEA, ca la Opus."
+ },
+ {
+  "de": "Die Zimmer sind ziemlich gleich, beziehungsweise sogar identisch befüllt worden.",
+  "ro": "Camerele au fost mobilate aproape la fel, respectiv chiar identic."
+ },
+ {
+  "de": "GPT-6 hat hier tatsächlich einfach Wände ausgelassen, und auch dieser Bereich hier sollte eigentlich gar nicht existieren, wenn wir uns den Plan ansehen.",
+  "ro": "GPT-6 a omis aici pur și simplu pereți, iar și această zonă de aici nu ar trebui de fapt să existe, dacă ne uităm la plan."
+ },
+ {
+  "de": "Also von der Raumstruktur her wurde es nicht wirklich sauber übernommen.",
+  "ro": "Deci, ca structură a camerelor, nu a fost preluat chiar curat."
+ },
+ {
+  "de": "Und ich habe hier leider auch nicht die Möglichkeit, beispielsweise noch mal durch ein eigenes Fenster oder eine zweite Interaktionsmöglichkeit Möbel hinzuzufügen.",
+  "ro": "Și, din păcate, nu am nici posibilitatea de a adăuga mobilier printr-o fereastră proprie sau printr-o a doua modalitate de interacțiune."
+ },
+ {
+  "de": "Das fehlt tatsächlich komplett.",
+  "ro": "Asta lipsește de fapt complet."
+ },
+ {
+  "de": "So wirklich schön und logisch ist das Ganze auch nicht gemacht, denn zum Beispiel diese Tischplatte hier schwebt einfach.",
+  "ro": "Nici nu este realizat chiar frumos și logic, pentru că, de exemplu, blatul acestei mese plutește pur și simplu."
+ },
+ {
+  "de": "GPT-6 Sol muss hier noch ein bisschen mehr nachgefasst werden, damit man wahrscheinlich auf das gleiche Ergebnis kommt wie bei Opus.",
+  "ro": "La GPT-6 Sol trebuie să se insiste aici încă puțin, ca probabil să se ajungă la același rezultat ca la Opus."
+ },
+ {
+  "de": "Kommen wir nun dazu, wer was besser gemacht hat.",
+  "ro": "Să vedem acum cine a făcut ce mai bine."
+ },
+ {
+  "de": "Opus 5.5 hat durch die Funktionalität überzeugt und auch den Grundriss richtig umgesetzt, wobei GPT-6 Sol keine flackernden Wände hatte.",
+  "ro": "Opus 5.5 a convins prin funcționalitate și a realizat corect și planul, în timp ce GPT-6 Sol nu a avut pereți care pâlpâie."
+ },
+ {
+  "de": "Ganz klar muss man jedoch auch sagen, dass man bei GPT-6 Sol noch deutlich höhere Nacharbeit hat.",
+  "ro": "Trebuie însă spus foarte clar că la GPT-6 Sol ai de făcut încă mult mai multe retușuri."
+ },
+ {
+  "de": "Unser Fazit: Der klare Sieger dieses Vergleiches ist wirklich Opus 5.5.",
+  "ro": "Concluzia noastră: câștigătorul clar al acestei comparații este cu adevărat Opus 5.5."
+ },
+ {
+  "de": "Der ganze Run mit Opus 5.5 war schneller, wenn auch teurer als mit GPT-6 Sol.",
+  "ro": "Întreaga rulare cu Opus 5.5 a fost mai rapidă, deși mai scumpă decât cu GPT-6 Sol."
+ },
+ {
+  "de": "Wenn man aber überlegt, dass beide genau die gleiche Aufgabe und den gleichen Prompt bekommen haben, sind die Ergebnisse hier wirklich massiv unterschiedlich.",
+  "ro": "Dar dacă te gândești că ambele au primit exact aceeași sarcină și același prompt, rezultatele sunt aici cu adevărat extrem de diferite."
+ },
+ {
+  "de": "Und Opus 5.5 hat die Aufgabe deutlich besser umgesetzt.",
+  "ro": "Iar Opus 5.5 a realizat sarcina mult mai bine."
+ },
+ {
+  "de": "Hier müsste man wirklich deutlich weniger nacharbeiten, um ein perfektes, wiederverwendbares Ergebnis zu erhalten, je nachdem, welchen Bauplan man dann natürlich an das Modell gibt.",
+  "ro": "Aici ar trebui într-adevăr să retușezi mult mai puțin pentru a obține un rezultat perfect, reutilizabil, în funcție, desigur, de planul pe care îl dai modelului."
+ },
+ {
+  "de": "Ja, wirklich höchst interessante Einblicke.",
+  "ro": "Da, priviri cu adevărat extrem de interesante."
+ },
+ {
+  "de": "Da wundert es auch nicht, dass ein neues ChatGPT-Abo wohl bald lanciert wird: ein 500-Dollar-Plan, mit dem du dann nochmals mehr Geld ausgeben, aber eben auch ein noch größeres Token-Kontingent herausholen kannst bei OpenAI.",
+  "ro": "Nu e de mirare deci nici faptul că un nou abonament ChatGPT va fi lansat curând: un plan de 500 de dolari, cu care poți cheltui și mai mulți bani, dar poți obține și o cotă și mai mare de tokeni la OpenAI."
+ },
+ {
+  "de": "Aber die Meldung mit der größten Tragweite kommt diese Woche wahrscheinlich abermals von Anthropic, und zwar aus dem neuen Biolab hier in San Francisco.",
+  "ro": "Dar știrea cu cele mai mari implicații vine săptămâna aceasta probabil din nou de la Anthropic, și anume din noul laborator de biologie de aici, din San Francisco."
+ },
+ {
+  "de": "Claude hat eine molekulare Maschine entdeckt, bei der es sich nach Einschätzung des Unternehmens um einen neuen Mechanismus zur Geneditierung handeln könnte.",
+  "ro": "Claude a descoperit o mașinărie moleculară care, după evaluarea companiei, ar putea fi un nou mecanism de editare genetică."
+ },
+ {
+  "de": "Dario Amodei beschreibt den Ablauf wie folgt.",
+  "ro": "Dario Amodei descrie desfășurarea astfel."
+ },
+ {
+  "de": "Das Life-Science-Team hat nur ein grobes Forschungsfeld vorgegeben.",
+  "ro": "Echipa de științele vieții a stabilit doar un domeniu de cercetare general."
+ },
+ {
+  "de": "Claude hat daraufhin die Fachliteratur und eine große Menge Genomdaten durchforscht, dabei etwas Interessantes gefunden und anschließend selbst Experimente vorgeschlagen, die das Team dann im Labor durchgeführt hat.",
+  "ro": "Claude a parcurs apoi literatura de specialitate și o cantitate mare de date genomice, a găsit ceva interesant și a propus apoi singur experimente pe care echipa le-a efectuat ulterior în laborator."
+ },
+ {
+  "de": "Ob das biotechnologisch jetzt wirklich einen großen Impact hat, dabei bleibt auch Dario noch vage und offen.",
+  "ro": "Dacă asta are într-adevăr un impact mare din punct de vedere biotehnologic, rămâne vag și deschis chiar și pentru Dario."
+ },
+ {
+  "de": "Aber die eigentliche These hier ist deutlich spannender.",
+  "ro": "Dar teza propriu-zisă este aici mult mai captivantă."
+ },
+ {
+  "de": "Er sagt: 2023 seien KI-Modelle in Mathematik noch am Niveau eines durchschnittlichen Schülers gescheitert.",
+  "ro": "El spune că în 2023 modelele de IA încă eșuau la matematică la nivelul unui elev obișnuit."
+ },
+ {
+  "de": "2024 haben sie dann bei Wettbewerben der besten Schüler mitgehalten, 2025 erste kleinere offene Probleme gelöst, und jetzt, Mitte/Ende 2026, beginnen sie, einige der wichtigsten offenen Probleme der gesamten Mathematik zu lösen.",
+  "ro": "În 2024 au ținut pasul la concursurile celor mai buni elevi, în 2025 au rezolvat primele probleme deschise mai mici, iar acum, la mijlocul/sfârșitul lui 2026, încep să rezolve unele dintre cele mai importante probleme deschise din întreaga matematică."
+ },
+ {
+  "de": "Und genau diese Kurve sieht er nun eben auch in der Biologie.",
+  "ro": "Și exact această curbă o vede el acum și în biologie."
+ },
+ {
+  "de": "Der Einwand, Biologie braucht anders als Mathematik echte Experimente, zählt für Anthropic nicht, da Menschen die Experimente gemeinsam mit der KI durchführen und zentrale Ergebnisse innerhalb weniger Wochen prüfen können.",
+  "ro": "Obiecția că biologia, spre deosebire de matematică, are nevoie de experimente reale nu contează pentru Anthropic, pentru că oamenii efectuează experimentele împreună cu IA și pot verifica rezultate centrale în câteva săptămâni."
+ },
+ {
+  "de": "Und am Ende steht sein Ziel aus dem Essay „Machines of Loving Grace“: die meisten Krankheiten innerhalb von 5 bis 10 Jahren heilbar zu machen.",
+  "ro": "Iar la final stă obiectivul lui din eseul „Machines of Loving Grace”: să facă majoritatea bolilor vindecabile în 5 până la 10 ani."
+ },
+ {
+  "de": "Aber auch aus China, im Bereich der lokalen KI, also bei Open-Weights-Modellen, gibt es einige Updates.",
+  "ro": "Dar și din China, în domeniul IA locale, adică la modelele Open Weights, există câteva actualizări."
+ },
+ {
+  "de": "Und zwar haben wir von Xiaomi mit MiMo Version 2.6 Pro ein weiteres starkes Open-Weights-Modell aus China erhalten, welches laut Benchmarks nur knapp hinter GPT-5.6 Max abschneidet und dabei vor allem deutlich kostengünstiger ist.",
+  "ro": "Mai exact, de la Xiaomi, cu MiMo versiunea 2.6 Pro, am primit un alt model Open Weights puternic din China, care conform benchmark-urilor se situează doar puțin în urma lui GPT-5.6 Max și este mai ales mult mai ieftin."
+ },
+ {
+  "de": "Und das muss man immer im Hinterkopf behalten, auch mit Hinblick auf die neue Qwen-4-Familie.",
+  "ro": "Și trebuie să ținem mereu minte asta, inclusiv în privința noii familii Qwen 4."
+ },
+ {
+  "de": "Das bedeutet, ein großes Update von Alibaba: Qwen 4, Max, Flash, Plus und 27B-Modelle sind jetzt vorgestellt.",
+  "ro": "Adică o actualizare mare de la Alibaba: modelele Qwen 4, Max, Flash, Plus și 27B au fost acum prezentate."
+ },
+ {
+  "de": "Das heißt, das nächste große Update von Qwen 4 ist bald da.",
+  "ro": "Adică următoarea actualizare mare de la Qwen 4 va fi în curând aici."
+ },
+ {
+  "de": "Was man dabei aber wirklich immer im Hinterkopf behalten muss: Wofür können wir diese Open-Weights-Modelle einsetzen?",
+  "ro": "Ce trebuie însă mereu să ținem minte: pentru ce putem folosi aceste modele Open Weights?"
+ },
+ {
+  "de": "Ein wirklich sehr guter Artikel wurde diese Woche veröffentlicht von David Cheng, einem Investor, der in China mit einigen Labs gesprochen hat, und das kann ich aus meiner Erfahrung auch selbst nur bestätigen.",
+  "ro": "Săptămâna aceasta a fost publicat un articol foarte bun de David Cheng, un investitor care a vorbit cu mai multe laboratoare din China, iar din experiența mea pot doar confirma asta."
+ },
+ {
+  "de": "Und zwar ist der Abstand zwischen Open-Weights-Modellen und den Frontier-Modellen aus den USA größer, als es in den Benchmarks scheint.",
+  "ro": "Mai exact, distanța dintre modelele Open Weights și modelele de frontieră din SUA este mai mare decât pare în benchmark-uri."
+ },
+ {
+  "de": "Mit Opus 5.5 haben sich Anthropic und die US-Modelle um einige Monate vor China katapultiert.",
+  "ro": "Cu Opus 5.5, Anthropic și modelele americane s-au catapultat cu câteva luni înaintea Chinei."
+ },
+ {
+  "de": "Und das beschreibt dieser Artikel, den ich dir unter diesem Video verlinke, sehr gut: Das liegt wirklich am Chip-Nachteil, den China hat.",
+  "ro": "Iar acest articol, pe care ți-l las în link sub acest videoclip, descrie foarte bine acest lucru: se datorează într-adevăr dezavantajului în privința cipurilor pe care îl are China."
+ },
+ {
+  "de": "China hat dramatisch weniger Rechenkapazitäten zur Verfügung als die USA.",
+  "ro": "China are la dispoziție în mod dramatic mai puține capacități de calcul decât SUA."
+ },
+ {
+  "de": "Deswegen schreibt David Cheng auch hier, dass es ein enormes Benchmaxing gibt.",
+  "ro": "De aceea David Cheng scrie aici că există un benchmaxing enorm."
+ },
+ {
+  "de": "Und wenn man Parität zeigt zwischen Open-Weights-Modellen und den US-Modellen, dann ist die reflexartige Antwort der eigenen Researcher aus China, dass entweder der Benchmark kaputt ist oder Benchmaxing betrieben wird.",
+  "ro": "Iar dacă se arată paritate între modelele Open Weights și cele americane, răspunsul reflex al propriilor cercetători din China este fie că benchmark-ul este stricat, fie că se practică benchmaxing."
+ },
+ {
+  "de": "Das zeigt es schon relativ gut.",
+  "ro": "Asta o arată destul de bine."
+ },
+ {
+  "de": "Man ist sich dessen eben bewusst, gerade bei Long-Horizon-Aufgaben, also bei Aufgaben, in denen Agents wirklich lange, wie bei Andon Market, arbeiten und autonom agentische Workflows ausführen sollen.",
+  "ro": "Sunt conștienți de asta, mai ales în sarcinile pe orizont lung, adică în sarcinile în care agenții trebuie să lucreze cu adevărat mult timp, ca la Andon Market, și să execute autonom fluxuri de lucru agentice."
+ },
+ {
+  "de": "Da sind die chinesischen Modelle einfach weit hinter den US-Frontier-Modellen.",
+  "ro": "Acolo modelele chinezești sunt pur și simplu cu mult în urma modelelor de frontieră americane."
+ },
+ {
+  "de": "Aber das braucht es ja auch gar nicht überall.",
+  "ro": "Dar nici nu este nevoie de asta peste tot."
+ },
+ {
+  "de": "Wir setzen in unseren Kundenprojekten chinesische Open-Weights-Modelle, gehostet auf eigenen Servern oder auch auf europäischen Cloud-Servern, vor allem in automatisierten Workflows ein.",
+  "ro": "În proiectele noastre pentru clienți folosim modele chinezești Open Weights, găzduite pe servere proprii sau pe servere cloud europene, mai ales în fluxuri de lucru automatizate."
+ },
+ {
+  "de": "Wenn du E-Mail-Automation oder First-Level-Support machst, dann brauchst du gar nicht diese Frontier-Kapazitäten mit einem IQ von 150.",
+  "ro": "Dacă faci automatizarea e-mailurilor sau suport de nivel întâi, nu ai deloc nevoie de aceste capacități de frontieră cu IQ de 150."
+ },
+ {
+  "de": "Da reicht auch ein IQ von 100 voll und ganz aus, und da sind dann die Kostenvorteile wieder enorm, und vor allem natürlich die Aspekte der Datensicherheit.",
+  "ro": "Acolo un IQ de 100 este pe deplin suficient, iar avantajele de cost sunt din nou enorme, și mai ales, desigur, aspectele legate de securitatea datelor."
+ },
+ {
+  "de": "Es kommt immer darauf an, welchen Use Case ich jetzt wirklich vor mir habe, und in vielen Fällen reicht lokale KI, und die chinesischen Modelle reichen tatsächlich aus.",
+  "ro": "Depinde întotdeauna ce caz de utilizare am de fapt în față, iar în multe cazuri IA locală este suficientă, iar modelele chinezești chiar ajung."
+ },
+ {
+  "de": "Ein interessantes Update gibt es noch von Meta mit Muse Charm.",
+  "ro": "Mai există o actualizare interesantă de la Meta, cu Muse Charm."
+ },
+ {
+  "de": "Auch Muse an sich war ja wirklich ein durchschlagender Erfolg, wie es aktuell scheint, seitens Meta.",
+  "ro": "Și Muse în sine a fost, după cum pare acum, un succes răsunător din partea Meta."
+ },
+ {
+  "de": "Jetzt haben sie eben Muse Charm, VR-Brillen und kabellose Audiobrillen vorgestellt, sowie FDA-zertifizierte Hörgeräte und den neuen Muse Agent.",
+  "ro": "Acum au prezentat Muse Charm, ochelari VR și ochelari audio fără fir, precum și aparate auditive certificate FDA și noul Muse Agent."
+ },
+ {
+  "de": "Was ist das? Muse Charm ist ein dediziertes, handflächengroßes 5G-Hardwaregerät, das speziell dafür gebaut wurde, unterwegs mit deinem Muse-Agenten zu interagieren.",
+  "ro": "Ce este? Muse Charm este un dispozitiv hardware 5G dedicat, cât palma, construit special pentru a interacționa din mers cu agentul tău Muse."
+ },
+ {
+  "de": "Und das passt direkt an deinen Schlüsselanhänger, sodass du eine direkte Sprachverbindung zu deinem Agenten hast, ohne das Handy herauszuziehen.",
+  "ro": "Și se potrivește direct la breloc, astfel încât ai o conexiune vocală directă cu agentul tău, fără să scoți telefonul."
+ },
+ {
+  "de": "Gleichzeitig gibt es, wie gesagt, neue VR-Glasses, den Muse Agent, den wir jetzt alle natürlich schon kennen, Audio-Glasses, Gen 3 und Ray-Ban Meta Gen 3.",
+  "ro": "În același timp există, cum am spus, ochelari VR noi, Muse Agent, pe care acum, desigur, îl cunoaștem cu toții, ochelari audio, Gen 3 și Ray-Ban Meta Gen 3."
+ },
+ {
+  "de": "Also ein großes Comeback hier tatsächlich von Meta.",
+  "ro": "Deci un mare comeback din partea Meta."
+ },
+ {
+  "de": "Und was passiert grundsätzlich zwischen den USA und China?",
+  "ro": "Și ce se întâmplă, în general, între SUA și China?"
+ },
+ {
+  "de": "Der abschließende Blick noch mal darauf: Diese Woche hat das Treffen zwischen Trump und Xi stattgefunden, und gleichzeitig sagen beide Staaten jetzt: Nein, eine Verlangsamung wird es nicht geben.",
+  "ro": "Privirea finală asupra acestui subiect: săptămâna aceasta a avut loc întâlnirea dintre Trump și Xi, iar în același timp ambele state spun acum: nu, nu va exista nicio încetinire."
+ },
+ {
+  "de": "Das ist auch völlig verständlich mit Hinblick auf das, was zum Beispiel der Huawei-Vorstand gesagt hat: Wir müssen erst mal weiter beschleunigen in China.",
+  "ro": "Este și complet de înțeles în lumina a ceea ce a spus, de exemplu, conducerea Huawei: trebuie să accelerăm în continuare în China."
+ },
+ {
+  "de": "Wir sind die Nummer zwei. Wir sehen diese Sicherheitsrisiken, über die gesprochen wird, überhaupt gar nicht, und demnach müssen wir hier erst mal weiter beschleunigen.",
+  "ro": "Suntem pe locul doi. Nu vedem deloc aceste riscuri de securitate despre care se vorbește și, prin urmare, trebuie să accelerăm în continuare."
+ },
+ {
+  "de": "Und genauso sieht das auch Donald Trump, und deswegen ist von einer Durchsetzung des Pause-Frontiers nicht auszugehen, glücklicherweise, wie man tatsächlich sagen muss.",
+  "ro": "Și exact la fel vede lucrurile și Donald Trump, motiv pentru care nu se poate presupune că „pauza” dezvoltării modelelor de frontieră va fi impusă, din fericire, trebuie spus."
+ },
+ {
+  "de": "Und künstliche Intelligenz wurde jetzt auch umbenannt, und zwar in Superintelligenz.",
+  "ro": "Iar inteligența artificială a fost acum și redenumită, și anume în superinteligență."
+ },
+ {
+  "de": "Das ist jetzt die neue Benennungsnorm, nach der man in den USA arbeiten möchte.",
+  "ro": "Aceasta este acum noua normă de denumire după care se dorește să se lucreze în SUA."
+ },
+ {
+  "de": "Und angeblich hätte Xi dem auch zugestimmt, weil es entsprechend super wäre, KI Superintelligenz zu nennen.",
+  "ro": "Iar Xi ar fi fost, chipurile, de acord, pentru că ar fi grozav să fie numită IA „superinteligență”."
+ },
+ {
+  "de": "Und was macht die Königsfamilie in UK dahingehend?",
+  "ro": "Și ce face familia regală din Marea Britanie în această privință?"
+ },
+ {
+  "de": "Prinz Harry warnt erneut, und zwar groß: KI wird uns alle töten, und er fordert jetzt dringend breitflächige Regulierung.",
+  "ro": "Prințul Harry avertizează din nou, și încă pe față: IA ne va ucide pe toți, și cere acum urgent o reglementare pe scară largă."
+ },
+ {
+  "de": "Genauso wie auch Hillary Clinton, die sich aus meiner Sicht vollständig und brandgefährlich blamiert mit der Aussage, dass ein bis drei Leute mit Open-Weights-Modellen aus der Garage heraus große Gefahren für die Öffentlichkeit darstellen.",
+  "ro": "La fel și Hillary Clinton, care, din punctul meu de vedere, se face complet și periculos de rușine cu afirmația că una până la trei persoane cu modele Open Weights, dintr-un garaj, reprezintă pericole mari pentru public."
+ },
+ {
+  "de": "Und das ist natürlich völlig abstrus.",
+  "ro": "Iar asta este, desigur, complet absurd."
+ },
+ {
+  "de": "Ich erinnere hier immer gerne an die Spam-E-Mails, weil ich auch immer die Frage bekomme: Ja Leo, aber man sollte doch regulieren, oder?",
+  "ro": "Îmi place să amintesc aici mereu de e-mailurile spam, pentru că primesc mereu și întrebarea: da, Leo, dar totuși ar trebui reglementat, nu?"
+ },
+ {
+  "de": "Also ich sage ganz klar nein, Regulierung wird am Ende uns allen in unserer Freiheit schaden.",
+  "ro": "Eu spun foarte clar nu: reglementarea ne va dăuna în cele din urmă tuturor în libertatea noastră."
+ },
+ {
+  "de": "Es ist ja immer die Frage: gut mit Hinblick auf welches Ziel?",
+  "ro": "Întrebarea este mereu: bine în raport cu ce obiectiv?"
+ },
+ {
+  "de": "Auf welches Ziel zahlen Regulierung oder eben keine Regulierung ein?",
+  "ro": "La ce obiectiv contribuie reglementarea sau, dimpotrivă, lipsa reglementării?"
+ },
+ {
+  "de": "Wenn wir alle Zugriff auf Frontier-Open-Weights-Modelle haben, dann fördert das die Freiheit jedes Einzelnen und die wirtschaftliche Relevanz jedes Einzelnen.",
+  "ro": "Dacă toți avem acces la modele Open Weights de frontieră, asta încurajează libertatea fiecărui individ și relevanța economică a fiecărui individ."
+ },
+ {
+  "de": "Und mit Hinblick auf dieses Ziel, das ich ganz klar befürworte, ist es nicht gut, Open-Weights-Modelle zu regulieren.",
+  "ro": "Iar în raport cu acest obiectiv, pe care îl susțin foarte clar, nu este bine ca modelele Open Weights să fie reglementate."
+ },
+ {
+  "de": "Da bekomme ich natürlich trotzdem berechtigterweise immer die Frage: Ja, aber Sicherheitsrisiken, Cyberangriffe, die sind ja da, die kann man jetzt auch nicht kleinreden.",
+  "ro": "Primesc totuși, desigur, pe bună dreptate, mereu întrebarea: da, dar riscurile de securitate, atacurile cibernetice, există, nu poți să le minimalizezi."
+ },
+ {
+  "de": "Was ist denn die beste Strategie? Und die Antwort liegt ja auf der Hand.",
+  "ro": "Care este atunci cea mai bună strategie? Iar răspunsul este la îndemână."
+ },
+ {
+  "de": "Die hat der Hugging-Face-CEO jetzt auch noch mal erneut bestätigt und unterschrieben.",
+  "ro": "CEO-ul Hugging Face a confirmat-o și a semnat-o acum încă o dată."
+ },
+ {
+  "de": "Was hat denn im Hugging-Face-Vorfall letztendlich Hugging Face dabei geholfen, den Schaden einzudämmen und sich zu verteidigen?",
+  "ro": "Ce a ajutat, de fapt, Hugging Face în incidentul de la Hugging Face să limiteze pagubele și să se apere?"
+ },
+ {
+  "de": "Open-Weights-Modelle, weil sie Zugriff auf GLM-Modelle hatten, die sie auf eigenen Servern gehostet haben.",
+  "ro": "Modelele Open Weights, pentru că aveau acces la modele GLM pe care le găzduiau pe servere proprii."
+ },
+ {
+  "de": "Und ich erinnere hier immer gerne an E-Mails: Was war denn in den 2000ern los?",
+  "ro": "Și îmi place să amintesc mereu de e-mailuri: ce se întâmpla în anii 2000?"
+ },
+ {
+  "de": "Da gab es ja auch riesige Aufstände bezüglich Spam-Mails.",
+  "ro": "Atunci au existat, de asemenea, mari revolte legate de e-mailurile spam."
+ },
+ {
+  "de": "80 bis 90 % der gesamten E-Mails waren Spam, und das Geschrei nach Regulierung war groß.",
+  "ro": "80 până la 90 % din toate e-mailurile erau spam, iar strigătele după reglementare erau puternice."
+ },
+ {
+  "de": "Der Gesetzgeber muss sich einschalten, damit E-Mails reguliert werden.",
+  "ro": "Legiuitorul trebuie să intervină, ca e-mailurile să fie reglementate."
+ },
+ {
+  "de": "Das hat man dann sogar auch gemacht: 2004 gab es dann Gesetze, die aber alle gar nichts gebracht haben, außer Bürokratie und einer riesigen Verschwendung von Steuergeldern.",
+  "ro": "Chiar s-a și făcut asta: în 2004 au apărut legi care însă nu au adus absolut nimic, în afară de birocrație și o risipă uriașă de bani publici."
+ },
+ {
+  "de": "Was letztendlich dabei geholfen hat, Spam einzudämmen, waren offene Standards: DKIM, DMARC, SPF und letztlich Gmail.",
+  "ro": "Ceea ce a ajutat în cele din urmă la limitarea spamului au fost standardele deschise: DKIM, DMARC, SPF și, în cele din urmă, Gmail."
+ },
+ {
+  "de": "Das hat letztendlich dabei geholfen, und genauso ist es auch bei KI-Risiken.",
+  "ro": "Asta a ajutat în final, și exact la fel este și în cazul riscurilor IA."
+ },
+ {
+  "de": "Die beste Antwort auf KI-Risiken sind offene Modelle und sich mit Modellen zu verteidigen.",
+  "ro": "Cel mai bun răspuns la riscurile IA sunt modelele deschise și apărarea cu ajutorul modelelor."
+ },
+ {
+  "de": "Also Defensive Scaling und eben nicht staatliche Regulierung.",
+  "ro": "Deci scalare defensivă și nu reglementare de stat."
+ },
+ {
+  "de": "Was ist deine Meinung zu alledem? Lass mich das gerne mal in den Kommentaren wissen.",
+  "ro": "Care este părerea ta despre toate acestea? Spune-mi-o cu plăcere în comentarii."
+ },
+ {
+  "de": "Und wenn du mehr darüber erfahren möchtest, also wie du selbst lokale KI einsetzen kannst, dann schau mal gerne in dieses Video.",
+  "ro": "Iar dacă vrei să afli mai multe despre asta, adică despre cum poți folosi tu însuți IA locală, atunci uită-te cu plăcere la acest videoclip."
+ },
+ {
+  "de": "Da habe ich das nämlich von A bis Z in der Praxis erklärt.",
+  "ro": "Acolo am explicat totul de la A la Z, în practică."
+ },
+ {
+  "de": "Und wenn du jetzt noch mal übergeordnet auf diese ganze Entwicklung schauen möchtest, wie das im Jahr 2035 ausgehen könnte, dann schau mal in dieses neue Video hier rein.",
+  "ro": "Iar dacă vrei acum să privești încă o dată, la nivel mai general, toată această evoluție și cum ar putea să se sfârșească în anul 2035, atunci uită-te la acest nou videoclip."
+ },
+ {
+  "de": "Dort zeige ich dir fünf ganz konkrete Szenarien von der UN, wie KI im Jahr 2035 enden könnte.",
+  "ro": "Acolo îți arăt cinci scenarii foarte concrete de la ONU despre cum ar putea ajunge IA în anul 2035."
+ },
+ {
+  "de": "Wir sehen uns dann nächste Woche hier aus San Francisco schon direkt wieder vom OpenAI Developer Day.",
+  "ro": "Ne vedem deci săptămâna viitoare, aici din San Francisco, direct de la OpenAI Developer Day."
+ }
+]

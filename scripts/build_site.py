@@ -56,11 +56,11 @@ PAGE_TEMPLATE = """<!doctype html>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
     <div style="padding: 1rem; background: var(--card); border: 1px solid var(--border); border-radius: 8px;">
       <h3 style="margin-top: 0; color: var(--accent); font-size: 1rem;">Deutsch</h3>
-      <p style="line-height: 1.6; font-size: 0.95rem;">{summary_de}</p>
+      <p style="line-height: 1.6; font-size: 0.95rem; white-space: pre-line;">{summary_de}</p>
     </div>
     <div style="padding: 1rem; background: var(--card); border: 1px solid var(--border); border-radius: 8px;">
       <h3 style="margin-top: 0; color: var(--accent); font-size: 1rem;">Română</h3>
-      <p style="line-height: 1.6; font-size: 0.95rem;">{summary_ro}</p>
+      <p style="line-height: 1.6; font-size: 0.95rem; white-space: pre-line;">{summary_ro}</p>
     </div>
   </div>
 
