@@ -143,12 +143,13 @@ def language_label(meta):
     return base
 
 
-def generate_sidebar_nav(entries, current_video_id=None):
+def generate_sidebar_nav(entries, current_video_id=None, from_videos_page=False):
     """Generate sidebar navigation HTML from entries.
 
     Args:
         entries: List of video metadata dicts
         current_video_id: If set, mark this video as active
+        from_videos_page: If True, use relative paths for videos/ directory
     """
     html_parts = []
     by_topic = {t: [] for t in TOPIC_ORDER}
@@ -165,7 +166,8 @@ def generate_sidebar_nav(entries, current_video_id=None):
             vid_id = entry["video_id"]
             title = entry["title"][:40] + "..." if len(entry["title"]) > 40 else entry["title"]
             active = ' class="active"' if vid_id == current_video_id else ""
-            html_parts.append(f'      <a href="videos/{vid_id}.html"{active}>{html.escape(title)}</a>')
+            link = f"{vid_id}.html" if from_videos_page else f"videos/{vid_id}.html"
+            html_parts.append(f'      <a href="{link}"{active}>{html.escape(title)}</a>')
         html_parts.append('    </div>')
 
     for topic, videos in by_topic.items():
@@ -176,7 +178,8 @@ def generate_sidebar_nav(entries, current_video_id=None):
             vid_id = entry["video_id"]
             title = entry["title"][:40] + "..." if len(entry["title"]) > 40 else entry["title"]
             active = ' class="active"' if vid_id == current_video_id else ""
-            html_parts.append(f'      <a href="videos/{vid_id}.html"{active}>{html.escape(title)}</a>')
+            link = f"{vid_id}.html" if from_videos_page else f"videos/{vid_id}.html"
+            html_parts.append(f'      <a href="{link}"{active}>{html.escape(title)}</a>')
         html_parts.append('    </div>')
 
     return "\n".join(html_parts)
@@ -214,7 +217,7 @@ def build(source_dir: Path):
             for s in sentences
         )
 
-        sidebar_nav = generate_sidebar_nav(entries, current_video_id=video_id)
+        sidebar_nav = generate_sidebar_nav(entries, current_video_id=video_id, from_videos_page=True)
 
         page = PAGE_TEMPLATE.format(
             title=title,
