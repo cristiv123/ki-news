@@ -48,6 +48,9 @@ PAGE_TEMPLATE = """<!doctype html>
     <span class="badge">{sentence_count} propoziții</span>
   </p>
   <img class="thumb" src="https://img.youtube.com/vi/{video_id}/hqdefault.jpg" alt="">
+  <p style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border);">
+    <a href="../{docx_filename}" style="color: var(--accent); text-decoration: none; font-weight: 600;">⬇ Descarcă transcript Word (DE/RO)</a>
+  </p>
   <table class="sentence-table">
     <thead><tr><th>Deutsch</th><th>Română</th></tr></thead>
     <tbody>
@@ -138,6 +141,7 @@ def build(source_dir: Path):
     for meta in entries:
         video_id = meta["video_id"]
         title = html.escape(meta["title"])
+        docx_filename = html.escape(f"{title.replace(' — ki-news', '')}.docx")
         topic = meta.get("topic", "other")
         topic_label = html.escape(TOPIC_LABELS.get(topic, topic))
         lang_label = html.escape(language_label(meta))
@@ -160,6 +164,7 @@ def build(source_dir: Path):
             subtitle_type_label=subtitle_type_label,
             sentence_count=len(sentences),
             video_id=html.escape(video_id),
+            docx_filename=docx_filename,
             rows=rows,
         )
         (VIDEOS_DIR / f"{video_id}.html").write_text(page, encoding="utf-8")
